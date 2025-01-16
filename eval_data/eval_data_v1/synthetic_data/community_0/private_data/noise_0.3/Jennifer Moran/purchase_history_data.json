@@ -1,0 +1,180 @@
+{
+    "Name": "Jennifer Moran",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/15/08:47 AM",
+            "purchase_history": [
+                {
+                    "title": "Yamaha YFL-222 Intermediate Flute",
+                    "description": "Featuring a silver-plated nickel silver body and footjoint, this flute is perfect for aspiring musicians and a standard instrument for school bands.",
+                    "brand": "Yamaha",
+                    "categories": [
+                        "Music Instruments",
+                        "Flutes",
+                        "Woodwind Instruments"
+                    ]
+                },
+                {
+                    "title": "Hercules Stands DS533BB Flute/Clarinet Stand",
+                    "description": "A durable and stable stand that holds both a flute and a clarinet, perfect for practice sessions at home or performances.",
+                    "brand": "Hercules Stands",
+                    "categories": [
+                        "Music Accessories",
+                        "Instrument Stands",
+                        "Flute Stands"
+                    ]
+                },
+                {
+                    "title": "Accent on Achievement, Book 1: Flute (Book & CD)",
+                    "description": "An excellent book series for beginner flute players that focuses on developing key skills and techniques with accompanying audio tracks.",
+                    "brand": "Alfred Music",
+                    "categories": [
+                        "Books",
+                        "Music Books",
+                        "Flute Training Materials"
+                    ]
+                }
+            ],
+            "segment_id": "000000000007"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Oct/31/08:25 AM",
+            "purchase_history": [
+                {
+                    "title": "Moleskine Classic Notebook, Hard Cover, Large (5 x 8.25), Ruled",
+                    "description": "This legendary notebook, used by artistic and literary greats, features an elastic closure for secure note-taking and a durable hard cover perfect for attending lectures.",
+                    "brand": "Moleskine",
+                    "categories": [
+                        "Office Supplies",
+                        "Notebooks",
+                        "Writing Supplies"
+                    ]
+                },
+                {
+                    "title": "Sharpie Fine Point Permanent Markers, Assorted Colors",
+                    "description": "Offering rich, long-lasting color, these reliable markers are great for highlighting key points while attending lectures or jotting down notes.",
+                    "brand": "Sharpie",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing Instruments",
+                        "Markers & Highlighters"
+                    ]
+                },
+                {
+                    "title": "Kindle Paperwhite \u2013 Water-safe Fabric Cover",
+                    "description": "A highly portable e-reader with a high-resolution display, perfect for reading academic texts or taking notes during lectures.",
+                    "brand": "Amazon",
+                    "categories": [
+                        "Electronics",
+                        "E-Readers",
+                        "Tablets & Accessories"
+                    ]
+                }
+            ],
+            "segment_id": "000000000088"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Oct/31/07:17 PM",
+            "purchase_history": [
+                {
+                    "title": "Bounty Select-A-Size Paper Towels, White, 12 Huge Rolls",
+                    "description": "Bounty Select-A-Size Paper Towels are designed with unique Trap & Lock Technology, great for quickly cleaning up messy spills around the kitchen or home.",
+                    "brand": "Bounty",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Supplies",
+                        "Paper Towels"
+                    ]
+                },
+                {
+                    "title": "Scotch-Brite Non-Scratch Scrub Sponges, 6 Count",
+                    "description": "These non-scratch scrub sponges clean powerfully and won\u2019t scratch your cookware or countertops. Use them for everyday cleaning tasks such as dishes and surfaces.",
+                    "brand": "Scotch-Brite",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Tools",
+                        "Sponges"
+                    ]
+                }
+            ],
+            "segment_id": "000000000091"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Nov/08/05:54 PM",
+            "purchase_history": [
+                {
+                    "title": "Tide Pods Laundry Detergent Soap Pacs, Spring Meadow Scent, 81 Count",
+                    "description": "Experience a tidy and fresh laundry with Tide Pods, which contain 90% cleaning ingredients to ensure a brilliant clean. They are compatible with both standard and HE machines, making laundry day simple.",
+                    "brand": "Tide",
+                    "categories": [
+                        "Household Supplies",
+                        "Laundry",
+                        "Laundry Detergent"
+                    ]
+                },
+                {
+                    "title": "Bic Round Stic Xtra Life Ballpoint Pen, Medium Point (1.0mm), Black, 12-Count",
+                    "description": "Bic\u2019s classic, smooth-writing pen is appreciated for its comfortable grip and lasting ink. Ideal for offices, classrooms, and households, ensuring you always have a pen on hand.",
+                    "brand": "Bic",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing Instruments",
+                        "Pens"
+                    ]
+                },
+                {
+                    "title": "Ziploc Storage Bags with New Grip 'n Seal Technology, For Food, Sandwich, Lunch, Medium Size, 90 Count",
+                    "description": "Ziploc Storage Bags offer reliable closure and are ideal for storing snacks, sandwiches, or leftovers. With Grip 'n Seal technology, your food stays fresh and easy to access.",
+                    "brand": "Ziploc",
+                    "categories": [
+                        "Household Supplies",
+                        "Food Storage & Organization",
+                        "Food Storage Bags"
+                    ]
+                }
+            ],
+            "segment_id": "000000000135"
+        },
+        {
+            "session": "purchase_history---session---5",
+            "time": "2024/Nov/12/12:09 PM",
+            "purchase_history": [
+                {
+                    "title": "Kleenex Ultra Soft Facial Tissues, 3 Flat Boxes",
+                    "description": "These Kleenex tissues are luxuriously soft and absorbent, perfect for everyday use during cold and flu season or for allergy sufferers.",
+                    "brand": "Kleenex",
+                    "categories": [
+                        "Household Supplies",
+                        "Health & Personal Care",
+                        "Facial Tissues"
+                    ]
+                },
+                {
+                    "title": "3M Command Small Wire Hooks, 16 Hooks, 24 Strips",
+                    "description": "Command Small Wire Hooks are perfect for organizing your home or office while keeping your walls damage-free with easy-to-use adhesive strips.",
+                    "brand": "3M",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Storage & Organization",
+                        "Hooks"
+                    ]
+                },
+                {
+                    "title": "Pilot G2 Gel Ink Pens, Fine Point (0.7mm), Black Ink, 12-Pack",
+                    "description": "Pilot G2 pens offer consistent, smooth writing with long-lasting gel ink. These fine-point pens are ideal for note-taking or everyday writing tasks.",
+                    "brand": "Pilot",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing Instruments",
+                        "Pens"
+                    ]
+                }
+            ],
+            "segment_id": "000000000152"
+        }
+    ]
+}

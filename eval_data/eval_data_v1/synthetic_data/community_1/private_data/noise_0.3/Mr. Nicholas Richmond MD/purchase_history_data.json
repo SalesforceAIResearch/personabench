@@ -1,0 +1,209 @@
+{
+    "Name": "Mr. Nicholas Richmond MD",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/14/12:57 PM",
+            "purchase_history": [
+                {
+                    "title": "Kleenex Ultra Soft Facial Tissues, 3-Ply, 120 Tissues per Box, 3 Pack",
+                    "description": "Kleenex Ultra Soft Facial Tissues are perfect for everyday needs. Gentle on skin and durable, these 3-ply tissues provide soothing comfort for your skin. Ideal for face care, they're an essential in any household to manage everyday sniffles, sneezes, and small spills.",
+                    "brand": "Kleenex",
+                    "categories": [
+                        "Household",
+                        "Health & Personal Care",
+                        "Tissues"
+                    ]
+                },
+                {
+                    "title": "Scotch Magic Tape, 3/4 x 1000 Inches, Boxed, 10 Rolls",
+                    "description": "Scotch Magic Tape is the preferred tape for offices, homes, and schools. Write on it with pen, pencil or marker. The matte finish disappears on most papers, making it ideal for copies. This pack of 10 ensures you always have tape on hand for repairs, labeling, and other general tasks.",
+                    "brand": "Scotch",
+                    "categories": [
+                        "Office Supplies",
+                        "Adhesives",
+                        "Tapes"
+                    ]
+                },
+                {
+                    "title": "Method All-Purpose Cleaner, French Lavender, 28 oz Spray Bottle",
+                    "description": "Method's all-purpose cleaner with a pleasant French lavender scent cuts through grease and grime on just about any surface. This naturally derived formula has biodegradable cleaners that work beautifully. The non-toxic, all-purpose cleaner is tough on dirt and spills but gentle for your home.",
+                    "brand": "Method",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Surface Cleaners"
+                    ]
+                },
+                {
+                    "title": "BIC Round Stic Xtra Life Ballpoint Pen, Medium Point, 12-Pack, Black",
+                    "description": "BIC Round Stic Xtra Life Pens offer reliable writing performance. With a medium 1.0mm point, this ballpoint pen writes first time, every time. It's designed for long-lasting dependability and smooth writing, making it perfect for everyday use.",
+                    "brand": "BIC",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Pens"
+                    ]
+                }
+            ],
+            "segment_id": "001002000001"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Oct/17/07:35 AM",
+            "purchase_history": [
+                {
+                    "title": "The Pursuit of Happyness: A Memoir of Triumph by Chris Gardner",
+                    "description": "The inspirational memoir that inspired the movie starring Will Smith, The Pursuit of Happyness recounts Chris Gardner's journey from homelessness to Wall Street success. This compelling story is a testament to hope and tenacity.",
+                    "brand": "Amistad",
+                    "categories": [
+                        "Books",
+                        "Biographies & Memoirs",
+                        "Inspiration & Personal Growth"
+                    ]
+                },
+                {
+                    "title": "The Pursuit of Happyness DVD",
+                    "description": "Experience the heartfelt journey of Chris Gardner, played by Will Smith, in this acclaimed film adaptation. It's a poignant story of overcoming obstacles and believing in one's dreams.",
+                    "brand": "Sony Pictures",
+                    "categories": [
+                        "Movies & TV",
+                        "Drama"
+                    ]
+                },
+                {
+                    "title": "Inspirational Quote Poster - 'Keep Pursuing Your Dreams'",
+                    "description": "Featuring an uplifting quote inspired by The Pursuit of Happyness, this poster is an ideal decoration for home or office walls, reminding you to keep moving forward in the pursuit of success.",
+                    "brand": "Motivational D\u00e9cor",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Artwork",
+                        "Posters & Prints"
+                    ]
+                }
+            ],
+            "segment_id": "001002000011"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Oct/30/01:10 PM",
+            "purchase_history": [
+                {
+                    "title": "Charmin Ultra Soft Toilet Paper, 18 Family Mega Rolls",
+                    "description": "Charmin Ultra Soft is our softest toilet paper ever so it is harder than ever to resist! It\u2019s 2-ply, septic-safe, and designed to be clog-safe for well-maintained plumbing systems. Ultra Soft has a unique, cushiony touch that's incredibly soft and you can use less than the leading bargain brand.",
+                    "brand": "Charmin",
+                    "categories": [
+                        "Household",
+                        "Paper Products",
+                        "Toilet Paper"
+                    ]
+                },
+                {
+                    "title": "Windex Glass Cleaner, Original Blue, 23 fl oz Trigger Spray Bottle",
+                    "description": "Windex Glass Cleaner with Ammonia-D is America's #1 glass cleaner. Trusted for generations, it starts working on dirt, grime, fingerprints and other messes even before you wipe. Its patented ingredient Ammonia-D leaves glass surfaces sparkling clean with no dust particles or streaks.",
+                    "brand": "Windex",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Glass Cleaners"
+                    ]
+                },
+                {
+                    "title": "3M Command Small White Hooks, Value Pack, 16 hooks, 24 Strips",
+                    "description": "3M Command Small Hooks are quick and easy to hang and are strong and versatile, holding a surprising amount of weight up to half a pound! Forget about nails, screws and tacks, Command Hooks are fast and easy to hang! You can easily remove the hooks leaving no holes, marks, sticky residue, or stains.",
+                    "brand": "3M",
+                    "categories": [
+                        "Home Improvement",
+                        "Hardware",
+                        "Hooks & Hangers"
+                    ]
+                }
+            ],
+            "segment_id": "001002000072"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Nov/10/04:13 PM",
+            "purchase_history": [
+                {
+                    "title": "Bounty Quick-Size Paper Towels, 16 Family Rolls",
+                    "description": "Bounty Quick-Size Paper Towels are 2X more absorbent* so you can use less. This pack contains 16 Family Rolls of Bounty White Quick Size Paper Towels, which are designed for a wide range of cleaning needs. Tackle even the toughest cleaning jobs with ease.",
+                    "brand": "Bounty",
+                    "categories": [
+                        "Household",
+                        "Paper Products",
+                        "Paper Towels"
+                    ]
+                },
+                {
+                    "title": "Command Large Picture Hanging Strips, 14 pairs",
+                    "description": "Command Large Picture Hanging Strips let you mount pictures to your walls without nails or tools. Great for framed photos, objects or artwork, each set of strips holds up to 16lbs. Easy to apply and remove, leaving no holes, marks or sticky residue.",
+                    "brand": "3M",
+                    "categories": [
+                        "Home Improvement",
+                        "Hardware",
+                        "Hooks & Hangers"
+                    ]
+                },
+                {
+                    "title": "Post-it Super Sticky Notes, 3x3 Inch, Miami Collection, 15 Pads",
+                    "description": "Post-it Super Sticky Notes have 2X the sticking power, making them perfect for vertical surfaces like walls, doors and more. With their vibrant color, the Miami Collection brings a pop of color to your reminders and messages.",
+                    "brand": "Post-it",
+                    "categories": [
+                        "Office Supplies",
+                        "Paper",
+                        "Sticky Notes"
+                    ]
+                }
+            ],
+            "segment_id": "001002000121"
+        },
+        {
+            "session": "purchase_history---session---5",
+            "time": "2024/Nov/11/06:41 PM",
+            "purchase_history": [
+                {
+                    "title": "Lysol Disinfectant Spray, Crisp Linen Scent, 19 oz",
+                    "description": "Lysol Disinfectant Spray kills 99.9% of viruses and bacteria, making it a trusted choice for household cleaning. The crisp linen scent leaves your home smelling fresh and clean. Suitable for hard and soft surfaces alike.",
+                    "brand": "Lysol",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Disinfectants"
+                    ]
+                },
+                {
+                    "title": "Duracell CopperTop AA Alkaline Batteries, 24 Count",
+                    "description": "Duracell CopperTop AA Alkaline Batteries provide dependable, long-lasting power for your everyday devices. Perfect for flashlights, remote controls, clocks, and more.",
+                    "brand": "Duracell",
+                    "categories": [
+                        "Electronics",
+                        "Accessories & Supplies",
+                        "Batteries"
+                    ]
+                },
+                {
+                    "title": "Ziploc Storage Bags with Grip 'n Seal Technology, Gallon, 75 Count",
+                    "description": "Ziploc Storage Bags provide secure storage for a variety of items. The Grip 'n Seal technology offers a double seal for protecting food and other valuables from moisture and contaminants.",
+                    "brand": "Ziploc",
+                    "categories": [
+                        "Kitchen & Dining",
+                        "Storage & Organization",
+                        "Food Storage"
+                    ]
+                },
+                {
+                    "title": "Tide PODS Laundry Detergent Soap Pods, Spring Meadow, 81 Count",
+                    "description": "Tide PODS Laundry Detergent packs an innovative 3-in-1 solution that includes detergent, stain remover, and color protector. With a refreshing Spring Meadow scent, these pods make laundry easy and efficient.",
+                    "brand": "Tide",
+                    "categories": [
+                        "Household",
+                        "Laundry",
+                        "Detergents"
+                    ]
+                }
+            ],
+            "segment_id": "001002000125"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "Name": "Mr. Nicholas Richmond MD",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Nov/06/06:17 PM",
+            "purchase_history": [
+                {
+                    "title": "Hidden Figures - Blu-ray",
+                    "description": "Watch the inspiring story of a group of African-American women mathematicians working at NASA, pivotal to the success of the first space missions.",
+                    "brand": "20th Century Studios",
+                    "categories": [
+                        "Movies & TV",
+                        "DVD & Blu-ray"
+                    ]
+                },
+                {
+                    "title": "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+                    "description": "Dive deeper into the fascinating story that inspired the movie with this detailed account of the African-American mathematicians who worked behind the scenes at NASA.",
+                    "brand": "HarperCollins",
+                    "categories": [
+                        "Books",
+                        "History",
+                        "Science & Math"
+                    ]
+                },
+                {
+                    "title": "Women of NASA LEGO Set",
+                    "description": "Build and explore the women of NASA with this LEGO set, celebrating their roles in space exploration and science.",
+                    "brand": "LEGO",
+                    "categories": [
+                        "Toys & Games",
+                        "Building Sets"
+                    ]
+                }
+            ],
+            "segment_id": "001002000064"
+        }
+    ]
+}

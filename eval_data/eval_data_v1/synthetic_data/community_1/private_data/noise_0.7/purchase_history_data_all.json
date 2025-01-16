@@ -1,0 +1,3036 @@
+[
+    {
+        "Name": "Kelly Simon",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/17/01:16 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Quick-Size Paper Towels, 12 Family Rolls",
+                        "description": "Bounty Quick-Size Paper Towels are more absorbent, so you can use less to tackle any mess. The Quick-Size rolls allow you to choose your sheet size based on your clean up need, which helps reduce waste.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper & Plastic",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Scotch Magic Tape, 6 Rolls, 3/4 x 1000 Inches, Boxed",
+                        "description": "The original matte finish, invisible tape preferred by homes, schools, and offices. It's the ideal invisible tape for mending, splicing, and many other permanent applications.",
+                        "brand": "Scotch",
+                        "categories": [
+                            "Office Products",
+                            "Tape, Adhesives & Fasteners",
+                            "Office Tape"
+                        ]
+                    },
+                    {
+                        "title": "Windex Glass Cleaner Trigger Bottle, 32 fl oz",
+                        "description": "Windex Original Glass Cleaner starts working on dirt, grime, fingerprints, and other messes even before you wipe. Perfect for cleaning glass, windows, and more.",
+                        "brand": "Windex",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Glass Cleaners"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000039"
+            },
+            {
+                "session": "purchase_history---session---2",
+                "time": "2024/Oct/20/06:20 PM",
+                "purchase_history": [
+                    {
+                        "title": "Kleenex Ultra Soft Facial Tissues, 3 Flat Boxes, 120 Tissues per Box",
+                        "description": "Kleenex Ultra Soft Tissues are the perfect balance of softness and strength. Each tissue is ultra soft, providing a comforting touch that suits your daily needs, whether it's for a runny nose or for catching sneezes.",
+                        "brand": "Kleenex",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Household Supplies",
+                            "Facial Tissue"
+                        ]
+                    },
+                    {
+                        "title": "Cascade Complete ActionPacs Dishwasher Detergent, Fresh Scent, 78 Count",
+                        "description": "Cascade Complete ActionPacs dishwasher detergent powers away stuck-on messes, for clean dishes you can count on. Combining the power of Cascade\u2019s best clean with the purity of the rinse, these packs make doing dishes easy.",
+                        "brand": "Cascade",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Dishwasher Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Duracell Coppertop AA Alkaline Batteries, 24 Count",
+                        "description": "Duracell Coppertop AA batteries are engineered to provide reliable power for devices used most often. These batteries deliver long-lasting power for the devices you use every day.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Batteries",
+                            "AA Batteries"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000073"
+            },
+            {
+                "session": "purchase_history---session---3",
+                "time": "2024/Oct/21/11:02 AM",
+                "purchase_history": [
+                    {
+                        "title": "Swiffer Sweeper Dry + Wet All Purpose Floor Mopping and Cleaning Starter Kit",
+                        "description": "Swiffer Sweeper Floor Mop is designed for use on multiple floor types and designed to trap and lock dirt, dust, and hair with ease. The starter kit includes 4 dry refills and 3 wet refills to help you get started with convenient cleaning.",
+                        "brand": "Swiffer",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Floor Sweepers & Mops"
+                        ]
+                    },
+                    {
+                        "title": "Sharpie Permanent Markers, Fine Point, Black, 12 Count",
+                        "description": "Bold to the max and permanent to the core, Sharpie Permanent Markers inspire you to transform ordinary surfaces into passionately creative statements. These original permanent markers provide reliable, long-lasting results and are the industry standard for a reason.",
+                        "brand": "Sharpie",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Permanent Markers & Marker Pens"
+                        ]
+                    },
+                    {
+                        "title": "Hefty Ultra Strong Trash Bags, Lavender & Sweet Vanilla Scent, 13 Gallon, 80 Count",
+                        "description": "These Hefty Ultra Strong Trash Bags offer 6-in-1 protection with a convenient drawstring closure and a large capacity. The scented trash bags feature a lavender and sweet vanilla fragrance to help neutralize odors in your kitchen.",
+                        "brand": "Hefty",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Supplies",
+                            "Trash Bags"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000084"
+            },
+            {
+                "session": "purchase_history---session---4",
+                "time": "2024/Oct/22/07:55 AM",
+                "purchase_history": [
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes are perfect for quick and effective cleaning. These wipes kill 99.9% of viruses and bacteria and are safe to use on surfaces throughout your household.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Disinfectant Wipes"
+                        ]
+                    },
+                    {
+                        "title": "Tide Pods Laundry Detergent Pacs, Original Scent, 81 Count",
+                        "description": "Tide Pods offer a 3-in-1 laundry solution that cleans, brightens, and fights stains. Designed for both standard and high-efficiency washing machines, they dissolve quickly in water to tackle any laundry load.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Laundry Detergent"
+                        ]
+                    },
+                    {
+                        "title": "3M Command Hooks, Medium, 6 Hooks, 12 Strips",
+                        "description": "Hang your items securely without damaging walls with 3M Command Hooks. These hooks can hold up to 3 pounds and come off cleanly, making them a versatile solution for temporary or permanent hanging needs.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Home Storage & Organization",
+                            "Hooks"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000091"
+            },
+            {
+                "session": "purchase_history---session---5",
+                "time": "2024/Oct/23/12:03 PM",
+                "purchase_history": [
+                    {
+                        "title": "Ziploc Storage Bags with Grip 'n Seal Technology, Gallon, 75 Count",
+                        "description": "Ziploc Gallon Storage Bags are designed to keep food fresh and contain messes. Featuring Grip \u2018n Seal Technology, these bags lock in freshness but are easy to open and close, making them ideal for storing and organizing.",
+                        "brand": "Ziploc",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Organization Sets"
+                        ]
+                    },
+                    {
+                        "title": "Scotch-Brite Non-Scratch Scrub Sponges, 6 Count",
+                        "description": "Scotch-Brite Non-Scratch Scrub Sponges are designed to clean kitchen surfaces and cookware without scratching. These durable sponges are perfect for tackling everyday household messes.",
+                        "brand": "Scotch-Brite",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Sponges"
+                        ]
+                    },
+                    {
+                        "title": "BIC Round Stic Xtra Life Ballpoint Pen, Medium Point, Black, 12 Count",
+                        "description": "BIC Round Stic Xtra Life Ballpoint Pens offer a comfortable grip and smooth writing for everyday tasks. They are reliable and affordably priced, making them a staple for any home or office setting.",
+                        "brand": "BIC",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Simple Green All-Purpose Cleaner, 32 oz",
+                        "description": "Simple Green All-Purpose Cleaner is a powerful solution for tackling dirt, grime, and stains across many different surfaces. Non-toxic and biodegradable, it can be used both indoors and outdoors.",
+                        "brand": "Simple Green",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "All-Purpose Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "Rubbermaid Durable Plastic Food Storage Containers, 60 Piece Set",
+                        "description": "Rubbermaid Food Storage Containers are designed to keep food fresh while making storage and organization easy. Ideal for leftovers, meal prep, or snacks on-the-go.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Containers"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000100"
+            },
+            {
+                "session": "purchase_history---session---6",
+                "time": "2024/Oct/24/07:26 PM",
+                "purchase_history": [
+                    {
+                        "title": "Brita Large 10 Cup Water Filter Pitcher with 1 Standard Filter, Made Without BPA, Everyday Water Pitcher",
+                        "description": "The BPA-free Everyday Water Pitcher with standard filter provides great tasting water by reducing substances often found in tap water. The large, ten-cup capacity and easy-fill lid make this pitcher great for families.",
+                        "brand": "Brita",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Water Filtration & Softeners",
+                            "Water Filter Pitchers"
+                        ]
+                    },
+                    {
+                        "title": "Post-it Super Sticky Notes, 3x3 in, Energy Boost Collection, 5 Pads/Pack",
+                        "description": "Post-it Super Sticky Notes have 2X the sticking power of original Post-it Notes. They are perfect for a quick reminder or a note to yourself. Use for reminders on doors, windows, or walls.",
+                        "brand": "Post-it",
+                        "categories": [
+                            "Office Products",
+                            "Paper",
+                            "Memo & Scratch Pads"
+                        ]
+                    },
+                    {
+                        "title": "Dawn Ultra Dishwashing Liquid Dish Soap, Original Scent, 75 fl oz",
+                        "description": "Dawn Ultra Dishwashing Liquid has 3x more grease cleaning power per drop *vs. non-concentrated Dawn. Clean dishes with a pleasant Original scent and strong grease-fighting formula.",
+                        "brand": "Dawn",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Dish Soap"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000114"
+            },
+            {
+                "session": "purchase_history---session---7",
+                "time": "2024/Oct/27/09:57 AM",
+                "purchase_history": [
+                    {
+                        "title": "Mr. Clean Magic Eraser, Extra Durable Cleaning Pads, 4 Count",
+                        "description": "Mr. Clean Magic Eraser Extra Durable scrubber is 50% Stronger to Last Longer. It removes more grime per swipe than the leading all-purpose bleach spray cleaner and is safe on kitchen and bathroom surfaces, including walls, bathtubs and oven doors.",
+                        "brand": "Mr. Clean",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "All-Purpose Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "BIC Mechanical Pencil, Medium Point (0.7 mm), 10 Count",
+                        "description": "BIC Mechanical Pencils offer smooth writing and a comfortable grip. With a break-resistant #2 lead, these pencils are suitable for all standard tests and provide long-lasting writing for any office or school task.",
+                        "brand": "BIC",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Pencils"
+                        ]
+                    },
+                    {
+                        "title": "Rubbermaid Antimicrobial Sinkware Set, 4 Pieces, Red",
+                        "description": "The Rubbermaid Antimicrobial Sinkware Set includes a dish drainer, drain board, sponge caddy, and kitchen brush. Designed to inhibit the growth of bacteria, each item in this set is perfect for promoting a clean kitchen environment.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Kitchen & Dining",
+                            "Kitchen Utensils & Gadgets"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000136"
+            },
+            {
+                "session": "purchase_history---session---8",
+                "time": "2024/Oct/28/07:00 AM",
+                "purchase_history": [
+                    {
+                        "title": "Reynolds Wrap Aluminum Foil, 200 Square Feet",
+                        "description": "Reynolds Wrap Aluminum Foil is the perfect everyday food solution. Known for strength and durability, it's great for everything from baking to wrapping up leftovers for saving in the refrigerator.",
+                        "brand": "Reynolds",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Organization Sets"
+                        ]
+                    },
+                    {
+                        "title": "Command Picture Hanging Strips, White, 16 Pairs",
+                        "description": "Easy to use and remove without leaving holes, marks, or sticky residue. Holds strongly on a variety of indoor surfaces. Hang pictures and artwork without the need for nails or screws.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Home Storage & Organization",
+                            "Wall Hooks"
+                        ]
+                    },
+                    {
+                        "title": "Scott ComfortPlus Toilet Paper, 24 Mega Rolls",
+                        "description": "Scott ComfortPlus is 3X stronger for unbeatable comfort when compared to the leading bargain brand. The perfect combination of comfort and value, this toilet paper is designed to provide a superior clean.",
+                        "brand": "Scott",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Household Supplies",
+                            "Toilet Paper"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000148"
+            },
+            {
+                "session": "purchase_history---session---9",
+                "time": "2024/Oct/29/05:44 PM",
+                "purchase_history": [
+                    {
+                        "title": "Viva Signature Cloth Paper Towels, 8 Triple Rolls",
+                        "description": "Viva Signature Cloth Paper Towels are known for their cloth-like texture and superior absorbency. Ideal for kitchen and bathroom cleanup, these towels offer strength and flexibility for various cleaning tasks.",
+                        "brand": "Viva",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper & Plastic",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "3M 8210V Particulate Respirator N95 with Cool Flow Valve, 10 count",
+                        "description": "The 3M 8210V respirator is designed to help provide reliable respiratory protection against certain non-oil based particles. Featuring 3M's proprietary technology with a Cool Flow Valve, it enhances comfort by reducing heat build-up.",
+                        "brand": "3M",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Personal Protective Equipment",
+                            "Masks & Respirators"
+                        ]
+                    },
+                    {
+                        "title": "Pilot G2 Premium Gel Roller Pens, Fine Point, Black Ink, 12 Count",
+                        "description": "Pilot G2 pens offer smooth, long-lasting writing with a comfortable grip. These gel pens are ideal for all writing tasks, combining an aesthetic design with functionality.",
+                        "brand": "Pilot",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Pens"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000163"
+            },
+            {
+                "session": "purchase_history---session---10",
+                "time": "2024/Oct/29/08:55 PM",
+                "purchase_history": [
+                    {
+                        "title": "Glad Press'n Seal Plastic Food Wrap, 70 Square Feet",
+                        "description": "Glad Press'n Seal wraps tightly to any surface. Use it to wrap fruits, bowls, and dishes without the worry of spills or messes. This multi-use wrap keeps food fresh and secure, making it an essential for any kitchen.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Organization Sets"
+                        ]
+                    },
+                    {
+                        "title": "Lysol Disinfectant Spray, Crisp Linen Scent, 19 oz",
+                        "description": "Lysol Disinfectant Spray kills 99.9% of germs, viruses, and bacteria on commonly touched surfaces. The crisp linen scent leaves behind a pleasant fragrance as it sanitizes your surroundings.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Disinfectant Sprays"
+                        ]
+                    },
+                    {
+                        "title": "Ticonderoga Pre-Sharpened Wood-Cased #2 HB Pencils, Yellow, 24 Count",
+                        "description": "Ticonderoga pencils are made from high-quality wood and feature an exclusive graphite core formula for smooth writing. Pre-sharpened and ready to use, these iconic pencils are a favorite in classrooms and offices alike.",
+                        "brand": "Ticonderoga",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Pencils"
+                        ]
+                    },
+                    {
+                        "title": "O-Cedar EasyWring Microfiber Spin Mop and Bucket Floor Cleaning System",
+                        "description": "The O-Cedar EasyWring Spin Mop provides a simple cleaning solution for hard floors. The microfiber head effectively picks up dust and dirt, while the bucket's unique spin wringer removes excess water for optimal cleaning every time.",
+                        "brand": "O-Cedar",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Floor Sweepers & Mops"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000164"
+            },
+            {
+                "session": "purchase_history---session---11",
+                "time": "2024/Oct/30/04:10 PM",
+                "purchase_history": [
+                    {
+                        "title": "O-Cedar Dual-Action Dust Mop with Telescopic Handle",
+                        "description": "The O-Cedar Dual-Action Dust Mop features an adjustable handle and is designed to clean both hard flooring and ceilings, efficiently trapping dirt, dust, and hair.",
+                        "brand": "O-Cedar",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Floor Sweepers & Mops"
+                        ]
+                    },
+                    {
+                        "title": "Post-it Notes, 3 x 3 Inch, Canary Yellow, 5 Pads/Pack",
+                        "description": "Post-it Notes in classic Canary Yellow help ensure your messages are seen. With self-stick notes, you can quickly jot down reminders, ideas, or meeting notes and easily stick them to nearby surfaces.",
+                        "brand": "Post-it",
+                        "categories": [
+                            "Office Products",
+                            "Paper",
+                            "Memo & Scratch Pads"
+                        ]
+                    },
+                    {
+                        "title": "Glad Tall Kitchen Quick-Tie Trash Bags, 13 Gallon, 80 Bags",
+                        "description": "Glad Tall Kitchen Trash Bags with quick-tie closure make kitchen cleanup easy and dependable. The durable bags are perfect for containing everything from kitchen waste to recycling.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Supplies",
+                            "Trash Bags"
+                        ]
+                    },
+                    {
+                        "title": "Dixie Everyday Paper Plates, 10 Inch, 100 Count",
+                        "description": "These Dixie Everyday Paper Plates are strong and practical for everyday meals and snacks. They are microwave safe, cut resistant, and can handle even the messiest of dishes.",
+                        "brand": "Dixie",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Paper & Plastic",
+                            "Disposables"
+                        ]
+                    },
+                    {
+                        "title": "Energizer MAX AAA Alkaline Batteries, 24 Count",
+                        "description": "Energizer MAX batteries provide long-lasting, dependable power for all your everyday devices. These AAA batteries are perfect for remotes, toys, and more.",
+                        "brand": "Energizer",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Batteries",
+                            "AAA Batteries"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000172"
+            },
+            {
+                "session": "purchase_history---session---12",
+                "time": "2024/Oct/30/09:26 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Quick-Size Paper Towels, 16 Family Rolls",
+                        "description": "Bounty Quick-Size Paper Towels are twice as absorbent, so you can use fewer sheets compared to the leading ordinary brand. These strong, durable paper towels are perfect for tackling messes across your home.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper & Plastic",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Command Small Wire Hooks, 16 hooks, 24 strips",
+                        "description": "Command Small Wire Hooks are easy to apply and remove, holding strongly on a variety of surfaces without causing damage. Ideal for organizing and decorating, these hooks offer versatile solutions for small hanging needs.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Home Storage & Organization",
+                            "Hooks"
+                        ]
+                    },
+                    {
+                        "title": "Cascade Platinum Dishwasher Rinse Aid, 16 fl oz",
+                        "description": "Cascade Platinum Dishwasher Rinse Aid delivers an unbeatable drying action and helps protect dishes from spots and film. It ensures your dishes emerge from the dishwasher dry and shiny every time.",
+                        "brand": "Cascade",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Dishwashing Supplies"
+                        ]
+                    },
+                    {
+                        "title": "Elmer's Washable All Purpose School Glue Sticks, 12 Count",
+                        "description": "Elmer's Washable Glue Sticks are ideal for arts and crafts projects at home or in school. The glue goes on smooth and dries clear for reliable results, and it washes off hands and out of clothes easily.",
+                        "brand": "Elmer's",
+                        "categories": [
+                            "Office Products",
+                            "School Supplies",
+                            "Glue & Adhesives"
+                        ]
+                    },
+                    {
+                        "title": "Puffs Plus Lotion Facial Tissues, 4 Family Boxes, 124 Tissues per Box",
+                        "description": "Puffs Plus Lotion Facial Tissues provide soothing softness with a touch of lotion. Designed to protect your nose from ordinary tissue irritation, these tissues offer superior wet strength.",
+                        "brand": "Puffs",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Household Supplies",
+                            "Facial Tissue"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000178"
+            },
+            {
+                "session": "purchase_history---session---13",
+                "time": "2024/Oct/31/10:04 AM",
+                "purchase_history": [
+                    {
+                        "title": "Scott Bath Tissue, 1000 Sheets per Roll, 12 Rolls",
+                        "description": "Scott Bath Tissue is designed for long-lasting use with 1000 sheets per roll. Soft and absorbent, it provides a comforting clean. Suitable for all your bathroom needs.",
+                        "brand": "Scott",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Household Supplies",
+                            "Toilet Paper"
+                        ]
+                    },
+                    {
+                        "title": "Windex Glass Cleaner Trigger Bottle, Original Blue, 23 fl oz",
+                        "description": "Windex Glass Cleaner is trusted by many to remove fingerprints, smudges, and streaks to leave your windows looking crystal clear. The easy-to-use trigger bottle is perfect for fast clean-ups around the house.",
+                        "brand": "Windex",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Glass Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "Pilot Precise V5 RT Retractable Rolling Ball Pens, Black Ink, 3 Count",
+                        "description": "Pilot Precise V5 RT pens offer a sleek and professional writing experience. With a smooth rolling ball and retractable design, these pens are ideal for detailed writing tasks.",
+                        "brand": "Pilot",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Pens"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000181"
+            },
+            {
+                "session": "purchase_history---session---14",
+                "time": "2024/Nov/01/09:57 PM",
+                "purchase_history": [
+                    {
+                        "title": "Lysol Toilet Bowl Cleaner, Power & Fresh, 24 oz",
+                        "description": "Lysol Toilet Bowl Cleaner provides powerful cleaning, leaving your toilet bowl sparkling clean and pleasantly scented. The thick formula sticks to the bowl for better coverage and cleaning power.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Bathroom Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "Duracell CopperTop 9V Alkaline Batteries, 4 Count",
+                        "description": "Duracell 9V Batteries are engineered to deliver the lasting power and performance you can count on for electronic devices throughout the home or on-the-go.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Batteries",
+                            "9V Batteries"
+                        ]
+                    },
+                    {
+                        "title": "Rubbermaid LunchBlox Sandwich Kit, Green",
+                        "description": "Rubbermaid LunchBlox is designed to make taking lunch to school or work fun and simple. Perfect for carrying sandwiches, snacks, and sides, they help keep food separated and fresh.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Containers"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000198"
+            },
+            {
+                "session": "purchase_history---session---15",
+                "time": "2024/Nov/02/07:54 PM",
+                "purchase_history": [
+                    {
+                        "title": "Kleenex Ultra Soft Facial Tissues, 12 Boxes, 120 Tissues per Box",
+                        "description": "Kleenex Ultra Soft tissues offer exceptional softness and strength, perfect for everyday use. Ideal for sensitive skin, these tissues are great for sniffles and sneezes.",
+                        "brand": "Kleenex",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Household Supplies",
+                            "Facial Tissue"
+                        ]
+                    },
+                    {
+                        "title": "Sharpie Permanent Markers, Fine Point, Black, 5 Count",
+                        "description": "Sharpie Permanent Markers feature a bold, fine point for precision writing. They are perfect for labeling, drawing, and writing on a variety of surfaces, offering iconic ink that resists fading and water.",
+                        "brand": "Sharpie",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Markers"
+                        ]
+                    },
+                    {
+                        "title": "Swiffer Sweeper Dry and Wet Starter Kit, 1 Sweeper, 7 Dry Cloths, 3 Wet Cloths",
+                        "description": "Swiffer Sweeper starter kit includes everything you need for an easy to use sweeping solution. The dry pads trap and lock dust and dirt, while the wet pads dissolve grime for a complete cleaning solution.",
+                        "brand": "Swiffer",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Floor Sweepers & Mops"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000205"
+            },
+            {
+                "session": "purchase_history---session---16",
+                "time": "2024/Nov/03/12:48 PM",
+                "purchase_history": [
+                    {
+                        "title": "Clorox Disinfecting Wipes, 75 Count, Fresh Scent",
+                        "description": "Clorox Disinfecting Wipes are multipurpose wipes that clean and disinfect with the power of Clorox. They are ideal for quick clean-ups around the home, leaving behind a fresh scent.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Cleaning Tools"
+                        ]
+                    },
+                    {
+                        "title": "Scotch Heavy Duty Shipping Packaging Tape, 2 Rolls, 1.88 Inches x 54.6 Yards",
+                        "description": "Scotch Heavy Duty Shipping Packaging Tape is designed for securing and sealing boxes. With high strength adhesive and a durable finish, this tape is perfect for home or office use.",
+                        "brand": "Scotch",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Cutting & Measuring Devices"
+                        ]
+                    },
+                    {
+                        "title": "Colgate Total Toothpaste, Clean Mint, 4.8 oz",
+                        "description": "Colgate Total provides 12-hour antibacterial protection against plaque and cavities. Clean Mint flavor ensures fresh breath throughout the day.",
+                        "brand": "Colgate",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Oral Care",
+                            "Toothpaste"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000208"
+            },
+            {
+                "session": "purchase_history---session---17",
+                "time": "2024/Nov/04/06:36 PM",
+                "purchase_history": [
+                    {
+                        "title": "Hefty Everyday Soak-Proof Foam Plates, 9 Inch, 200 Count",
+                        "description": "Hefty Everyday Foam Plates are strong and durable, perfect for any meal. The soak-proof shield prevents leaks, making cleanup easy and convenient.",
+                        "brand": "Hefty",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Paper & Plastic",
+                            "Disposables"
+                        ]
+                    },
+                    {
+                        "title": "Scotch Magic Tape, 3/4 x 1000 Inches, 6 Rolls",
+                        "description": "Scotch Magic Tape features an invisible finish that disappears on most papers. It's ideal for repairing documents, gift wrapping, and other craft projects.",
+                        "brand": "Scotch",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Tape, Adhesives & Fasteners"
+                        ]
+                    },
+                    {
+                        "title": "Bounty Essentials Select-A-Size Paper Towels, 12 rolls",
+                        "description": "Bounty Essentials Paper Towels offer great absorption and strength for an affordable price. The select-a-size feature allows you to use just what you need.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper & Plastic",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Scrub Daddy Original Sponge, 3 Count",
+                        "description": "The Scrub Daddy Sponge is a versatile cleaning companion that features a smiley face design and changes texture with water temperature to meet cleaning needs.",
+                        "brand": "Scrub Daddy",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Cleaning Tools"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000218"
+            },
+            {
+                "session": "purchase_history---session---18",
+                "time": "2024/Nov/05/08:15 PM",
+                "purchase_history": [
+                    {
+                        "title": "Scotch-Brite Non-Scratch Scrub Sponges, 6 Count",
+                        "description": "Scotch-Brite Non-Scratch Scrub Sponges help you keep your kitchen and bathroom surfaces spotless. These sponges are gentle enough for non-stick cookware and effective on everyday messes.",
+                        "brand": "Scotch-Brite",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Sponges"
+                        ]
+                    },
+                    {
+                        "title": "Febreze Air Freshener Spray, Linen & Sky Scent, 2 Count",
+                        "description": "Eliminate odors and refresh your home with Febreze Air Freshener Spray. The Linen & Sky scent offers a delightful fragrance while effectively removing bad smells.",
+                        "brand": "Febreze",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Home D\u00e9cor Products",
+                            "Home Fragrance"
+                        ]
+                    },
+                    {
+                        "title": "Rubbermaid Brilliance Food Storage Containers, 10 Piece Set",
+                        "description": "Rubbermaid Brilliance containers are perfect for storing dry foods and meals. Featuring a clear, airtight design, these containers keep your food fresh and easy to see.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Organization Sets"
+                        ]
+                    },
+                    {
+                        "title": "Staples Standard Staples, 5000/Box",
+                        "description": "Staples Standard Staples are designed to fit all standard staplers, providing strong hold for your paperwork. Suitable for home, office, or school use.",
+                        "brand": "Staples",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Staplers & Punches"
+                        ]
+                    },
+                    {
+                        "title": "Palmolive Ultra Dish Soap, Original, 32.5 fl oz",
+                        "description": "Palmolive Ultra Dish Soap delivers powerful grease cutting while being gentle on your hands. The original formula is great for all your dishwashing needs.",
+                        "brand": "Palmolive",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Dish Soap"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000228"
+            },
+            {
+                "session": "purchase_history---session---19",
+                "time": "2024/Nov/07/11:16 AM",
+                "purchase_history": [
+                    {
+                        "title": "Mr. Clean Magic Eraser Extra Durable, 4 Count",
+                        "description": "Mr. Clean Magic Eraser removes dirt and grime with water alone. Extra durable for tough cleaning jobs, it is perfect for tackling stubborn stains on walls, floors, and other surfaces.",
+                        "brand": "Mr. Clean",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Cleaning Tools"
+                        ]
+                    },
+                    {
+                        "title": "Ziploc Gallon Food Storage Freezer Bags, 60 Count",
+                        "description": "Ziploc Freezer Bags are perfect for storing food in the freezer or pantry. The double zipper closure and durable design help keep food fresh and secure.",
+                        "brand": "Ziploc",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage & Organization Sets"
+                        ]
+                    },
+                    {
+                        "title": "BIC Round Stic Xtra Life Ballpoint Pens, Medium Point, Black, 60 Count",
+                        "description": "BIC Round Stic pens deliver reliable performance for daily writing tasks. With a smooth ink flow and comfortable grip, these pens provide up to 40% longer writing compared to other brands.",
+                        "brand": "BIC",
+                        "categories": [
+                            "Office Products",
+                            "Writing & Correction Supplies",
+                            "Pens"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000241"
+            },
+            {
+                "session": "purchase_history---session---20",
+                "time": "2024/Nov/08/07:19 PM",
+                "purchase_history": [
+                    {
+                        "title": "Duracell AA Alkaline Batteries, 20 Count",
+                        "description": "Duracell AA Alkaline Batteries are engineered for lasting performance and a reliable energy supply for various household and electronic devices. Ideal for remote controls, flashlights, and toys.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Batteries",
+                            "AA Batteries"
+                        ]
+                    },
+                    {
+                        "title": "Dawn Ultra Dishwashing Liquid, Original Scent, 40 fl oz",
+                        "description": "Dawn Ultra Dishwashing Liquid provides exceptional cleaning power to tackle even the greasiest dishes. The original scent leaves your kitchen smelling fresh and clean.",
+                        "brand": "Dawn",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Dishwashing Supplies"
+                        ]
+                    },
+                    {
+                        "title": "Tide PODS Laundry Detergent Pacs, Spring Meadow, 42 Count",
+                        "description": "Tide PODS provide a 3-in-1 cleaning action with detergent, stain remover, and color protector. The Spring Meadow scent keeps your clothes smelling fresh and looking vibrant.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Supplies",
+                            "Laundry Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Expo Low Odor Dry Erase Markers, Chisel Tip, Assorted Colors, 8 Count",
+                        "description": "Expo Low Odor Dry Erase Markers are perfect for classrooms, offices, or homes. The chisel tip allows for broad or fine writing, with vibrant colors that are easy to erase.",
+                        "brand": "Expo",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Writing & Correction Supplies"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000254"
+            },
+            {
+                "session": "purchase_history---session---21",
+                "time": "2024/Nov/10/08:36 PM",
+                "purchase_history": [
+                    {
+                        "title": "Becoming by Michelle Obama",
+                        "description": "In her memoir, a work of deep reflection and mesmerizing storytelling, Michelle Obama invites readers into her world, chronicling the experiences that have shaped her\u2014from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work, to her time spent at the world\u2019s most famous address.",
+                        "brand": "Crown Publishing Group",
+                        "categories": [
+                            "Books",
+                            "Biographies & Memoirs",
+                            "Women"
+                        ]
+                    },
+                    {
+                        "title": "Book Club Favorites 10 Piece Bookmark Set",
+                        "description": "Keep your place in your favorite reads with these charming bookmarks. Perfect for book club friends, these bookmarks feature inspiring quotes and whimsical designs.",
+                        "brand": "Bookworm Accessories",
+                        "categories": [
+                            "Office Products",
+                            "Book Accessories",
+                            "Bookmarks"
+                        ]
+                    },
+                    {
+                        "title": "Leather Journal Notebook, Vintage Look with Unlined Pages",
+                        "description": "This exquisite leather journal is perfect for capturing your thoughts, ideas, and doodles. With unlined pages, you have complete freedom to utilize the space for writing, sketching, or any creative expressions.",
+                        "brand": "NomadCraftsCo.",
+                        "categories": [
+                            "Office Products",
+                            "Notebooks & Writing Pads",
+                            "Leather Journals"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000280"
+            },
+            {
+                "session": "purchase_history---session---22",
+                "time": "2024/Nov/12/01:02 PM",
+                "purchase_history": [
+                    {
+                        "title": "Arm & Hammer Baking Soda, 1 lb Box",
+                        "description": "Arm & Hammer Baking Soda is a versatile, trusted household staple used for cleaning, baking, and deodorizing. Its gentle, natural formula can tackle tough stains or be used in baking recipes.",
+                        "brand": "Arm & Hammer",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "All-Purpose Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "Post-it Super Sticky Notes, 3x3 Inches, 5 Pads, Vibrant Colors",
+                        "description": "Post-it Notes help to capture great ideas and reminders. With super sticky adhesive, these notes stick securely and remove cleanly, perfect for home or office use.",
+                        "brand": "Post-it",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Paper"
+                        ]
+                    },
+                    {
+                        "title": "Glad OdorShield Small Trash Bags, 40 Count, White",
+                        "description": "Glad OdorShield small trash bags are designed for daily kitchen and household waste. Featuring Febreze Fresh Clean scent, these bags help neutralize odors and keep your kitchen fresh.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cleaning Supplies",
+                            "Trash Bags"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000292"
+            },
+            {
+                "session": "purchase_history---session---23",
+                "time": "2024/Nov/12/09:28 PM",
+                "purchase_history": [
+                    {
+                        "title": "Peaceful Piano Music Instrumentals - Relaxation & Meditation",
+                        "description": "This soothing album offers a collection of instrumental piano tracks perfect for relaxation, meditation, or background music during quiet moments at home. The calming melodies are designed to provide peace and tranquility.",
+                        "brand": "Peaceful Music",
+                        "categories": [
+                            "Music",
+                            "Digital Music",
+                            "Instrumental"
+                        ]
+                    },
+                    {
+                        "title": "CALM - Instrumental Music for Stress Relief and Focus",
+                        "description": "CALM offers a selection of instrumental tracks specifically curated to aid in stress relief and maintaining focus. Ideal for work or study sessions, this compilation supports a serene and productive environment.",
+                        "brand": "RelaxLab",
+                        "categories": [
+                            "Music",
+                            "Digital Music",
+                            "Instrumental"
+                        ]
+                    },
+                    {
+                        "title": "Classical Focus: Playlist for Concentration",
+                        "description": "Enhance your concentration and productivity with this collection of classical instrumental tracks. Featuring timeless compositions, this playlist provides an elegant backdrop for work or study settings.",
+                        "brand": "Focus Classical",
+                        "categories": [
+                            "Music",
+                            "Digital Music",
+                            "Classical"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000300"
+            },
+            {
+                "session": "purchase_history---session---24",
+                "time": "2024/Nov/13/02:29 PM",
+                "purchase_history": [
+                    {
+                        "title": "Tide Free & Gentle Liquid Laundry Detergent, 64 Loads",
+                        "description": "Tide Free & Gentle is a powerful, hypoallergenic laundry detergent that is free of dyes and perfumes, making it gentle on sensitive skin while keeping clothes clean.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Household Supplies",
+                            "Laundry Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Purell Advanced Hand Sanitizer, Refreshing Gel, 8 fl oz",
+                        "description": "Purell Advanced Hand Sanitizer kills 99.99% of most common germs that may cause illness. Easy to use and fits conveniently in your purse or pocket, keeping you clean and sanitized on the go.",
+                        "brand": "Purell",
+                        "categories": [
+                            "Health & Personal Care",
+                            "First Aid",
+                            "Hand Sanitizers"
+                        ]
+                    },
+                    {
+                        "title": "3M Command Large Utility Hooks, 3 Hooks with 6 Strips",
+                        "description": "3M Command Utility Hooks let you hang items without nails or screws, leaving no damage to walls. Perfect for organizing around the home, with a strong hold and easy removal.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Storage & Organization",
+                            "Hooks"
+                        ]
+                    }
+                ],
+                "segment_id": "001000000305"
+            }
+        ]
+    },
+    {
+        "Name": "Mrs. Nicole Mcdonald DDS",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/15/07:36 AM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Quick-Size Paper Towels, White, 12 Family Rolls",
+                        "description": "Bounty Quick-Size Paper Towels are designed to handle everyday messes with ease. These paper towels are 2X more absorbent so you can use less. 12 Family Rolls equals 30 Regular Rolls.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Bic Round Stic Xtra Life Ballpoint Pens, Medium Point, Black, 60 Count",
+                        "description": "Bic Round Stic Xtra Life Ballpoint Pens write 90% longer on average compared to PaperMate InkJoy. The versatile 1.0mm medium point is perfect for everyday writing.",
+                        "brand": "Bic",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Dawn Ultra Dishwashing Liquid Dish Soap, Original Scent, 75 oz",
+                        "description": "Dawn Ultra Dishwashing Liquid Dish Soap offers 3X more grease-cleaning power, making it a reliable solution for tackling tough messes. The original scent is timeless and cleanses effectively.",
+                        "brand": "Dawn",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dish Soaps"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000011"
+            },
+            {
+                "session": "purchase_history---session---2",
+                "time": "2024/Oct/16/01:01 PM",
+                "purchase_history": [
+                    {
+                        "title": "The Social Dilemma",
+                        "description": "A thought-provoking documentary that explores the dangerous human impact of social networking, with tech experts sounding the alarm on their own creations.",
+                        "brand": "Netflix",
+                        "categories": [
+                            "Movies & TV",
+                            "Documentaries",
+                            "Technology"
+                        ]
+                    },
+                    {
+                        "title": "Earth from Above: High Definition Global Video",
+                        "description": "Discover the gorgeous world we live in through this visually stunning documentary series that offers breathtaking global views from high definition cameras.",
+                        "brand": "PBS",
+                        "categories": [
+                            "Movies & TV",
+                            "Documentaries",
+                            "Nature"
+                        ]
+                    },
+                    {
+                        "title": "Inside Job",
+                        "description": "An Oscar-winning documentary that provides a comprehensive analysis of the global financial crisis of 2008, featuring in-depth research and extensive interviews.",
+                        "brand": "Sony Pictures Home Entertainment",
+                        "categories": [
+                            "Movies & TV",
+                            "Documentaries",
+                            "Economics"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000024"
+            },
+            {
+                "session": "purchase_history---session---3",
+                "time": "2024/Oct/17/11:59 AM",
+                "purchase_history": [
+                    {
+                        "title": "Tide Pods Laundry Detergent Soap Pods, Spring Meadow, 81 Count",
+                        "description": "Tide Pods offer a deep clean and brightening benefit for your laundry in convenient, one-step pods. These Spring Meadow-scented pods dissolve in all temperatures and work in both HE and standard washing machines.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry Supplies",
+                            "Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes help eliminate 99.9% of viruses and bacteria, making quick work of spills, dirt, and germs on kitchen counters, appliances, and other hard surfaces.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfectant Wipes"
+                        ]
+                    },
+                    {
+                        "title": "Paper Mate SharpWriter Mechanical Pencils, Yellow Barrel, 0.7mm, 12 Count",
+                        "description": "Paper Mate SharpWriter Mechanical Pencils feature a twist-to-advance design with no need for sharpening. The shock-absorbing tip reduces lead breakage, making them perfect for everyday writing and presentations.",
+                        "brand": "Paper Mate",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pencils"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000039"
+            },
+            {
+                "session": "purchase_history---session---4",
+                "time": "2024/Oct/18/06:17 PM",
+                "purchase_history": [
+                    {
+                        "title": "Scotch Magic Tape, 3/4 x 1000 Inches, 6 Rolls, Dispenser Boxed",
+                        "description": "Scotch Magic Tape is invisible when applied and won't show on documents. It is ideal for document repair, label protection, and crafting. Pulls off the roll smoothly and cuts easily.",
+                        "brand": "Scotch",
+                        "categories": [
+                            "Office Supplies",
+                            "Tape",
+                            "Adhesives"
+                        ]
+                    },
+                    {
+                        "title": "Hefty Slider Storage Bags, Quart Size, 66 Count",
+                        "description": "Hefty Slider Storage Bags offer a strong seal and slider design for secure storage and an easy open-close mechanism. Perfect for storing and organizing items around the house or on the go.",
+                        "brand": "Hefty",
+                        "categories": [
+                            "Household Supplies",
+                            "Storage & Organization",
+                            "Storage Bags"
+                        ]
+                    },
+                    {
+                        "title": "3M Command Medium Utility Hooks, White, 6-Hook",
+                        "description": "3M Command Medium Utility Hooks let you hang items securely without nails or screws. Each hook can hold up to 3 pounds. Perfect for organization and decoration in your home or office.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home Improvement",
+                            "Hardware",
+                            "Hooks"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000054"
+            },
+            {
+                "session": "purchase_history---session---5",
+                "time": "2024/Oct/20/05:49 PM",
+                "purchase_history": [
+                    {
+                        "title": "Kleenex Ultra Soft Facial Tissues, 8 Flat Boxes, 120 Tissues per Box",
+                        "description": "Indulge in the irresistible softness of Kleenex Ultra Soft Tissues. Ideal for everyday use, these tissues help pamper your skin with gentle softness, providing the perfect balance of softness and strength.",
+                        "brand": "Kleenex",
+                        "categories": [
+                            "Household Supplies",
+                            "Health & Personal Care",
+                            "Facial Tissues"
+                        ]
+                    },
+                    {
+                        "title": "Cascade Complete ActionPacs Dishwasher Detergent, Fresh Scent, 78 Count",
+                        "description": "Cascade Complete ActionPacs deliver a consistently clean without pre-washing. With advanced cleaning formula, each pod powers through food and grease, ensuring sparkling clean dishes with a fresh, crisp scent.",
+                        "brand": "Cascade",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dishwasher Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Duracell Coppertop AA Alkaline Batteries, 24 Count",
+                        "description": "Duracell Coppertop AA batteries are engineered to deliver the reliable performance you need for your everyday devices. Long-lasting and dependable, these alkaline batteries are perfect for use around the home or office.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Electronics",
+                            "Batteries",
+                            "Alkaline Batteries"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000075"
+            },
+            {
+                "session": "purchase_history---session---6",
+                "time": "2024/Oct/22/10:03 AM",
+                "purchase_history": [
+                    {
+                        "title": "Swiffer Sweeper Starter Kit, 1 Sweeper, 6 Dry Cloths, 3 Wet Cloths",
+                        "description": "The Swiffer Sweeper Starter Kit is a powerful clean that fits into your everyday routine. This all-in-one kit includes a sweeping tool with a flexible head equipped with dry and wet cloths to trap and dissolve dirt, dust, and hair.",
+                        "brand": "Swiffer",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Floor Cleaning"
+                        ]
+                    },
+                    {
+                        "title": "Ziploc Sandwich Bags, 90 Count",
+                        "description": "Ziploc Sandwich Bags are the unbeatable solution for keeping food items fresh and portable. Featuring Easy Open Tabs, these sturdy, reusable bags are perfect for snacks, sandwiches, or other treats on the move.",
+                        "brand": "Ziploc",
+                        "categories": [
+                            "Household Supplies",
+                            "Storage & Organization",
+                            "Storage Bags"
+                        ]
+                    },
+                    {
+                        "title": "Scotch-Brite Non-Scratch Scrub Sponges, 6 Count",
+                        "description": "Scotch-Brite Non-Scratch Scrub Sponges deliver the scrubbing power you're looking for with the non-scratch feature you need for your non-stick cookware, countertops, and tile without worrying about damage.",
+                        "brand": "Scotch-Brite",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Cleaning Tools"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000085"
+            },
+            {
+                "session": "purchase_history---session---7",
+                "time": "2024/Oct/23/10:00 AM",
+                "purchase_history": [
+                    {
+                        "title": "Viva Multi-Surface Cloth Paper Towels, 2 Double Rolls",
+                        "description": "Viva Multi-Surface Cloth Paper Towels are designed to be tough on messes while gentle on surfaces. These paper towels feature absorbent ridges to quickly tackle spills and messes throughout your home.",
+                        "brand": "Viva",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Pilot G2 Retractable Gel Pens, Fine Point, Black Ink, 12-pack",
+                        "description": "Pilot G2 Retractable Gel Pens offer smooth writing with a comfortable grip and fine point for precise writing. The long-lasting ink makes these pens perfect for daily use in any setting.",
+                        "brand": "Pilot",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Lysol Clean & Fresh Multi-Surface Cleaner, Lemon Scent, 40oz",
+                        "description": "Lysol Multi-Surface Cleaner eliminates 99.9% of viruses and bacteria, leaving your home clean and fragrant. Ideal for use on countertops, tile, and floors, it's a versatile solution for tough cleaning jobs.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Surface Cleaners"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000096"
+            },
+            {
+                "session": "purchase_history---session---8",
+                "time": "2024/Oct/23/03:04 PM",
+                "purchase_history": [
+                    {
+                        "title": "OXO Good Grips Silicone Spatula, Small",
+                        "description": "This small silicone spatula is perfect for mixing, scooping, and serving. Its heat-resistant silicone head is safe for non-stick cookware and is dishwasher safe for easy cleanup.",
+                        "brand": "OXO",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Cooking Tools",
+                            "Spatulas"
+                        ]
+                    },
+                    {
+                        "title": "Post-it Super Sticky Notes, 15 Pads, 3x3 Inch, Assorted Colors",
+                        "description": "Post-it Super Sticky Notes are perfect for organizing thoughts on office desks or home bulletins. Featuring a strong adhesive, these notes stick securely and remove cleanly.",
+                        "brand": "Post-it",
+                        "categories": [
+                            "Office Supplies",
+                            "Desk Accessories",
+                            "Sticky Notes"
+                        ]
+                    },
+                    {
+                        "title": "Brita Standard Water Filter Replacements, 3 Count",
+                        "description": "Brita Standard Water Filter Replacements reduce contaminants and odours in water, making it taste clean and refreshing. Compatible with all Brita pitchers, these filters are easy to replace.",
+                        "brand": "Brita",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Water Filtration",
+                            "Replacement Filters"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000099"
+            },
+            {
+                "session": "purchase_history---session---9",
+                "time": "2024/Oct/24/08:46 PM",
+                "purchase_history": [
+                    {
+                        "title": "Simplehuman Code M Custom Fit Liners, 60 Count",
+                        "description": "Custom fit liners for Simplehuman Code M trash cans are durable with a strong drawstring design, ensuring no rips or tears during use. Perfect for everyday kitchen and home trash disposal.",
+                        "brand": "Simplehuman",
+                        "categories": [
+                            "Household Supplies",
+                            "Trash Bags",
+                            "Custom Fit Liners"
+                        ]
+                    },
+                    {
+                        "title": "Staples 8.5x11 Copy Paper, 20lb, 500 Sheets",
+                        "description": "Staples copy paper provides high-quality output for everyday printing and copying tasks. Bright white and acid-free, this paper is suitable for use with inkjet and laser printers.",
+                        "brand": "Staples",
+                        "categories": [
+                            "Office Supplies",
+                            "Paper Products",
+                            "Copy Paper"
+                        ]
+                    },
+                    {
+                        "title": "Mr. Clean Magic Eraser, Extra Durable, 4 Count",
+                        "description": "Mr. Clean Magic Eraser Extra Durable offers powerful cleaning with its water-activated micro-scrubbers. Ideal for removing tough stains on walls, floors, and other surfaces around the home.",
+                        "brand": "Mr. Clean",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Cleaning Tools"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000117"
+            },
+            {
+                "session": "purchase_history---session---10",
+                "time": "2024/Oct/26/10:08 AM",
+                "purchase_history": [
+                    {
+                        "title": "Palmolive Ultra Strength Dish Liquid, Original Scent, 32.5 oz",
+                        "description": "Palmolive Ultra Strength Dish Liquid is tough on grease, soft on hands, and effective for dishwashing. Its original scent refreshes as it cleans, making it a household staple.",
+                        "brand": "Palmolive",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dish Soaps"
+                        ]
+                    },
+                    {
+                        "title": "Sharpie Permanent Markers, Fine Point, Black, 12 Count",
+                        "description": "Sharpie Permanent Markers feature a fine point design for creating smooth and bold lines on a variety of surfaces. Quick-drying and fade-resistant ink ensures lasting impressions.",
+                        "brand": "Sharpie",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Markers"
+                        ]
+                    },
+                    {
+                        "title": "Tide Hygienic Clean Heavy Duty 10X Liquid Laundry Detergent, Original, 92 oz",
+                        "description": "Tide Hygienic Clean Heavy Duty 10X Liquid Laundry Detergent delivers deep, hygienic cleaning with its formula that removes visible and invisible dirt. Suitable for all washing machines.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry Supplies",
+                            "Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Glad Press'n Seal Food Plastic Wrap, 70 Square Feet",
+                        "description": "Glad Press'n Seal Food Plastic Wrap features a unique Griptex technology that seals to a variety of surfaces for leak-proof wrapping. Ideal for keeping food fresh and stored properly.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Household Supplies",
+                            "Storage & Organization",
+                            "Food Storage"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000132"
+            },
+            {
+                "session": "purchase_history---session---11",
+                "time": "2024/Oct/27/03:41 PM",
+                "purchase_history": [
+                    {
+                        "title": "Rubbermaid Easy Find Vented Lids Food Storage Containers, 6 Piece Set",
+                        "description": "Rubbermaid Easy Find Lids snap together and to container bases, so you can always find the right lid. Lids are vented for microwaving and perfect for meal preparation and storage.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Food Storage",
+                            "Storage Containers"
+                        ]
+                    },
+                    {
+                        "title": "Windex Glass Cleaner, Original Blue, 32 fl oz",
+                        "description": "Windex Glass Cleaner is a trusted option for streak-free glass surfaces. The original blue formula leaves windows and mirrors shining brightly, cutting through dirt and grime quickly.",
+                        "brand": "Windex",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Glass Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "Elmer's All Purpose School Glue Sticks, Washable, 12 Sticks",
+                        "description": "Elmer's All Purpose School Glue Sticks are washable, acid-free, and perfect for kids. Easy to apply and mess-free, these sticks are great for paper crafting, school work, and small office projects.",
+                        "brand": "Elmer's",
+                        "categories": [
+                            "Office Supplies",
+                            "Adhesives",
+                            "Glue Sticks"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000140"
+            },
+            {
+                "session": "purchase_history---session---12",
+                "time": "2024/Oct/29/01:23 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Select-A-Size Paper Towels, 2 Double Rolls",
+                        "description": "Bounty Select-A-Size Paper Towels offer superior absorbency and strength. The versatile sheets let you choose just the right amount you need for spills and messes.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "3M Nexcare Comfort Bandages, Assorted Sizes, 100 Count",
+                        "description": "3M Nexcare Comfort Bandages offer reliable protection and are designed to stay on your skin comfortably. They come in assorted sizes to fit various wound needs.",
+                        "brand": "3M",
+                        "categories": [
+                            "Health & Personal Care",
+                            "First Aid",
+                            "Bandages"
+                        ]
+                    },
+                    {
+                        "title": "Office Depot Brand Spiral Notebooks, College Ruled, 70 Sheets, 3 Pack",
+                        "description": "Office Depot Brand Spiral Notebooks are perfect for note-taking and staying organized. The college-ruled paper ensures efficient space use for students and professionals alike.",
+                        "brand": "Office Depot",
+                        "categories": [
+                            "Office Supplies",
+                            "Paper Products",
+                            "Notebooks"
+                        ]
+                    },
+                    {
+                        "title": "Seventh Generation Free & Clear Liquid Hand Soap, 12 oz",
+                        "description": "Seventh Generation Free & Clear Liquid Hand Soap is formulated without fragrances or dyes. It gently cleans and conditions hands with plant-based ingredients.",
+                        "brand": "Seventh Generation",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Hand Soaps"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000152"
+            },
+            {
+                "session": "purchase_history---session---13",
+                "time": "2024/Oct/29/05:56 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bic Round Stic Xtra Life Ballpoint Pens, Medium Point, Black Ink, 12 Count",
+                        "description": "Bic Round Stic Xtra Life Ballpoint Pens provide smooth and consistent writing. Reliable everyday office and household pen in a classic design.",
+                        "brand": "Bic",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "O-Cedar EasyWring Microfiber Spin Mop & Bucket Floor Cleaning System",
+                        "description": "The O-Cedar EasyWring Microfiber Spin Mop and Bucket Floor Cleaning System provide hands-free wringing for easier cleaning. The deep-cleaning microfiber mop head removes and absorbs tough dirt and grime.",
+                        "brand": "O-Cedar",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Floor Cleaning"
+                        ]
+                    },
+                    {
+                        "title": "GE Soft White 60W Replacement LED Light Bulbs, 4 Pack",
+                        "description": "GE Soft White LED Light Bulbs provide a warm and comfortable light with long-lasting, energy-efficient performance. Perfect for standard lighting fixtures throughout the home.",
+                        "brand": "GE",
+                        "categories": [
+                            "Home Improvement",
+                            "Lighting",
+                            "Light Bulbs"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000155"
+            },
+            {
+                "session": "purchase_history---session---14",
+                "time": "2024/Oct/30/10:44 AM",
+                "purchase_history": [
+                    {
+                        "title": "Tai Chi for Beginners DVD",
+                        "description": "This instructional DVD brings the art of Tai Chi to newcomers, with easy-to-follow steps and exercises designed to improve balance, flexibility, and relaxation.",
+                        "brand": "Tai Chi Productions",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Exercise & Fitness",
+                            "Videos"
+                        ]
+                    },
+                    {
+                        "title": "Tai Chi Uniform with Shoes",
+                        "description": "This traditional Tai Chi uniform set includes a comfortable, breathable shirt and pants along with lightweight shoes, perfect for practicing Tai Chi.",
+                        "brand": "Chinese Arts",
+                        "categories": [
+                            "Clothing & Accessories",
+                            "Activewear",
+                            "Martial Arts Apparel"
+                        ]
+                    },
+                    {
+                        "title": "Daylight Balanced Floor Standing Lamp",
+                        "description": "A floor lamp designed to provide natural daylight illumination, ideal for practicing Tai Chi indoors with better focus and ambiance.",
+                        "brand": "Daylight Company",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Lighting",
+                            "Floor Lamps"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000159"
+            },
+            {
+                "session": "purchase_history---session---15",
+                "time": "2024/Oct/31/12:34 PM",
+                "purchase_history": [
+                    {
+                        "title": "Scott Essential Multifold Paper Towels, White, 250 Towels per Pack, 16 Packs",
+                        "description": "Scott Essential Multifold Paper Towels deliver dependable strength and absorbency, making them ideal for everyday use in kitchens, bathrooms, or office spaces. These towels fit standard dispensers and offer a sustainable solution.",
+                        "brand": "Scott",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper Products",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "3M Command Large Picture Hanging Strips, 14 Pairs",
+                        "description": "These 3M Command Picture Hanging Strips eliminate the need for nails or screws and are designed to securely hang large items on various surfaces with easy removal without causing damage.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home Improvement",
+                            "Wall D\u00e9cor",
+                            "Hanging Solutions"
+                        ]
+                    },
+                    {
+                        "title": "Fellowes Powershred 8MC5 8-Sheet Micro-Cut Paper Shredder",
+                        "description": "The Fellowes Powershred 8MC5 Micro-Cut Paper Shredder provides superior security for shredding documents. It demolishes each sheet into micro-cut particles while ensuring a quiet, efficient operation.",
+                        "brand": "Fellowes",
+                        "categories": [
+                            "Office Supplies",
+                            "Shredders",
+                            "Paper Shredders"
+                        ]
+                    },
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes kill 99.9% of viruses and bacteria in just 15 seconds and are effective for quick clean-ups and sanitizing surfaces throughout your home or office, leaving a fresh, clean scent.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfecting Wipes"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000174"
+            },
+            {
+                "session": "purchase_history---session---16",
+                "time": "2024/Oct/31/01:54 PM",
+                "purchase_history": [
+                    {
+                        "title": "Purina ONE Tender Selects Blend With Real Chicken Dry Cat Food",
+                        "description": "Purina ONE Tender Selects Blend with real chicken is a high-protein formula that helps support strong muscles. It includes real meat as the first ingredient, providing a delicious taste cats love.",
+                        "brand": "Purina",
+                        "categories": [
+                            "Pet Supplies",
+                            "Cat Food",
+                            "Dry Cat Food"
+                        ]
+                    },
+                    {
+                        "title": "Arm & Hammer Clump & Seal Litter, Multi-Cat",
+                        "description": "Arm & Hammer Clump & Seal Multi-Cat Litter creates a virtually dust-free environment, providing odor control and easy scooping. Ideal for homes with multiple cats.",
+                        "brand": "Arm & Hammer",
+                        "categories": [
+                            "Pet Supplies",
+                            "Cat Supplies",
+                            "Cat Litter"
+                        ]
+                    },
+                    {
+                        "title": "Catit Jumbo Hooded Cat Litter Pan",
+                        "description": "The Catit Jumbo Hooded Cat Litter Pan provides privacy for your cat while containing litter inside the box. It features a handle for easy transport and a built-in bag anchor to keep the bag open for cleaning.",
+                        "brand": "Catit",
+                        "categories": [
+                            "Pet Supplies",
+                            "Cat Supplies",
+                            "Litter Box"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000175"
+            },
+            {
+                "session": "purchase_history---session---17",
+                "time": "2024/Oct/31/02:15 PM",
+                "purchase_history": [
+                    {
+                        "title": "Duracell CopperTop AA Alkaline Batteries, 24 Count",
+                        "description": "Duracell CopperTop AA batteries are long-lasting and designed for use in household items like remotes, flashlights, toys, and more. Reliable power for everyday devices.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Household Supplies",
+                            "Batteries",
+                            "Alkaline Batteries"
+                        ]
+                    },
+                    {
+                        "title": "Ziploc Gallon Food Storage Freezer Bags, 60 Count",
+                        "description": "Ziploc Gallon Freezer Bags offer easy solutions for storing meats, vegetables, and leftovers in the fridge or freezer. They keep food fresh and free from freezer burn.",
+                        "brand": "Ziploc",
+                        "categories": [
+                            "Household Supplies",
+                            "Storage & Organization",
+                            "Food Storage Bags"
+                        ]
+                    },
+                    {
+                        "title": "Ticonderoga Yellow Pencils, 96-Count, No. 2 Soft",
+                        "description": "Ticonderoga pencils are made with premium quality wood for smooth, even writing. These classic yellow pencils are a staple for school or office supplies.",
+                        "brand": "Ticonderoga",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pencils"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000176"
+            },
+            {
+                "session": "purchase_history---session---18",
+                "time": "2024/Nov/02/07:12 AM",
+                "purchase_history": [
+                    {
+                        "title": "Kleenex Facial Tissues, Ultra Soft, 6 Flat Boxes, 130 Tissues per Box",
+                        "description": "Kleenex Ultra Soft Facial Tissues offer comfort and protection for sensitive skin. Soft and strong, they are ideal for everyday use and essential for any household.",
+                        "brand": "Kleenex",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper Products",
+                            "Facial Tissues"
+                        ]
+                    },
+                    {
+                        "title": "Scotch Magic Tape, 3/4 x 800 Inches, 6 Rolls",
+                        "description": "Scotch Magic Tape is the preferred choice for offices and homes because it disappears on paper, providing an invisible finish. Perfect for mending documents, sealing envelopes, and a variety of craft projects.",
+                        "brand": "Scotch",
+                        "categories": [
+                            "Office Supplies",
+                            "Tape, Adhesives & Fasteners",
+                            "Tape"
+                        ]
+                    },
+                    {
+                        "title": "Cascade Complete Dishwasher Pods, Fresh Scent, 47 Count",
+                        "description": "Cascade Complete Dishwasher Pods remove tough food stains from dishes without the need for pre-rinsing. These pods provide a powerful clean with a fresh scent, ensuring sparkling results.",
+                        "brand": "Cascade",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dishwasher Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Quaker Instant Oatmeal, Variety Pack, 48 Packets",
+                        "description": "Quaker Instant Oatmeal Variety Pack offers a selection of flavors for a quick and nutritious breakfast. Each serving provides a good source of dietary fiber and whole grains.",
+                        "brand": "Quaker",
+                        "categories": [
+                            "Grocery & Gourmet Food",
+                            "Breakfast Foods",
+                            "Oatmeal"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000193"
+            },
+            {
+                "session": "purchase_history---session---19",
+                "time": "2024/Nov/02/09:26 AM",
+                "purchase_history": [
+                    {
+                        "title": "Post-It Super Sticky Notes, 4x4, Lined, Assorted Colors, 5 Pads",
+                        "description": "Post-It Super Sticky Notes stick practically anywhere to make sure your message gets noticed. Lined note pads for organized messages and assorted bright colors for vibrant stands on your desk.",
+                        "brand": "Post-It",
+                        "categories": [
+                            "Office Supplies",
+                            "Paper Products",
+                            "Sticky Notes"
+                        ]
+                    },
+                    {
+                        "title": "Dawn Ultra Dishwashing Liquid, Original Scent, 40 oz",
+                        "description": "Dawn Ultra Dishwashing Liquid is a powerful solution that efficiently cuts grease and leaves dishes sparkling. Its original scent provides a fresh aroma throughout the kitchen.",
+                        "brand": "Dawn",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dish Soaps"
+                        ]
+                    },
+                    {
+                        "title": "Energizer Max AAA Batteries, 16 Count",
+                        "description": "Energizer Max AAA batteries provide lasting power for devices you use every day, including flashlights, remote controls, and clocks. Reliable and built to last with minimal environmental impact.",
+                        "brand": "Energizer",
+                        "categories": [
+                            "Household Supplies",
+                            "Batteries",
+                            "Alkaline Batteries"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000198"
+            },
+            {
+                "session": "purchase_history---session---20",
+                "time": "2024/Nov/02/11:44 AM",
+                "purchase_history": [
+                    {
+                        "title": "Swiffer Sweeper Dry Sweeping Pad Refills, 32 Count",
+                        "description": "Swiffer Sweeper Dry Sweeping Pad Refills are packed with deep ridges and grooves that conform to the surface, trapping and locking dirt, dust, and hair for an effective cleaning. Safe for finished floors.",
+                        "brand": "Swiffer",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Floor Cleaning"
+                        ]
+                    },
+                    {
+                        "title": "Pilot G2 Gel Pens, Fine Point, Black Ink, 12 Count",
+                        "description": "Pilot G2 Gel Pens offer smooth writing and are known for their clear, precise lines. Ideal for everyday use at the office or home, with long-lasting ink and a comfortable grip.",
+                        "brand": "Pilot",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Hefty Slider Freezer Bags, Gallon Size, 34 Count",
+                        "description": "Hefty Slider Freezer Bags are designed for the storage of bulk foods or leftovers. The sturdy slider closed top ensures contents are secure and is perfect for organizing and protecting your food in the freezer.",
+                        "brand": "Hefty",
+                        "categories": [
+                            "Household Supplies",
+                            "Storage & Organization",
+                            "Food Storage Bags"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000200"
+            },
+            {
+                "session": "purchase_history---session---21",
+                "time": "2024/Nov/03/11:54 AM",
+                "purchase_history": [
+                    {
+                        "title": "Viva Multi-Surface Cloth Paper Towels, 6 Triple Rolls",
+                        "description": "Viva Multi-Surface Cloth Paper Towels feature advanced cloth-like texture to tackle tough messes on multiple surfaces with ease. Strong and absorbent, perfect for clean-ups in the kitchen or any room.",
+                        "brand": "Viva",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Lysol Disinfectant Spray, Crisp Linen Scent, 19 oz",
+                        "description": "Lysol Disinfectant Spray kills 99.9% of viruses and bacteria on hard surfaces. It deodorizes and sanitizes with a crisp linen scent, providing a hygienic and fresh-smelling environment.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfectant Sprays"
+                        ]
+                    },
+                    {
+                        "title": "Avery Heavyweight Sheet Protectors, Clear, 100 Count",
+                        "description": "Avery Heavyweight Sheet Protectors keep documents safe and secure while providing a professional, clear view. Acid-free and archival safe, perfect for organizing presentations, reports, and other important paperwork.",
+                        "brand": "Avery",
+                        "categories": [
+                            "Office Supplies",
+                            "Filing Products",
+                            "Sheet Protectors"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000212"
+            },
+            {
+                "session": "purchase_history---session---22",
+                "time": "2024/Nov/04/02:02 PM",
+                "purchase_history": [
+                    {
+                        "title": "Method Foaming Hand Wash, Sweet Water, 10 oz",
+                        "description": "Method Foaming Hand Wash gently cleanses with naturally derived ingredients and a delightful Sweet Water fragrance. Its ready-to-use pump bottle provides convenient access to keep hands fresh and clean.",
+                        "brand": "Method",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Hand Soaps"
+                        ]
+                    },
+                    {
+                        "title": "Rubbermaid Brilliance Food Storage Containers, 10-Piece Set",
+                        "description": "Rubbermaid Brilliance Food Storage Containers are crystal-clear, stain-resistant, and airtight, making them perfect for organizing, storing, and transporting food. The set includes multiple sizes to fit a variety of needs.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Storage & Organization",
+                            "Food Storage"
+                        ]
+                    },
+                    {
+                        "title": "Kirkland Signature Natural Spring Water, 40 Count, 16.9 fl oz Bottles",
+                        "description": "Kirkland Signature Natural Spring Water offers refreshing, pure hydration bottled in convenient, portable packages. Perfect for stocking up for home, office, or events.",
+                        "brand": "Kirkland Signature",
+                        "categories": [
+                            "Grocery & Gourmet Food",
+                            "Beverages",
+                            "Water"
+                        ]
+                    },
+                    {
+                        "title": "Glad Press'n Seal Food Wrap, 75 Square Feet",
+                        "description": "Glad Press'n Seal Food Wrap is designed to create an airtight, leak-proof seal for protecting food. Multi-use wrap adheres to surfaces like plastic, paper, and aluminum, ideal for storage and food prep.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Household Supplies",
+                            "Food Storage & Organization",
+                            "Plastic Wrap"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000222"
+            },
+            {
+                "session": "purchase_history---session---23",
+                "time": "2024/Nov/06/02:30 PM",
+                "purchase_history": [
+                    {
+                        "title": "Before Sunrise / Before Sunset Double Feature DVD",
+                        "description": "This double feature DVD includes both 'Before Sunrise' and 'Before Sunset', two of the most acclaimed romance films that explore themes of love, time, and connection between two characters over a decade.",
+                        "brand": "Warner Home Video",
+                        "categories": [
+                            "Movies & TV",
+                            "DVDs",
+                            "Romance"
+                        ]
+                    },
+                    {
+                        "title": "Heart-Shaped Ceramic Coffee Mug Set",
+                        "description": "This set of heart-shaped ceramic coffee mugs adds a touch of romance to every sip, perfect for couples or anyone who enjoys expressing their affection through unique, artful tableware.",
+                        "brand": "Lovely Mugs",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Dining & Entertaining",
+                            "Drinkware"
+                        ]
+                    },
+                    {
+                        "title": "Romantic Candlelight Dinner Play Set",
+                        "description": "Set the mood for a warm and intimate evening with this romantic candlelight dinner playset, which includes rose-scented candles and elegant table setting pieces to enhance your dining experience.",
+                        "brand": "Amour D\u00e9cor",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Home D\u00e9cor",
+                            "Candles & Holders"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000244"
+            },
+            {
+                "session": "purchase_history---session---24",
+                "time": "2024/Nov/06/08:54 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Select-A-Size Paper Towels, White, 6 Rolls",
+                        "description": "Bounty Select-A-Size Paper Towels are absorbent and durable, making them ideal for cleaning spills and messes quickly. With their adjustable sheet size, they offer a convenient solution for any household cleaning task.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper Products",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Windex Glass Cleaner, Original Blue, 23 fl oz",
+                        "description": "Windex Glass Cleaner provides a streak-free shine on windows, mirrors, and other glass surfaces. Its ammonia-free formula ensures a safe and effective cleaning experience, leaving surfaces looking pristine.",
+                        "brand": "Windex",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Glass Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "BIC Round Stic Xtra Life Ballpoint Pens, Medium Point, Black Ink, 60-Count",
+                        "description": "BIC Round Stic Xtra Life Ballpoint Pens offer reliable performance with a smooth ink flow and comfortable grip. They are perfect for everyday writing tasks at home, school, or the office.",
+                        "brand": "BIC",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing Supplies",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Glad Clorox Drawstring Large Trash Bags, 30 Gallon, 32 Count",
+                        "description": "Glad Clorox Trash Bags combine the trusted strength of Glad with the added freshness of Clorox odor protection. Featuring a 30-gallon capacity, these drawstring bags are perfect for heavy-duty clean-up tasks.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Household Supplies",
+                            "Trash Bags",
+                            "Large Trash Bags"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000249"
+            },
+            {
+                "session": "purchase_history---session---25",
+                "time": "2024/Nov/07/09:51 PM",
+                "purchase_history": [
+                    {
+                        "title": "Raid Ant & Roach Killer, Lemon Scent, 17.5 oz",
+                        "description": "Raid Ant & Roach Killer spray effectively kills ants, roaches, and other listed bugs on contact with a pleasant lemon scent. It's easy to use for quick pest control around your home.",
+                        "brand": "Raid",
+                        "categories": [
+                            "Household Supplies",
+                            "Pest Control",
+                            "Insect Sprays"
+                        ]
+                    },
+                    {
+                        "title": "BIC Wite-Out EZ Correct Correction Tape, 10-Pack",
+                        "description": "BIC Wite-Out EZ Correct Correction Tape lets you easily fix handwritten or printed errors. The tape applies smoothly and instantly dries for fast and effective correction.",
+                        "brand": "BIC",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing & Correction Supplies",
+                            "Correction Tape"
+                        ]
+                    },
+                    {
+                        "title": "Duracell Hearing Aid Batteries Size 13, 16 Count",
+                        "description": "Duracell Hearing Aid Batteries offer reliable performance and long-lasting power for hearing aids. Available in a convenient, easy-to-open package for quick battery replacement.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Hearing Aids & Accessories",
+                            "Batteries"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000258"
+            },
+            {
+                "session": "purchase_history---session---26",
+                "time": "2024/Nov/08/08:38 AM",
+                "purchase_history": [
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes clean and disinfect with a powerful antibacterial formula that quickly eliminates bacteria and viruses. Perfect for cleaning and sanitizing surfaces around the home or office.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfecting Wipes"
+                        ]
+                    },
+                    {
+                        "title": "Fellowes Bankers Box Stor/File Medium-Duty Storage Boxes, 10 Pack",
+                        "description": "Fellowes Bankers Box offers a simple, efficient solution for organizing documents, files, and various household items. Easy to assemble and stackable, they provide reliable durability for both office and personal use.",
+                        "brand": "Fellowes",
+                        "categories": [
+                            "Office Supplies",
+                            "Organization",
+                            "File Storage"
+                        ]
+                    },
+                    {
+                        "title": "Brita Standard Water Filter Pitcher, 6-Cup, White",
+                        "description": "The Brita Standard Water Filter Pitcher helps reduce the taste and odor of chlorine, as well as copper, mercury, and cadmium impurities found in tap water. Compact and space-efficient, it fits easily into a refrigerator.",
+                        "brand": "Brita",
+                        "categories": [
+                            "Kitchen & Dining",
+                            "Water Filter",
+                            "Pitchers with Filters"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000260"
+            },
+            {
+                "session": "purchase_history---session---27",
+                "time": "2024/Nov/12/03:16 PM",
+                "purchase_history": [
+                    {
+                        "title": "3M Lint Roller, 5-Roller Pack with 95 Sheets per Roller",
+                        "description": "The 3M Lint Roller easily picks up lint, fur, fuzz, and dirt from clothing, furniture, and more. Perfect for any household cleaning routine, and a must-have for pet owners.",
+                        "brand": "3M",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Lint Rollers"
+                        ]
+                    },
+                    {
+                        "title": "Colgate Total Whitening Toothpaste, 2-Pack, 6 oz Tubes",
+                        "description": "Colgate Total Whitening Toothpaste helps fight bacteria on teeth, tongue, cheeks, and gums. This toothpaste provides a healthier mouth, a whiter smile, and fresher breath.",
+                        "brand": "Colgate",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Oral Care",
+                            "Toothpaste"
+                        ]
+                    },
+                    {
+                        "title": "Scotch-Brite Heavy Duty Scrub Sponges, 6-Count",
+                        "description": "Scotch-Brite Heavy Duty Scrub Sponges make cleaning pots, pans, and other kitchen surfaces a breeze. Ideal for tough cleaning jobs in both kitchen and bathroom areas.",
+                        "brand": "Scotch-Brite",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Sponges & Scouring Pads"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000288"
+            }
+        ]
+    },
+    {
+        "Name": "Mr. Nicholas Richmond MD",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/14/07:13 AM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Quick-Size Paper Towels, White, 16 Family Rolls",
+                        "description": "Bounty Quick-Size Paper Towels are durable and ideal for tackling everyday spills and messes. With their quick-absorbing attribute, these paper towels help you clean up quickly, leaving your surfaces spotless.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Scotch Magic Tape, 3/4 x 1000 Inches, Boxed, 10 Rolls",
+                        "description": "Scotch Magic Tape gives a strong hold and a clean look, perfect for mending documents, sealing envelopes, or crafting projects. It is invisible when applied and won't show on copies, ensuring a professional finish.",
+                        "brand": "Scotch",
+                        "categories": [
+                            "Office Supplies",
+                            "Tape",
+                            "Adhesives & Fasteners"
+                        ]
+                    },
+                    {
+                        "title": "Dawn Ultra Dishwashing Liquid Dish Soap, Original Scent, 19.4 Fl Oz (Pack of 3)",
+                        "description": "Dawn Ultra Dishwashing Liquid is equipped with easy-to-rinse technology so you can tackle those messes in little time. It features a tough-on-grease formula that ensures dishes are left spotless after washing.",
+                        "brand": "Dawn",
+                        "categories": [
+                            "Household Supplies",
+                            "Dishwashing",
+                            "Dish Soap"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000001"
+            },
+            {
+                "session": "purchase_history---session---2",
+                "time": "2024/Oct/14/01:16 PM",
+                "purchase_history": [
+                    {
+                        "title": "Ziploc Gallon Food Storage Bags, Grip 'n Seal Technology, 75 Count",
+                        "description": "Ziploc Gallon Food Storage Bags with Grip 'n Seal Technology are perfect for storing and carrying food items, protecting them from freezer burn and keeping them fresh.",
+                        "brand": "Ziploc",
+                        "categories": [
+                            "Household Supplies",
+                            "Food Storage",
+                            "Bags"
+                        ]
+                    },
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes are designed to clean and disinfect a variety of surfaces, killing 99.9% of viruses and bacteria. They are easy to use and perfect for the kitchen, bathroom, and office.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfecting Wipes"
+                        ]
+                    },
+                    {
+                        "title": "Tide Liquid Laundry Detergent, Original Scent, 64 Loads",
+                        "description": "Tide's powerful liquid laundry detergent provides your clothes with a brilliant clean and a fresh, original scent. It is suitable for both high-efficiency and standard washing machines.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry",
+                            "Detergent"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000007"
+            },
+            {
+                "session": "purchase_history---session---3",
+                "time": "2024/Oct/15/04:01 PM",
+                "purchase_history": [
+                    {
+                        "title": "Kleenex Ultra Soft Facial Tissues, 8 Flat Boxes, 120 Tissues per Box",
+                        "description": "Kleenex Ultra Soft facial tissues offer outstanding softness, providing a gentle experience on your face and nose. Perfect for everyday spills, sniffles, or makeup touch-ups, these tissues are a household essential.",
+                        "brand": "Kleenex",
+                        "categories": [
+                            "Household Supplies",
+                            "Tissues",
+                            "Facial Tissues"
+                        ]
+                    },
+                    {
+                        "title": "Post-it Super Sticky Notes, 3 in x 3 in, 5 Pads, Canary Yellow",
+                        "description": "Post-it Super Sticky Notes allow you to stick and re-stick notes without damage to surfaces. The bright, canary yellow color helps keep important reminders and messages easily visible.",
+                        "brand": "Post-it",
+                        "categories": [
+                            "Office Supplies",
+                            "Stationery",
+                            "Sticky Notes"
+                        ]
+                    },
+                    {
+                        "title": "Mr. Clean Magic Eraser Original, Cleaning Pads with Durafoam, 6 Count",
+                        "description": "Mr. Clean Magic Erasers are powerful cleaning pads with Durafoam technology, perfect for tackling dirt and grime on a variety of surfaces. They provide a simple solution for removing marks, stains, and scuffs.",
+                        "brand": "Mr. Clean",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Sponges & Scourers"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000020"
+            },
+            {
+                "session": "purchase_history---session---4",
+                "time": "2024/Oct/15/04:08 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bic Round Stic Xtra Life Ballpoint Pen, Medium Point (1.0mm), Black, 60-Count",
+                        "description": "Bic Round Stic Xtra Life Ballpoint Pens offer reliable, smooth writing performance in a classic, long-lasting design. These pens are perfect for everyday writing tasks at school, work, or home.",
+                        "brand": "Bic",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Viva Signature Cloth Paper Towels, Choose-A-Sheet, 8 Rolls",
+                        "description": "Viva Signature Cloth Paper Towels are uniquely strong and soft like cloth, making them ideal not just for spills but also for cleaning up large messes. Their choose-a-sheet feature allows optimal usage and convenience.",
+                        "brand": "Viva",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Duracell Coppertop Alkaline AA Batteries, 20 Count",
+                        "description": "Duracell Coppertop AA Batteries are designed for long-lasting performance over a wide range of devices. Ideal for household gadgets, toys, and remotes, these batteries ensure dependable power.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Electronics",
+                            "Batteries",
+                            "AA"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000021"
+            },
+            {
+                "session": "purchase_history---session---5",
+                "time": "2024/Oct/17/04:01 PM",
+                "purchase_history": [
+                    {
+                        "title": "Rubbermaid Brilliance Food Storage Containers, 10-Piece Set",
+                        "description": "Rubbermaid Brilliance Food Storage Containers are perfect for meal prep or storing leftovers, with an airtight seal that keeps food fresh and leak-proof latches that prevent spills.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Household Supplies",
+                            "Food Storage",
+                            "Containers"
+                        ]
+                    },
+                    {
+                        "title": "Scotch-Brite Heavy Duty Scrub Sponges, 6 Sponges",
+                        "description": "Scotch-Brite Heavy Duty Scrub Sponges are perfect for removing tough, baked-on messes from cookware and kitchen surfaces. Highly durable and long-lasting, they are essential for any kitchen cleanup.",
+                        "brand": "Scotch-Brite",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Sponges & Scourers"
+                        ]
+                    },
+                    {
+                        "title": "Pilot G2 Premium Gel Roller Pens, Fine Point, Black Ink, 12-Count",
+                        "description": "Pilot G2 pens offer smooth writing with a comfortable rubber grip, making them perfect for everyday writing tasks. The gel ink formula ensures clean and bold results.",
+                        "brand": "Pilot",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing",
+                            "Pens"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000034"
+            },
+            {
+                "session": "purchase_history---session---6",
+                "time": "2024/Oct/18/01:08 PM",
+                "purchase_history": [
+                    {
+                        "title": "Their Eyes Were Watching God by Zora Neale Hurston",
+                        "description": "A classic novel considered one of the most important works in American literature, exploring themes of love, independence, and self-discovery. The story follows the life and growth of Janie Crawford, an African-American woman in the early 20th century.",
+                        "brand": "HarperCollins",
+                        "categories": [
+                            "Books",
+                            "Literature & Fiction",
+                            "Classics"
+                        ]
+                    },
+                    {
+                        "title": "Leather Bookmark with Inspirational Quote",
+                        "description": "Handcrafted leather bookmark featuring an inspirational quote from Zora Neale Hurston, perfect for keeping your place in any of your favorite reads while reminding you of empowering messages.",
+                        "brand": "LeatherCraftsCo",
+                        "categories": [
+                            "Office Supplies",
+                            "Stationery",
+                            "Bookmarks"
+                        ]
+                    },
+                    {
+                        "title": "Modern Classic Novels Box Set",
+                        "description": "A curated collection of modern classic novels including works by celebrated authors. This set is ideal for expanding your literary horizons with timeless stories and vibrant characters.",
+                        "brand": "Penguin Classics",
+                        "categories": [
+                            "Books",
+                            "Literature & Fiction",
+                            "Box Sets"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000045"
+            },
+            {
+                "session": "purchase_history---session---7",
+                "time": "2024/Oct/19/07:42 AM",
+                "purchase_history": [
+                    {
+                        "title": "Colgate Total Whitening Toothpaste, 4.8 Oz, 2 Pack",
+                        "description": "Colgate Total Whitening Toothpaste helps to keep your teeth healthy and white. With its advanced formula, it protects against cavities, plaque, and gingivitis while promoting fresh breath.",
+                        "brand": "Colgate",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Oral Care",
+                            "Toothpaste"
+                        ]
+                    },
+                    {
+                        "title": "3M Command Large Picture Hanging Strips, 14 Pairs",
+                        "description": "3M Command Large Picture Hanging Strips are perfect for hanging pictures, artwork, and more without damaging your walls. They provide a strong hold and can be removed cleanly.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home Improvement",
+                            "Tools",
+                            "Picture Hanging"
+                        ]
+                    },
+                    {
+                        "title": "Energizer MAX Alkaline AAA Batteries, 24 Count",
+                        "description": "Energizer MAX AAA Batteries are long-lasting and ideal for powering everyday devices like remote controls, flashlights, and toys. These batteries are designed to hold power for up to 10 years in storage.",
+                        "brand": "Energizer",
+                        "categories": [
+                            "Electronics",
+                            "Batteries",
+                            "AAA"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000053"
+            },
+            {
+                "session": "purchase_history---session---8",
+                "time": "2024/Oct/20/10:43 AM",
+                "purchase_history": [
+                    {
+                        "title": "Lysol Disinfectant Spray, Crisp Linen Scent, 19 Oz",
+                        "description": "Lysol Disinfectant Spray helps protect your family and prevent mold and mildew. It kills 99.9% of bacteria and viruses on commonly touched, hard, non-porous surfaces in your home.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfectant Sprays"
+                        ]
+                    },
+                    {
+                        "title": "Glad ForceFlexPlus Tall Kitchen Trash Bags, 13 Gallon, 80 Count",
+                        "description": "Glad ForceFlexPlus Tall Kitchen Trash Bags combine RipGuard and LeakGuard to provide protection against leaks and tears, offering trusted strength for heavy-duty tasks.",
+                        "brand": "Glad",
+                        "categories": [
+                            "Household Supplies",
+                            "Trash Bags",
+                            "Kitchen"
+                        ]
+                    },
+                    {
+                        "title": "Arm & Hammer Baking Soda, 1 lb",
+                        "description": "Arm & Hammer Baking Soda is a versatile product used for baking, cleaning and deodorizing. Its pure formula is perfect for neutralizing odors and maintaining freshness in the home.",
+                        "brand": "Arm & Hammer",
+                        "categories": [
+                            "Groceries",
+                            "Baking Supplies",
+                            "Baking Ingredients"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000064"
+            },
+            {
+                "session": "purchase_history---session---9",
+                "time": "2024/Oct/20/01:44 PM",
+                "purchase_history": [
+                    {
+                        "title": "Charmin Ultra Soft Toilet Paper, Mega Rolls, 24 Count",
+                        "description": "Charmin Ultra Soft Toilet Paper is plush-pleasing soft and designed to provide comfort and absorbency with every sheet. The mega rolls last longer and satisfy everyone in the household.",
+                        "brand": "Charmin",
+                        "categories": [
+                            "Household Supplies",
+                            "Bathroom Tissue",
+                            "Toilet Paper"
+                        ]
+                    },
+                    {
+                        "title": "Cascade Platinum Dishwasher Pods, Fresh Scent, 62 Count",
+                        "description": "Cascade Platinum Dishwasher Pods provide powerful cleaning action, cutting through grease and tough food deposits, leaving your dishes sparkling clean without the need for pre-rinsing.",
+                        "brand": "Cascade",
+                        "categories": [
+                            "Household Supplies",
+                            "Dishwashing",
+                            "Detergent"
+                        ]
+                    },
+                    {
+                        "title": "3M ScotchBlue Original Painter's Tape, 1.88 Inches x 60 Yards, 3 Rolls",
+                        "description": "3M ScotchBlue Painter's Tape is ideal for achieving clean paint lines on interior and exterior surfaces. Its medium adhesion makes it easy to remove and helps protect surfaces during paint jobs.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home Improvement",
+                            "Tools",
+                            "Tape"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000067"
+            },
+            {
+                "session": "purchase_history---session---10",
+                "time": "2024/Oct/21/10:59 AM",
+                "purchase_history": [
+                    {
+                        "title": "Kirkland Signature Premium Liquid Hand Soap, 4 Pack",
+                        "description": "Kirkland Signature Premium Liquid Hand Soap is gentle and effective, perfect for keeping hands clean and moisturized. Its convenient pump design makes it easy to use in any bathroom or kitchen.",
+                        "brand": "Kirkland Signature",
+                        "categories": [
+                            "Household Supplies",
+                            "Hand Soaps",
+                            "Liquid"
+                        ]
+                    },
+                    {
+                        "title": "Command Medium Hooks, 12 Hooks, 24 Strips",
+                        "description": "Command Medium Hooks are easy to apply and remove, providing a damage-free way to decorate and organize. Each hook can hold up to 3 pounds, making them ideal for hanging items like coats, bags, and kitchen utensils.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home Improvement",
+                            "Organization",
+                            "Hooks"
+                        ]
+                    },
+                    {
+                        "title": "Purell Advanced Hand Sanitizer Gel, 8 Fl Oz Pump Bottle",
+                        "description": "Purell Advanced Hand Sanitizer Gel provides effective hand cleaning when soap and water are not available. It kills 99.99% of most common germs, helping to keep hands hygienic in any setting.",
+                        "brand": "Purell",
+                        "categories": [
+                            "Health & Personal Care",
+                            "Hand Sanitizers"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000084"
+            },
+            {
+                "session": "purchase_history---session---11",
+                "time": "2024/Oct/22/08:55 PM",
+                "purchase_history": [
+                    {
+                        "title": "Marvel Legends Series Black Panther 6-inch Collectible Action Figure",
+                        "description": "This Marvel Legends Series figure features an authentic design of Black Panther, crafted with attention to detail from the iconic Black Panther movie. Perfect for fans and collectors alike.",
+                        "brand": "Hasbro",
+                        "categories": [
+                            "Toys & Games",
+                            "Action Figures",
+                            "Collectible Figures"
+                        ]
+                    },
+                    {
+                        "title": "Black Panther: The Official Movie Special (Hardcover)",
+                        "description": "Discover the behind-the-scenes story of Black Panther with this definitive movie special, featuring interviews with the cast and crew, exclusive images, and insights into the making of the film.",
+                        "brand": "Titan Comics",
+                        "categories": [
+                            "Books",
+                            "Entertainment",
+                            "Movie Guides & Reference"
+                        ]
+                    },
+                    {
+                        "title": "Marvel Black Panther King of Wakanda Men's T-Shirt",
+                        "description": "Showcase your love for Black Panther with this stylish men's t-shirt, featuring a vibrant design of the King of Wakanda. Made from soft cotton, it provides comfort and style for any fan.",
+                        "brand": "Marvel",
+                        "categories": [
+                            "Clothing",
+                            "Men's Fashion",
+                            "T-Shirts"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000104"
+            },
+            {
+                "session": "purchase_history---session---12",
+                "time": "2024/Oct/23/09:50 PM",
+                "purchase_history": [
+                    {
+                        "title": "Scott ComfortPlus Toilet Paper, Mega Rolls, 24 Count",
+                        "description": "Scott ComfortPlus Toilet Paper offers exceptional comfort and strength at a value price. Each mega roll lasts longer, providing you with additional convenience and fewer roll changes.",
+                        "brand": "Scott",
+                        "categories": [
+                            "Household Supplies",
+                            "Bathroom Tissue",
+                            "Toilet Paper"
+                        ]
+                    },
+                    {
+                        "title": "Windex Original Glass Cleaner, 23 Fl Oz Trigger Bottle",
+                        "description": "Windex Original Glass Cleaner leaves a streak-free shine, removing fingerprints, smudges, and other dirt from glass surfaces. Its ammonia-free formula is safe for use on a variety of surfaces.",
+                        "brand": "Windex",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Glass Cleaners"
+                        ]
+                    },
+                    {
+                        "title": "Staples Multipurpose Copy Paper, 5000 Sheets",
+                        "description": "Staples Multipurpose Copy Paper delivers high-quality performance for everyday printing and copying needs. This acid-free paper prevents yellowing over time and ensures sharp, clear print results.",
+                        "brand": "Staples",
+                        "categories": [
+                            "Office Supplies",
+                            "Paper",
+                            "Copy & Printer Paper"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000116"
+            },
+            {
+                "session": "purchase_history---session---13",
+                "time": "2024/Oct/24/08:26 PM",
+                "purchase_history": [
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes are all-purpose cleaning wipes that kill 99.9% of viruses and bacteria, making them perfect for quick and convenient cleaning of surfaces at home or office.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfectant Wipes"
+                        ]
+                    },
+                    {
+                        "title": "Pilot Precise V5 RT Refillable & Retractable Rolling Ball Pens, Extra Fine Point, Red Ink, 12-Pack",
+                        "description": "Pilot Precise V5 RT Pens offer smooth writing with a precise needle tip for accurate and detailed writing. The extra fine point is perfect for office or home use.",
+                        "brand": "Pilot",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing",
+                            "Pens"
+                        ]
+                    },
+                    {
+                        "title": "Tide Pods Laundry Detergent Pacs, Spring Meadow Scent, 81 Count",
+                        "description": "Tide Pods Laundry Detergent Pacs provide a powerful clean with a 3-in-1 concentrated formula, including detergent, stain remover, and color protector in one.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry Supplies",
+                            "Detergent"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000121"
+            },
+            {
+                "session": "purchase_history---session---14",
+                "time": "2024/Oct/25/05:45 PM",
+                "purchase_history": [
+                    {
+                        "title": "Bounty Select-A-Size Paper Towels, 12 Double Rolls",
+                        "description": "Bounty Select-A-Size Paper Towels are durable and highly absorbent, making them perfect for diverse cleaning tasks around the home. The select-a-size feature allows you to choose just the right amount of towel you need.",
+                        "brand": "Bounty",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Post-it Super Sticky Notes, 3 in x 3 in, 24 Pads",
+                        "description": "Post-it Super Sticky Notes have a unique adhesive that helps keep them in place, reliably sticking to surfaces like monitors, doors, and walls. They are perfect for organizing your work or home tasks.",
+                        "brand": "Post-it",
+                        "categories": [
+                            "Office Supplies",
+                            "Office Basics",
+                            "Sticky Notes"
+                        ]
+                    },
+                    {
+                        "title": "Brita Standard Water Filter Replacements, 3 Count",
+                        "description": "Brita Water Filter Replacements reduce chlorine taste and odor, ensuring your water tastes fresh and clean. Ideal for enhancing the quality of tap water, these filters are easy to replace.",
+                        "brand": "Brita",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Kitchen & Dining",
+                            "Water Filtration & Softeners"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000129"
+            },
+            {
+                "session": "purchase_history---session---15",
+                "time": "2024/Oct/26/09:03 AM",
+                "purchase_history": [
+                    {
+                        "title": "Yamaha YCL-255 Standard Bb Clarinet",
+                        "description": "The Yamaha YCL-255 Standard Bb Clarinet combines state-of-the-art production expertise with high-end Yamaha know-how. It's ideal for beginners and features a new adjustable thumb-rest and improved strap ring, making it more comfortable to play.",
+                        "brand": "Yamaha",
+                        "categories": [
+                            "Musical Instruments",
+                            "Woodwinds",
+                            "Clarinets"
+                        ]
+                    },
+                    {
+                        "title": "Vandoren Traditional Bb Clarinet Reeds, Box of 10",
+                        "description": "These traditional reeds are designed for a variety of musical styles, ensuring excellent response in all registers, even allowing a pianissimo attack of the highest notes.",
+                        "brand": "Vandoren",
+                        "categories": [
+                            "Musical Instruments",
+                            "Accessories",
+                            "Reeds"
+                        ]
+                    },
+                    {
+                        "title": "Korg TM60BK Tuner Metronome",
+                        "description": "The Korg TM60BK Tuner Metronome lets musicians tune their instruments and keep tempo with one convenient device. It's compact, easy to use, and comes with a large display screen.",
+                        "brand": "Korg",
+                        "categories": [
+                            "Musical Instruments",
+                            "Accessories",
+                            "Tuners & Metronomes"
+                        ]
+                    },
+                    {
+                        "title": "Clarinet Mouthpiece Cushions, 8 Pack",
+                        "description": "Protect your mouthpiece from teeth marks with these comfortable cushions. They help improve focus and comfort while playing.",
+                        "brand": "BG",
+                        "categories": [
+                            "Musical Instruments",
+                            "Accessories",
+                            "Mouthpieces"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000134"
+            },
+            {
+                "session": "purchase_history---session---16",
+                "time": "2024/Oct/28/10:22 AM",
+                "purchase_history": [
+                    {
+                        "title": "Scott Essential Multifold Paper Towels, 250 Towels per Pack, 16 Packs per Case",
+                        "description": "Scott Essential Multifold Paper Towels provide reliable absorbency and softness, perfect for everyday spills and cleaning. Designed for efficient single-use, they are ideal for home or office use, offering a continuous supply of clean towels.",
+                        "brand": "Scott",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Paper Towels"
+                        ]
+                    },
+                    {
+                        "title": "Duracell Coppertop AA Alkaline Batteries, 20 Count",
+                        "description": "Duracell Coppertop AA Batteries can be relied on for long-lasting power in various devices, from remotes to flashlights. Designed to deliver dependable performance, they provide lasting power when you need it the most.",
+                        "brand": "Duracell",
+                        "categories": [
+                            "Electronics",
+                            "Batteries",
+                            "AA"
+                        ]
+                    },
+                    {
+                        "title": "3M Scotch Magic Tape Dispenser, 3/4 x 1000 Inches, 6 Pack",
+                        "description": "3M Scotch Magic Tape is the preferred choice for offices and homes. Invisible when applied, it won't show on copies and resists yellowing or drying out. This dispenser pack provides a quick and reliable tape application.",
+                        "brand": "3M",
+                        "categories": [
+                            "Office Supplies",
+                            "Tape, Adhesives & Fasteners",
+                            "Transparent Tape"
+                        ]
+                    },
+                    {
+                        "title": "Purex Liquid Laundry Detergent, Mountain Breeze, 150 Fl Oz",
+                        "description": "Purex Mountain Breeze Detergent offers easy cleaning and brightening for your clothes. It\u2019s a smart value for every day, great for all washing machines, including high-efficiency models.",
+                        "brand": "Purex",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry Supplies",
+                            "Detergent"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000164"
+            },
+            {
+                "session": "purchase_history---session---17",
+                "time": "2024/Oct/28/04:38 PM",
+                "purchase_history": [
+                    {
+                        "title": "Dawn Ultra Dishwashing Liquid Dish Soap, Original Scent, 38 Fl Oz",
+                        "description": "Dawn Ultra Dishwashing Liquid Dish Soap effectively cuts through grease and grime, leaving dishes sparkling clean. Its powerful formula ensures a thorough clean with less effort.",
+                        "brand": "Dawn",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dishwashing"
+                        ]
+                    },
+                    {
+                        "title": "Ziploc Brand Storage Bags, Gallon, 150 Count",
+                        "description": "Ziploc Brand Storage Bags provide a convenient and reliable way to store and organize your food and household items. The durable, easy-sealing bags keep contents fresh and secure.",
+                        "brand": "Ziploc",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Kitchen Storage",
+                            "Food Storage Bags"
+                        ]
+                    },
+                    {
+                        "title": "Bic Round Stic Xtra Life Ballpoint Pen, Medium Point, 60-Count",
+                        "description": "Bic Round Stic Xtra Life Ballpoint Pen offers dependable writing performance. With a comfortable grip and consistent ink flow, it is ideal for everyday writing tasks.",
+                        "brand": "Bic",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing",
+                            "Pens"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000169"
+            },
+            {
+                "session": "purchase_history---session---18",
+                "time": "2024/Oct/28/05:59 PM",
+                "purchase_history": [
+                    {
+                        "title": "Miles Davis: Kind Of Blue (Vinyl)",
+                        "description": "Experience the timeless sound of jazz great Miles Davis with the 'Kind Of Blue' LP vinyl edition. This classic album is essential for any jazz aficionado's collection, featuring legendary tracks and pristine sound quality.",
+                        "brand": "Columbia Records",
+                        "categories": [
+                            "Music",
+                            "Vinyl",
+                            "Jazz"
+                        ]
+                    },
+                    {
+                        "title": "The Real Book - Jazz Standards",
+                        "description": "The Real Book is the essential jazz songbook, featuring exact note-for-note transcriptions of the most popular jazz standards. Perfect for musicians seeking to expand their repertoire and understanding of jazz.",
+                        "brand": "Hal Leonard",
+                        "categories": [
+                            "Books",
+                            "Sheet Music",
+                            "Jazz"
+                        ]
+                    },
+                    {
+                        "title": "Smooth Jazz Essential Groove Collection",
+                        "description": "Indulge in this Smooth Jazz Essential Groove Collection CD, offering a curated selection of smooth jazz tracks to set a relaxing ambiance at home or in the office. Great for champagne nights or lazy afternoons.",
+                        "brand": "Verve Music Group",
+                        "categories": [
+                            "Music",
+                            "CDs",
+                            "Jazz"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000171"
+            },
+            {
+                "session": "purchase_history---session---19",
+                "time": "2024/Oct/29/03:03 PM",
+                "purchase_history": [
+                    {
+                        "title": "Hefty Ultra Strong Trash Bags, 13 Gallon, Blackout, 90 Count",
+                        "description": "Hefty Ultra Strong Trash Bags deliver extra strength and load capacity for heavier waste. These blackout bags conceal trash while providing triple action technology to resist punctures, tears, and leaks.",
+                        "brand": "Hefty",
+                        "categories": [
+                            "Household Supplies",
+                            "Trash Bags",
+                            "Kitchen"
+                        ]
+                    },
+                    {
+                        "title": "Kleenex Soothing Lotion Facial Tissues, 3 Flat Boxes, 110 Tissues per Box",
+                        "description": "Enriched with soothing lotion, these Kleenex Facial Tissues are ideal for sensitive skin, providing comfort with each use. The flat box design is perfect for any room and fits well on countertops.",
+                        "brand": "Kleenex",
+                        "categories": [
+                            "Household Supplies",
+                            "Facial Tissue"
+                        ]
+                    },
+                    {
+                        "title": "Method All-Purpose Cleaner, French Lavender, 28 Fl Oz",
+                        "description": "Method All-Purpose Cleaner is made with plant-based ingredients, cutting through grease and grime on virtually any surface. The refreshing French Lavender scent leaves a lasting clean fragrance.",
+                        "brand": "Method",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Multi-Purpose Cleaners"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000179"
+            },
+            {
+                "session": "purchase_history---session---20",
+                "time": "2024/Oct/29/08:40 PM",
+                "purchase_history": [
+                    {
+                        "title": "Charmin Ultra Soft Toilet Paper, Family Mega Rolls, 24 Count",
+                        "description": "Charmin Ultra Soft Toilet Paper provides a comfortable and softer clean with its unique pillowy texture. The family mega rolls are designed to last longer and require less frequent roll changes.",
+                        "brand": "Charmin",
+                        "categories": [
+                            "Household Supplies",
+                            "Bathroom Tissue",
+                            "Toilet Paper"
+                        ]
+                    },
+                    {
+                        "title": "Arm & Hammer Baking Soda, 1 lb Box",
+                        "description": "Arm & Hammer Baking Soda is a versatile household staple, perfect for baking, cleaning, deodorizing, and more. With its all-natural and effective cleaning power, it's a must-have in every home.",
+                        "brand": "Arm & Hammer",
+                        "categories": [
+                            "Grocery",
+                            "Baking Supplies",
+                            "Baking Soda"
+                        ]
+                    },
+                    {
+                        "title": "Lysol Disinfectant Spray, Crisp Linen Scent, 19 Fl Oz",
+                        "description": "Lysol Disinfectant Spray kills 99.9% of germs and bacteria, helping to prevent the spread of illness. It leaves a fresh, crisp linen scent and can be used on various surfaces for a thorough clean.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfectant Sprays"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000189"
+            },
+            {
+                "session": "purchase_history---session---21",
+                "time": "2024/Oct/30/02:29 PM",
+                "purchase_history": [
+                    {
+                        "title": "Seventh Generation Liquid Laundry Detergent, Free & Clear, 100 Fl Oz",
+                        "description": "Seventh Generation Free & Clear Laundry Detergent is hypoallergenic and safe for sensitive skin. Made with plant-based ingredients, it effectively removes stains and dirt while being gentle on clothes.",
+                        "brand": "Seventh Generation",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry Supplies",
+                            "Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Rubbermaid Brilliance Food Storage Container, BPA-Free Plastic, 14-Piece Set",
+                        "description": "Rubbermaid Brilliance Food Storage Containers keep food fresh with leak-proof lids and clear, stain-resistant plastic. Ideal for pantry, fridge, or on-the-go use.",
+                        "brand": "Rubbermaid",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Kitchen Storage",
+                            "Food Storage Containers"
+                        ]
+                    },
+                    {
+                        "title": "Lysol Toilet Bowl Cleaner, Power & Fresh, 24 Fl Oz",
+                        "description": "Lysol Toilet Bowl Cleaner provides 10X cleaning power to remove the toughest stains and germs, leaving your toilet bowl fresh and sanitized.",
+                        "brand": "Lysol",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Bathroom Cleaners"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000198"
+            },
+            {
+                "session": "purchase_history---session---22",
+                "time": "2024/Oct/31/07:24 AM",
+                "purchase_history": [
+                    {
+                        "title": "Generic White Facial Tissues, 8 Boxes, 144 Tissues per Box",
+                        "description": "Soft and strong facial tissues perfect for home or office use. Suitable for all your wiping and sneezing needs.",
+                        "brand": "Generic",
+                        "categories": [
+                            "Household Supplies",
+                            "Facial Tissue"
+                        ]
+                    },
+                    {
+                        "title": "Elmer's All Purpose School Glue Sticks, Washable, 6 Pack",
+                        "description": "Elmer's School Glue Sticks are easy to apply and perfect for school projects. Safe for children, they dry clear and provide a strong bond.",
+                        "brand": "Elmer's",
+                        "categories": [
+                            "Office Supplies",
+                            "Glue & Adhesives",
+                            "Glue Sticks"
+                        ]
+                    },
+                    {
+                        "title": "Mr. Clean Multi-Surface Cleaner, Lemon Scent, 45 Fl Oz",
+                        "description": "Mr. Clean Multi-Surface Cleaner cuts through grease and grime on various surfaces, leaving behind a refreshing lemon scent.",
+                        "brand": "Mr. Clean",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Multi-Purpose Cleaners"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000205"
+            },
+            {
+                "session": "purchase_history---session---23",
+                "time": "2024/Nov/08/01:36 PM",
+                "purchase_history": [
+                    {
+                        "title": "Beloved by Toni Morrison",
+                        "description": "Winner of the Pulitzer Prize, 'Beloved' is an American classic that portrays the poignant story of Sethe, a woman haunted by her past and her memories of slavery. Toni Morrison's gripping narrative is a literary masterpiece.",
+                        "brand": "Vintage",
+                        "categories": [
+                            "Books",
+                            "Fiction",
+                            "Literature"
+                        ]
+                    },
+                    {
+                        "title": "The Bluest Eye by Toni Morrison",
+                        "description": "Toni Morrison\u2019s first novel, 'The Bluest Eye', is a powerful classic about race, identity, and beauty standards in the African American community. A profound exploration of societal pressures and personal tragedies.",
+                        "brand": "Vintage",
+                        "categories": [
+                            "Books",
+                            "Fiction",
+                            "Classics"
+                        ]
+                    },
+                    {
+                        "title": "Song of Solomon by Toni Morrison",
+                        "description": "In 'Song of Solomon', Toni Morrison spins a saga rich in the folklore and mystique of an African-American family, blending the surreal and the real in an unforgettable narrative.",
+                        "brand": "Knopf",
+                        "categories": [
+                            "Books",
+                            "Fiction",
+                            "Literature"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000290"
+            },
+            {
+                "session": "purchase_history---session---24",
+                "time": "2024/Nov/08/01:38 PM",
+                "purchase_history": [
+                    {
+                        "title": "Clorox Disinfecting Wipes, Fresh Scent, 75 Count",
+                        "description": "Clorox Disinfecting Wipes are effective in killing 99.9% of germs and bacteria. They are perfect for quick cleaning and disinfecting surfaces around your home or office, offering both practicality and efficiency.",
+                        "brand": "Clorox",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Disinfectant Wipes"
+                        ]
+                    },
+                    {
+                        "title": "Bic Wite-Out Correction Tape, 4 Pack",
+                        "description": "Bic Wite-Out Correction Tape provides a fast, clean way to correct mistakes. The film-based tape adheres smoothly and quickly, making it ideal for office or school use.",
+                        "brand": "Bic",
+                        "categories": [
+                            "Office Supplies",
+                            "Writing",
+                            "Correction Supplies"
+                        ]
+                    },
+                    {
+                        "title": "Cascade Platinum Dishwasher Pods, 62 Count",
+                        "description": "Cascade Platinum Dishwasher Pods deliver a powerful clean that fights grease and leaves dishes shining. Ideal for regular cleaning tasks and suitable for use in all dishwasher types.",
+                        "brand": "Cascade",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Dishwasher Detergents"
+                        ]
+                    },
+                    {
+                        "title": "Scotch-Brite Non-Scratch Scrub Sponges, 6 Sponges",
+                        "description": "Scotch-Brite Non-Scratch Scrub Sponges are perfect for everyday cleaning tasks on non-stick cookware or countertops, providing effective cleaning without damaging surfaces.",
+                        "brand": "Scotch-Brite",
+                        "categories": [
+                            "Household Supplies",
+                            "Cleaning Supplies",
+                            "Sponges"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000291"
+            },
+            {
+                "session": "purchase_history---session---25",
+                "time": "2024/Nov/09/07:46 PM",
+                "purchase_history": [
+                    {
+                        "title": "Kirkland Signature Premium Napkins, 240 Count",
+                        "description": "Kirkland Signature Premium Napkins offer superior quality and absorbency for everyday meals and gatherings. Each napkin is embossed for added elegance and softness.",
+                        "brand": "Kirkland Signature",
+                        "categories": [
+                            "Household Supplies",
+                            "Paper Goods",
+                            "Napkins"
+                        ]
+                    },
+                    {
+                        "title": "3M Command Medium and Large Picture Hanging Strips, 12 Pairs",
+                        "description": "3M Command Hanging Strips provide damage-free hanging solutions for decorating and organizing your home or office. Easy to apply and remove without leaving marks.",
+                        "brand": "3M",
+                        "categories": [
+                            "Home Improvement",
+                            "Tools & Home Improvement",
+                            "Hooks & Hangers"
+                        ]
+                    },
+                    {
+                        "title": "Tide Pods Laundry Detergent, Spring Meadow, 81 Count",
+                        "description": "Tide Pods clean, fight stains, and brighten clothes in one step. Spring Meadow scent offers a delightful fragrance, perfect for everyday use.",
+                        "brand": "Tide",
+                        "categories": [
+                            "Household Supplies",
+                            "Laundry Supplies",
+                            "Detergent"
+                        ]
+                    },
+                    {
+                        "title": "Post-It Super Sticky Notes, 3x3 Inch, 12 Pads",
+                        "description": "Post-It Super Sticky Notes stick securely and remove cleanly, featuring a strong adhesive for keeping notes in place. Available in assorted bright colors.",
+                        "brand": "Post-It",
+                        "categories": [
+                            "Office Supplies",
+                            "Paper",
+                            "Notebooks & Writing Pads"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000305"
+            }
+        ]
+    }
+]

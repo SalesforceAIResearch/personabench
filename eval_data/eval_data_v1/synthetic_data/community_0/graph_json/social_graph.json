@@ -1,0 +1,252 @@
+{
+    "nodes": [
+        {
+            "node": 1,
+            "properties": {
+                "name": "Jennifer Moran",
+                "persona": "A historian specializing in the study of war crimes and their impact on reconciliation processes."
+            }
+        },
+        {
+            "node": 2,
+            "properties": {
+                "name": "David Hess",
+                "persona": "A Kenyan citizen who experienced police harassment."
+            }
+        },
+        {
+            "node": 3,
+            "properties": {
+                "name": "Nicholas Torres",
+                "persona": "A middle-aged man who lives in Germany, is fond of chess, and is passionate about sharing knowledge online."
+            }
+        },
+        {
+            "node": 4,
+            "properties": {
+                "name": "Elena Fischer",
+                "persona": "A native German artist known for her abstract paintings."
+            }
+        },
+        {
+            "node": 5,
+            "properties": {
+                "name": "Samuel Mills",
+                "persona": "An American lawyer living in Nairobi, known for his witty humor and tight-knit group of friends."
+            }
+        },
+        {
+            "node": 6,
+            "properties": {
+                "name": "Amina Ali",
+                "persona": "A Kenyan chef renowned for her innovative fusion cuisine."
+            }
+        },
+        {
+            "node": 7,
+            "properties": {
+                "name": "Martin Ziegler",
+                "persona": "Nicholas's younger brother, an avid traveler who blogs about his journeys."
+            }
+        },
+        {
+            "node": 8,
+            "properties": {
+                "name": "Suzanne Clarke",
+                "persona": "A British author who often writes on historical fiction."
+            }
+        },
+        {
+            "node": 9,
+            "properties": {
+                "name": "Linda Moran",
+                "persona": "Jennifer's sister, a software engineer with a love for solving complex problems."
+            }
+        },
+        {
+            "node": 10,
+            "properties": {
+                "name": "Victor Hess",
+                "persona": "David's cousin, a Kenyan entrepreneur focused on sustainable agriculture."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 9,
+            "properties": {
+                "relationship": "sister",
+                "description": "Sisters with shared interests in technology and history."
+            }
+        },
+        {
+            "source": 1,
+            "target": 8,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Collaborated on a historical fiction project."
+            }
+        },
+        {
+            "source": 1,
+            "target": 5,
+            "properties": {
+                "relationship": "friend",
+                "description": "Met during an international conference in Nairobi."
+            }
+        },
+        {
+            "source": 2,
+            "target": 10,
+            "properties": {
+                "relationship": "cousin",
+                "description": "Cousins who grew up together in Kenya."
+            }
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "properties": {
+                "relationship": "friend",
+                "description": "Long-time friends with a shared love of food."
+            }
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "properties": {
+                "relationship": "service provider",
+                "description": "Represented David in a legal case related to police harassment."
+            }
+        },
+        {
+            "source": 3,
+            "target": 7,
+            "properties": {
+                "relationship": "brother",
+                "description": "Close siblings who often travel together."
+            }
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "properties": {
+                "relationship": "neighbor",
+                "description": "Live in the same neighborhood in Germany and share artistic interests."
+            }
+        },
+        {
+            "source": 4,
+            "target": 3,
+            "properties": {
+                "relationship": "neighbor",
+                "description": "Live in the same neighborhood in Germany and share artistic interests."
+            }
+        },
+        {
+            "source": 4,
+            "target": 8,
+            "properties": {
+                "relationship": "friend",
+                "description": "Met at an art exhibition and have been friends since."
+            }
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "properties": {
+                "relationship": "client",
+                "description": "Represented David in a legal case related to police harassment."
+            }
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "properties": {
+                "relationship": "service provider",
+                "description": "Samuel is a regular client for her catering services."
+            }
+        },
+        {
+            "source": 5,
+            "target": 1,
+            "properties": {
+                "relationship": "friend",
+                "description": "Met during an international conference in Nairobi."
+            }
+        },
+        {
+            "source": 6,
+            "target": 5,
+            "properties": {
+                "relationship": "client",
+                "description": "Regularly hires Amina to cater events."
+            }
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "properties": {
+                "relationship": "friend",
+                "description": "Long-time friends with a shared love of food."
+            }
+        },
+        {
+            "source": 7,
+            "target": 3,
+            "properties": {
+                "relationship": "brother",
+                "description": "Close siblings who often travel together."
+            }
+        },
+        {
+            "source": 8,
+            "target": 4,
+            "properties": {
+                "relationship": "friend",
+                "description": "Met at an art exhibition and have been friends since."
+            }
+        },
+        {
+            "source": 8,
+            "target": 9,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Worked together on a tech-driven historical project."
+            }
+        },
+        {
+            "source": 8,
+            "target": 1,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Collaborated on a historical fiction project."
+            }
+        },
+        {
+            "source": 9,
+            "target": 1,
+            "properties": {
+                "relationship": "sister",
+                "description": "Sisters with shared interests in technology and history."
+            }
+        },
+        {
+            "source": 9,
+            "target": 8,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Worked together on a tech-driven historical project."
+            }
+        },
+        {
+            "source": 10,
+            "target": 2,
+            "properties": {
+                "relationship": "cousin",
+                "description": "Cousins who grew up together in Kenya."
+            }
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "Name": "David Hess",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/23/08:05 PM",
+            "purchase_history": [
+                {
+                    "title": "Activism and Social Justice: A Toolkit for Organizing Workshops",
+                    "description": "A comprehensive guide to organizing effective workshops and events focused on activism and social justice. Perfect for community organizers looking to strengthen their skills.",
+                    "brand": "Organize It!",
+                    "categories": [
+                        "Books",
+                        "Education",
+                        "Social Justice"
+                    ]
+                },
+                {
+                    "title": "Community Engagement: Starter Guide Kit",
+                    "description": "This starter kit includes all the essentials for launching a successful community engagement event. Featuring customizable banners, pamphlets, and organizational tools.",
+                    "brand": "Community Connect",
+                    "categories": [
+                        "Business & Industrial",
+                        "Office Supplies",
+                        "Event Supplies"
+                    ]
+                },
+                {
+                    "title": "Energizers and Icebreakers for Community Building",
+                    "description": "A set of interactive games and activities designed to break the ice and build camaraderie at community events. Includes a guide with step-by-step instructions.",
+                    "brand": "Unity Games",
+                    "categories": [
+                        "Toys & Games",
+                        "Party Supplies",
+                        "Activity Kits"
+                    ]
+                }
+            ],
+            "segment_id": "000001000027"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Nov/04/01:51 PM",
+            "purchase_history": [
+                {
+                    "title": "Effective Public Speaking: A Guide to Confident Communication",
+                    "description": "A detailed manual for aspiring speakers, focusing on techniques to enhance clarity and confidence in public speaking. Ideal for professionals, educators, and community leaders.",
+                    "brand": "SpeakEasy",
+                    "categories": [
+                        "Books",
+                        "Education",
+                        "Self-Help"
+                    ]
+                },
+                {
+                    "title": "Public Speaking and Presentation Workshop Kit",
+                    "description": "This workshop kit includes materials to conduct professional public speaking training, with presentation templates, evaluation sheets, and feedback forms.",
+                    "brand": "ProPresent",
+                    "categories": [
+                        "Business & Industrial",
+                        "Office Supplies",
+                        "Training & Development"
+                    ]
+                },
+                {
+                    "title": "Wireless Clip-on Microphone for Live Presentations",
+                    "description": "High-quality clip-on microphone for clear audio during live presentations and public speaking events. Features a compact design and easy-to-use wireless connection for mobility.",
+                    "brand": "AudioPro",
+                    "categories": [
+                        "Electronics",
+                        "Audio & Video",
+                        "Microphones"
+                    ]
+                }
+            ],
+            "segment_id": "000001000055"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Nov/11/09:22 AM",
+            "purchase_history": [
+                {
+                    "title": "Mastering the Art of French Cooking, Volume 1",
+                    "description": "This classic cookbook offers a comprehensive guide to mastering the fundamentals of French cuisine, essential for any aspiring chef.",
+                    "brand": "Julia Child",
+                    "categories": [
+                        "Books",
+                        "Cooking",
+                        "French Cuisine"
+                    ]
+                },
+                {
+                    "title": "12-Piece Stainless Steel Kitchen Knife Set with Wood Block",
+                    "description": "A professional-grade kitchen knife set featuring durable stainless steel blades for precise cuts. Includes a sturdy wood block for safe storage.",
+                    "brand": "Chef's Cuisine",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cookware & Gadgets",
+                        "Knife Sets"
+                    ]
+                },
+                {
+                    "title": "Enamel Cast Iron Dutch Oven - 5 Quart",
+                    "description": "Versatile and durable, this enamel-coated cast iron dutch oven is perfect for slow-cooking, simmering, baking, and more.",
+                    "brand": "Grand Gourmet",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cookware & Gadgets",
+                        "Dutch Ovens"
+                    ]
+                }
+            ],
+            "segment_id": "000001000079"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Nov/11/01:42 PM",
+            "purchase_history": [
+                {
+                    "title": "Volunteer Management Handbook: Strategies for Success",
+                    "description": "A strategic guide for effective volunteer management, offering insights and practical solutions for enhancing volunteer recruitment, retention, and satisfaction.",
+                    "brand": "Volunteer Alliance",
+                    "categories": [
+                        "Books",
+                        "Business & Money",
+                        "Nonprofit Management"
+                    ]
+                },
+                {
+                    "title": "Reusable Name Badge Kit for Events",
+                    "description": "Eco-friendly reusable name badges perfect for organizing events and workshops. Features customizable inserts and durable plastic protectors.",
+                    "brand": "Eco Badge Co.",
+                    "categories": [
+                        "Office Products",
+                        "Office Supplies",
+                        "Forms, Recordkeeping & Money Handling"
+                    ]
+                },
+                {
+                    "title": "Interactive Workshop Whiteboard Set",
+                    "description": "Compact whiteboard set with markers and erasers designed for interactive sessions. Ideal for brainstorming and collaborative planning in workshops.",
+                    "brand": "PlanMaster",
+                    "categories": [
+                        "Office Products",
+                        "Office Supplies",
+                        "Presentation Boards"
+                    ]
+                }
+            ],
+            "segment_id": "000001000083"
+        }
+    ]
+}

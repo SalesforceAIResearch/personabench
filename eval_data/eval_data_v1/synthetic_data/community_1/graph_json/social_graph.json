@@ -1,0 +1,252 @@
+{
+    "nodes": [
+        {
+            "node": 1,
+            "properties": {
+                "name": "Kelly Simon",
+                "persona": "A health minister advocating for the integration of telemedicine into national healthcare systems."
+            }
+        },
+        {
+            "node": 2,
+            "properties": {
+                "name": "Mrs. Nicole Mcdonald DDS",
+                "persona": "A military veteran struggling with PTSD who is participating in the research study."
+            }
+        },
+        {
+            "node": 3,
+            "properties": {
+                "name": "Mr. Nicholas Richmond MD",
+                "persona": "A third-generation member of the Bethel A.M.E. Church."
+            }
+        },
+        {
+            "node": 4,
+            "properties": {
+                "name": "Dr. Emily Carter",
+                "persona": "A renowned epidemiologist known for her collaborative efforts in public health projects."
+            }
+        },
+        {
+            "node": 5,
+            "properties": {
+                "name": "Mr. James Mcdonald",
+                "persona": "A dedicated family man and a logistics officer in the army."
+            }
+        },
+        {
+            "node": 6,
+            "properties": {
+                "name": "Ms. Clara Hall",
+                "persona": "A compassionate nurse working in community healthcare."
+            }
+        },
+        {
+            "node": 7,
+            "properties": {
+                "name": "Mr. Daniel Simon",
+                "persona": "Kelly's husband, an architect with a passion for sustainable design."
+            }
+        },
+        {
+            "node": 8,
+            "properties": {
+                "name": "Ms. Laura Richmond",
+                "persona": "Sister of Nicholas, a school teacher with a love for arts."
+            }
+        },
+        {
+            "node": 9,
+            "properties": {
+                "name": "Dr. William Nguyen",
+                "persona": "An innovative surgeon known for pioneering modern surgical techniques."
+            }
+        },
+        {
+            "node": 10,
+            "properties": {
+                "name": "Sarah Carter",
+                "persona": "A young entrepreneur designing eco-friendly products."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": 1,
+            "target": 7,
+            "properties": {
+                "relationship": "wife",
+                "description": "Married for ten years."
+            }
+        },
+        {
+            "source": 1,
+            "target": 4,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Collaborated on multiple public health projects."
+            }
+        },
+        {
+            "source": 1,
+            "target": 3,
+            "properties": {
+                "relationship": "friend",
+                "description": "Met at a community event and formed a lasting friendship over shared interests."
+            }
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "properties": {
+                "relationship": "wife",
+                "description": "Married shortly after returning from service."
+            }
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "properties": {
+                "relationship": "client",
+                "description": "Provides PTSD support as part of community outreach."
+            }
+        },
+        {
+            "source": 3,
+            "target": 8,
+            "properties": {
+                "relationship": "brother",
+                "description": "Siblings growing up in the same community."
+            }
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "properties": {
+                "relationship": "friend",
+                "description": "Met at a community event and formed a lasting friendship over shared interests."
+            }
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Active members of the church's community wellness program."
+            }
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Collaborated on multiple public health projects."
+            }
+        },
+        {
+            "source": 4,
+            "target": 9,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Worked together on surgical improvement initiatives."
+            }
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "properties": {
+                "relationship": "friend",
+                "description": "Longtime friends from med school."
+            }
+        },
+        {
+            "source": 5,
+            "target": 2,
+            "properties": {
+                "relationship": "husband",
+                "description": "Married shortly after returning from service."
+            }
+        },
+        {
+            "source": 6,
+            "target": 2,
+            "properties": {
+                "relationship": "service provider",
+                "description": "Provides PTSD support as part of community outreach."
+            }
+        },
+        {
+            "source": 6,
+            "target": 4,
+            "properties": {
+                "relationship": "friend",
+                "description": "Longtime friends from med school."
+            }
+        },
+        {
+            "source": 6,
+            "target": 3,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Active members of the church's community wellness program."
+            }
+        },
+        {
+            "source": 7,
+            "target": 1,
+            "properties": {
+                "relationship": "husband",
+                "description": "Married for ten years."
+            }
+        },
+        {
+            "source": 8,
+            "target": 3,
+            "properties": {
+                "relationship": "sister",
+                "description": "Siblings growing up in the same community."
+            }
+        },
+        {
+            "source": 8,
+            "target": 10,
+            "properties": {
+                "relationship": "neighbor",
+                "description": "Live in the same neighborhood and frequently interact."
+            }
+        },
+        {
+            "source": 9,
+            "target": 4,
+            "properties": {
+                "relationship": "colleague",
+                "description": "Worked together on surgical improvement initiatives."
+            }
+        },
+        {
+            "source": 9,
+            "target": 10,
+            "properties": {
+                "relationship": "father",
+                "description": "Proud of his daughter's entrepreneurial spirit."
+            }
+        },
+        {
+            "source": 10,
+            "target": 9,
+            "properties": {
+                "relationship": "daughter",
+                "description": "Cherishes her father's support and guidance."
+            }
+        },
+        {
+            "source": 10,
+            "target": 8,
+            "properties": {
+                "relationship": "neighbor",
+                "description": "Live in the same neighborhood and frequently interact."
+            }
+        }
+    ]
+}

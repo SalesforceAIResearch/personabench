@@ -1,0 +1,41 @@
+{
+    "Name": "Nicholas Torres",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/28/09:00 AM",
+            "purchase_history": [
+                {
+                    "title": "The Imitation Game DVD",
+                    "description": "Based on the real-life story of legendary cryptanalyst Alan Turing, The Imitation Game portrays the intense race against time by Turing and his brilliant team of code-breakers during the darkest days of World War II.",
+                    "brand": "Sony Pictures Home Entertainment",
+                    "categories": [
+                        "Movies & TV",
+                        "Drama"
+                    ]
+                },
+                {
+                    "title": "The Imitation Game: Alan Turing Decoded - Paperback",
+                    "description": "An official biography of legendary codebreaker Alan Turing, revealing his path from a brilliant mathematician to the pioneering mind behind modern computing.",
+                    "brand": "Princeton University Press",
+                    "categories": [
+                        "Books",
+                        "Biographies & Memoirs",
+                        "Scientists"
+                    ]
+                },
+                {
+                    "title": "World War II British Bletchley Park Coffee Mug",
+                    "description": "Celebrate the history of Bletchley Park, the iconic site of secret codebreaking, with this coffee mug. Perfect for history enthusiasts and fans of The Imitation Game.",
+                    "brand": "Historical Souvenirs Co.",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Drinkware",
+                        "Mugs"
+                    ]
+                }
+            ],
+            "segment_id": "000002000023"
+        }
+    ]
+}

@@ -1,0 +1,322 @@
+[
+    {
+        "Name": "Jennifer Moran",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/20/08:17 AM",
+                "purchase_history": [
+                    {
+                        "title": "FluentU Language Learning App Subscription",
+                        "description": "FluentU brings language learning to life through interactive videos and real world dialogues, making it easy to learn and remember a new language.",
+                        "brand": "FluentU",
+                        "categories": [
+                            "Software",
+                            "Education & Reference",
+                            "Language Learning"
+                        ]
+                    },
+                    {
+                        "title": "Moleskine Classic Notebook, Soft Cover, Large (5 x 8.25)",
+                        "description": "The Moleskine notebook is beloved by travelers and language enthusiasts alike, perfect for jotting down new vocabulary and practicing writing in various languages.",
+                        "brand": "Moleskine",
+                        "categories": [
+                            "Office Supplies",
+                            "Notebooks",
+                            "Journals"
+                        ]
+                    },
+                    {
+                        "title": "Pimsleur Spanish (Latin American) Language Course",
+                        "description": "Immerse yourself in Spanish with this comprehensive audio course that helps you learn through repeated listening and speaking in the car, or on-the-go.",
+                        "brand": "Pimsleur",
+                        "categories": [
+                            "Books",
+                            "Audiobooks",
+                            "Language Learning"
+                        ]
+                    }
+                ],
+                "segment_id": "000000000025"
+            },
+            {
+                "session": "purchase_history---session---2",
+                "time": "2024/Nov/02/08:57 AM",
+                "purchase_history": [
+                    {
+                        "title": "Kaytee Fiesta Parrot Food, 4.5-lb bag",
+                        "description": "A premium blend of seeds, grains, fruits, and veggies that provide complete nutrition for your pet parrot, ensuring they thrive and stay healthy.",
+                        "brand": "Kaytee",
+                        "categories": [
+                            "Pet Supplies",
+                            "Birds",
+                            "Bird Food"
+                        ]
+                    },
+                    {
+                        "title": "Prevue Hendryx Wrought Iron Select Bird Cage, Chalk White",
+                        "description": "This spacious bird cage features a playtop area and durable wrought iron construction, perfect for providing a comfortable home for your parrot Polly.",
+                        "brand": "Prevue Hendryx",
+                        "categories": [
+                            "Pet Supplies",
+                            "Birds",
+                            "Cages & Accessories"
+                        ]
+                    },
+                    {
+                        "title": "Vet's Best Avian Vitam Triplex, 120-count",
+                        "description": "Offer your feathered friend Polly the ultimate in nutritional support with these easy-to-administer vitamin tablets designed especially for parrots.",
+                        "brand": "Vet's Best",
+                        "categories": [
+                            "Pet Supplies",
+                            "Birds",
+                            "Health Supplies"
+                        ]
+                    }
+                ],
+                "segment_id": "000000000064"
+            },
+            {
+                "session": "purchase_history---session---3",
+                "time": "2024/Nov/06/06:31 PM",
+                "purchase_history": [
+                    {
+                        "title": "Roland GO:PIANO88 Digital Piano with 88 Keys",
+                        "description": "Start playing piano with professional-quality sound! The Roland GO:PIANO88 features 88 standard-sized keys, making it easy to transition to a real acoustic piano.",
+                        "brand": "Roland",
+                        "categories": [
+                            "Musical Instruments",
+                            "Keyboards & MIDI",
+                            "Digital Pianos"
+                        ]
+                    },
+                    {
+                        "title": "Hal Leonard Piano Adventures Lesson Book - Primer Level",
+                        "description": "A comprehensive guide for beginner pianists to learn at their own pace, this book includes sight-reading and musical terminology which is presented in a logical, sequential order.",
+                        "brand": "Hal Leonard",
+                        "categories": [
+                            "Books",
+                            "Arts & Photography",
+                            "Music Instruction & Study"
+                        ]
+                    },
+                    {
+                        "title": "Casio ARST Single-X Adjustable Keyboard Stand",
+                        "description": "This versatile keyboard stand offers stability and adjusts to different heights, ensuring comfortable and reliable support for a wide range of electronic pianos.",
+                        "brand": "Casio",
+                        "categories": [
+                            "Musical Instruments",
+                            "Accessories",
+                            "Keyboard Stands"
+                        ]
+                    },
+                    {
+                        "title": "On-Stage Deluxe X-Style Keyboard Bench",
+                        "description": "Comfort meets durability with the On-Stage Deluxe X-Style Keyboard Bench. Perfect for long practice sessions with adjustable height settings to fit any musician.",
+                        "brand": "On-Stage",
+                        "categories": [
+                            "Musical Instruments",
+                            "Accessories",
+                            "Keyboard Benches"
+                        ]
+                    }
+                ],
+                "segment_id": "000000000079"
+            }
+        ]
+    },
+    {
+        "Name": "David Hess",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/23/08:05 PM",
+                "purchase_history": [
+                    {
+                        "title": "Activism and Social Justice: A Toolkit for Organizing Workshops",
+                        "description": "A comprehensive guide to organizing effective workshops and events focused on activism and social justice. Perfect for community organizers looking to strengthen their skills.",
+                        "brand": "Organize It!",
+                        "categories": [
+                            "Books",
+                            "Education",
+                            "Social Justice"
+                        ]
+                    },
+                    {
+                        "title": "Community Engagement: Starter Guide Kit",
+                        "description": "This starter kit includes all the essentials for launching a successful community engagement event. Featuring customizable banners, pamphlets, and organizational tools.",
+                        "brand": "Community Connect",
+                        "categories": [
+                            "Business & Industrial",
+                            "Office Supplies",
+                            "Event Supplies"
+                        ]
+                    },
+                    {
+                        "title": "Energizers and Icebreakers for Community Building",
+                        "description": "A set of interactive games and activities designed to break the ice and build camaraderie at community events. Includes a guide with step-by-step instructions.",
+                        "brand": "Unity Games",
+                        "categories": [
+                            "Toys & Games",
+                            "Party Supplies",
+                            "Activity Kits"
+                        ]
+                    }
+                ],
+                "segment_id": "000001000027"
+            },
+            {
+                "session": "purchase_history---session---2",
+                "time": "2024/Nov/04/01:51 PM",
+                "purchase_history": [
+                    {
+                        "title": "Effective Public Speaking: A Guide to Confident Communication",
+                        "description": "A detailed manual for aspiring speakers, focusing on techniques to enhance clarity and confidence in public speaking. Ideal for professionals, educators, and community leaders.",
+                        "brand": "SpeakEasy",
+                        "categories": [
+                            "Books",
+                            "Education",
+                            "Self-Help"
+                        ]
+                    },
+                    {
+                        "title": "Public Speaking and Presentation Workshop Kit",
+                        "description": "This workshop kit includes materials to conduct professional public speaking training, with presentation templates, evaluation sheets, and feedback forms.",
+                        "brand": "ProPresent",
+                        "categories": [
+                            "Business & Industrial",
+                            "Office Supplies",
+                            "Training & Development"
+                        ]
+                    },
+                    {
+                        "title": "Wireless Clip-on Microphone for Live Presentations",
+                        "description": "High-quality clip-on microphone for clear audio during live presentations and public speaking events. Features a compact design and easy-to-use wireless connection for mobility.",
+                        "brand": "AudioPro",
+                        "categories": [
+                            "Electronics",
+                            "Audio & Video",
+                            "Microphones"
+                        ]
+                    }
+                ],
+                "segment_id": "000001000055"
+            },
+            {
+                "session": "purchase_history---session---3",
+                "time": "2024/Nov/11/09:22 AM",
+                "purchase_history": [
+                    {
+                        "title": "Mastering the Art of French Cooking, Volume 1",
+                        "description": "This classic cookbook offers a comprehensive guide to mastering the fundamentals of French cuisine, essential for any aspiring chef.",
+                        "brand": "Julia Child",
+                        "categories": [
+                            "Books",
+                            "Cooking",
+                            "French Cuisine"
+                        ]
+                    },
+                    {
+                        "title": "12-Piece Stainless Steel Kitchen Knife Set with Wood Block",
+                        "description": "A professional-grade kitchen knife set featuring durable stainless steel blades for precise cuts. Includes a sturdy wood block for safe storage.",
+                        "brand": "Chef's Cuisine",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cookware & Gadgets",
+                            "Knife Sets"
+                        ]
+                    },
+                    {
+                        "title": "Enamel Cast Iron Dutch Oven - 5 Quart",
+                        "description": "Versatile and durable, this enamel-coated cast iron dutch oven is perfect for slow-cooking, simmering, baking, and more.",
+                        "brand": "Grand Gourmet",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Cookware & Gadgets",
+                            "Dutch Ovens"
+                        ]
+                    }
+                ],
+                "segment_id": "000001000079"
+            },
+            {
+                "session": "purchase_history---session---4",
+                "time": "2024/Nov/11/01:42 PM",
+                "purchase_history": [
+                    {
+                        "title": "Volunteer Management Handbook: Strategies for Success",
+                        "description": "A strategic guide for effective volunteer management, offering insights and practical solutions for enhancing volunteer recruitment, retention, and satisfaction.",
+                        "brand": "Volunteer Alliance",
+                        "categories": [
+                            "Books",
+                            "Business & Money",
+                            "Nonprofit Management"
+                        ]
+                    },
+                    {
+                        "title": "Reusable Name Badge Kit for Events",
+                        "description": "Eco-friendly reusable name badges perfect for organizing events and workshops. Features customizable inserts and durable plastic protectors.",
+                        "brand": "Eco Badge Co.",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Forms, Recordkeeping & Money Handling"
+                        ]
+                    },
+                    {
+                        "title": "Interactive Workshop Whiteboard Set",
+                        "description": "Compact whiteboard set with markers and erasers designed for interactive sessions. Ideal for brainstorming and collaborative planning in workshops.",
+                        "brand": "PlanMaster",
+                        "categories": [
+                            "Office Products",
+                            "Office Supplies",
+                            "Presentation Boards"
+                        ]
+                    }
+                ],
+                "segment_id": "000001000083"
+            }
+        ]
+    },
+    {
+        "Name": "Nicholas Torres",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/28/09:00 AM",
+                "purchase_history": [
+                    {
+                        "title": "The Imitation Game DVD",
+                        "description": "Based on the real-life story of legendary cryptanalyst Alan Turing, The Imitation Game portrays the intense race against time by Turing and his brilliant team of code-breakers during the darkest days of World War II.",
+                        "brand": "Sony Pictures Home Entertainment",
+                        "categories": [
+                            "Movies & TV",
+                            "Drama"
+                        ]
+                    },
+                    {
+                        "title": "The Imitation Game: Alan Turing Decoded - Paperback",
+                        "description": "An official biography of legendary codebreaker Alan Turing, revealing his path from a brilliant mathematician to the pioneering mind behind modern computing.",
+                        "brand": "Princeton University Press",
+                        "categories": [
+                            "Books",
+                            "Biographies & Memoirs",
+                            "Scientists"
+                        ]
+                    },
+                    {
+                        "title": "World War II British Bletchley Park Coffee Mug",
+                        "description": "Celebrate the history of Bletchley Park, the iconic site of secret codebreaking, with this coffee mug. Perfect for history enthusiasts and fans of The Imitation Game.",
+                        "brand": "Historical Souvenirs Co.",
+                        "categories": [
+                            "Home & Kitchen",
+                            "Drinkware",
+                            "Mugs"
+                        ]
+                    }
+                ],
+                "segment_id": "000002000023"
+            }
+        ]
+    }
+]

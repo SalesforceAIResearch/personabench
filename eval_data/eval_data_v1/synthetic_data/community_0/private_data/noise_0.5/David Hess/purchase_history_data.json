@@ -1,0 +1,227 @@
+{
+    "Name": "David Hess",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/14/02:40 PM",
+            "purchase_history": [
+                {
+                    "title": "Scott Essential Professional Bulk Toilet Paper for Business, Standard Rolls, 80 Rolls/Case",
+                    "description": "Meet your office's restroom needs with Scott Essential Professional bulk toilet paper. These standard rolls come with 550 sheets per roll and 80 rolls per case, offering a high-capacity solution for busy washrooms.",
+                    "brand": "Scott Essential",
+                    "categories": [
+                        "Office Products",
+                        "Cleaning Supplies",
+                        "Sanitary Paper Products"
+                    ]
+                },
+                {
+                    "title": "BIC Round Stic Xtra Life Ballpoint Pen, Medium Point (1.0mm), Black, 60-Count",
+                    "description": "The BIC Round Stic Xtra Life Ballpoint Pen provides consistent ink flow for a smooth writing experience. The versatile black ink makes these pens ideal for use in homes, schools, and offices.",
+                    "brand": "BIC",
+                    "categories": [
+                        "Office Products",
+                        "Writing Instruments",
+                        "Ballpoint Pens"
+                    ]
+                },
+                {
+                    "title": "Seventh Generation Liquid Laundry Soap, Laundry Detergent Fresh Lavender Scent, 100 fl oz",
+                    "description": "Seventh Generation Liquid Laundry Detergent is tough on stains and made with plant-based ingredients. The fresh lavender scent leaves your clothes spotless and fresh.",
+                    "brand": "Seventh Generation",
+                    "categories": [
+                        "Household Supplies",
+                        "Laundry Products",
+                        "Detergent"
+                    ]
+                }
+            ],
+            "segment_id": "000001000003"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Oct/17/05:12 PM",
+            "purchase_history": [
+                {
+                    "title": "Theatre of the World: The Essentials Collection - Drama Edition",
+                    "description": "An exclusive collection of critically acclaimed drama films from around the world, featuring award-winning performances and powerful storytelling. Perfect for drama enthusiasts looking to expand their cinematic horizons.",
+                    "brand": "Cinema Classics",
+                    "categories": [
+                        "Movies & TV",
+                        "Genre DVD",
+                        "Drama"
+                    ]
+                },
+                {
+                    "title": "Breville Tea Maker with Infuser for Artisan Loose Leaf Brew Subtleties",
+                    "description": "Enjoy a relaxed movie night with the perfect cup of tea. This tea maker is designed for loose-leaf tea lovers who appreciate the nuances of flavor and aroma that different brewing times can bring.",
+                    "brand": "Breville",
+                    "categories": [
+                        "Kitchen & Dining",
+                        "Coffee & Tea",
+                        "Teapots & Tea Makers"
+                    ]
+                },
+                {
+                    "title": "Plush Velvet Throw Blanket for Cozy Evenings",
+                    "description": "Wrap yourself in this sumptuous velvet throw blanket while enjoying your favorite drama films. Its rich texture and warmth create the ideal cozy ambiance for a night of binge-watching.",
+                    "brand": "Home Comfort",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Bedding",
+                        "Blankets & Throws"
+                    ]
+                }
+            ],
+            "segment_id": "000001000024"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Oct/24/05:47 PM",
+            "purchase_history": [
+                {
+                    "title": "Crafting Compelling Narratives: A Workbook for Writers",
+                    "description": "This workbook is designed to enhance your storytelling skills. It provides exercises and prompts to help you create engaging narratives, whether for personal or professional purposes.",
+                    "brand": "Writer's Haven",
+                    "categories": [
+                        "Books",
+                        "Writing Skills",
+                        "Creative Writing"
+                    ]
+                },
+                {
+                    "title": "Digital Voice Recorder - Portable Audio Recorder for Storytelling and Interviews",
+                    "description": "Capture every detail of your storytelling sessions or interviews with this compact digital voice recorder, featuring high-quality audio recording and long battery life.",
+                    "brand": "TechPro",
+                    "categories": [
+                        "Electronics",
+                        "Audio & Video",
+                        "Voice Recorders"
+                    ]
+                },
+                {
+                    "title": "Inkbound Journal for Daily Reflections in Storytelling",
+                    "description": "A beautifully crafted inkbound journal designed for storytellers to jot down daily reflections, anecdotes, and story ideas with ease.",
+                    "brand": "Mindful Journals",
+                    "categories": [
+                        "Office Supplies",
+                        "Notebooks & Writing Pads",
+                        "Journals"
+                    ]
+                }
+            ],
+            "segment_id": "000001000052"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Oct/25/01:58 PM",
+            "purchase_history": [
+                {
+                    "title": "The Comedy Central Roast Collection - Uncensored Edition",
+                    "description": "This uncensored collection brings together the most hilarious and outrageous comedy roasts from Comedy Central. Featuring a lineup of celebrity targets and guest roasters, this DVD set is a must-have for comedy fans who love to laugh out loud.",
+                    "brand": "Comedy Central",
+                    "categories": [
+                        "Movies & TV",
+                        "Genre DVD",
+                        "Comedy"
+                    ]
+                },
+                {
+                    "title": "Monty Python's Flying Circus: The Complete Series Box Set",
+                    "description": "Experience the iconic British comedy series in its entirety with the complete box set of Monty Python's Flying Circus. Packed with absurd sketches and unforgettable characters, this collection is perfect for classic comedy enthusiasts.",
+                    "brand": "BBC",
+                    "categories": [
+                        "Movies & TV",
+                        "TV Series",
+                        "Comedy"
+                    ]
+                },
+                {
+                    "title": "Comedy Writing Secrets: The Best-Selling Book on How to Think Funny, Write Funny, Act Funny, and Get Paid for It",
+                    "description": "This comprehensive guide delves into the techniques used by professional comedy writers to craft hilarious content. Ideal for those interested in improving their comedic writing skills.",
+                    "brand": "Writer's Digest Books",
+                    "categories": [
+                        "Books",
+                        "Humor & Entertainment",
+                        "Writing"
+                    ]
+                }
+            ],
+            "segment_id": "000001000056"
+        },
+        {
+            "session": "purchase_history---session---5",
+            "time": "2024/Oct/28/10:56 AM",
+            "purchase_history": [
+                {
+                    "title": "Tide Pods Laundry Detergent Pacs, Spring Meadow Scent, 81 Count",
+                    "description": "Tide Pods offer a powerful clean in one step. Featuring Spring Meadow scent, these laundry detergent pacs dissolve quickly in water to clean laundry even in cold cycles.",
+                    "brand": "Tide",
+                    "categories": [
+                        "Household Supplies",
+                        "Laundry Products",
+                        "Detergent"
+                    ]
+                },
+                {
+                    "title": "Staples Standard Staples, 5,000 Pack",
+                    "description": "Staples brand staples are designed for standard staplers. Provides reliable stapling performance for securing important documents, presentations, and more.",
+                    "brand": "Staples",
+                    "categories": [
+                        "Office Products",
+                        "Office Supplies",
+                        "Staples & Dispensers"
+                    ]
+                },
+                {
+                    "title": "Clorox Disinfecting Wipes, Bleach Free Cleaning Wipes, Fresh Scent - 75 Count",
+                    "description": "Clorox Disinfecting Wipes kill 99.9% of germs, remove plump and tough greasy dirt stains. They\u2019re safe for use on a variety of surfaces including finished wood, sealed granite, and stainless steel.",
+                    "brand": "Clorox",
+                    "categories": [
+                        "Health & Personal Care",
+                        "Cleaning Supplies",
+                        "Disinfecting Wipes"
+                    ]
+                }
+            ],
+            "segment_id": "000001000073"
+        },
+        {
+            "session": "purchase_history---session---6",
+            "time": "2024/Oct/28/06:05 PM",
+            "purchase_history": [
+                {
+                    "title": "3M Scotch Magic Tape, 6 Rolls, Clear, 3/4 x 1000 Inches",
+                    "description": "The 3M Scotch Magic Tape is perfect for everyday uses and offers a secure bond. Its matte finish is invisible in copier reproductions and allows you to write on it easily with a pen, pencil, or marker.",
+                    "brand": "3M",
+                    "categories": [
+                        "Office Products",
+                        "Office Supplies",
+                        "Tape & Adhesives"
+                    ]
+                },
+                {
+                    "title": "Lysol All Purpose Cleaner, Fresh Lemon Scent, 32 fl oz",
+                    "description": "Lysol All Purpose Cleaner cuts through tough grease and grime in seconds. Ideal for cleaning a variety of surfaces, the fresh lemon scent offers a pleasant fragrance while leaving surfaces hygienic.",
+                    "brand": "Lysol",
+                    "categories": [
+                        "Health & Personal Care",
+                        "Cleaning Supplies",
+                        "All-Purpose Cleaners"
+                    ]
+                },
+                {
+                    "title": "Brita Standard Water Filter, Replacement Filters for Pitchers and Dispensers, 3 Count",
+                    "description": "Brita Standard Water Filters reduce chlorine taste and odor, to deliver great-tasting water. Designed to fit all Brita pitchers and dispensers, these filters can replace up to 300 standard 16.9 oz plastic water bottles.",
+                    "brand": "Brita",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Kitchen & Dining",
+                        "Water Filtration & Softeners"
+                    ]
+                }
+            ],
+            "segment_id": "000001000075"
+        }
+    ]
+}

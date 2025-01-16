@@ -1,0 +1,383 @@
+{
+    "Name": "Mr. Nicholas Richmond MD",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/14/11:47 AM",
+            "purchase_history": [
+                {
+                    "title": "Buddy's Favorite Chew Toy - Durable Rubber Dog Toy",
+                    "description": "This durable, non-toxic rubber chew toy is perfect for keeping your pet Buddy entertained and satisfied. Designed to withstand even the most powerful chewers.",
+                    "brand": "Pawfectly Pets",
+                    "categories": [
+                        "Pet Supplies",
+                        "Dogs",
+                        "Toys"
+                    ]
+                },
+                {
+                    "title": "Nature's Variety Instinct Raw Boost Mixers Grain-Free Dog Food Topper",
+                    "description": "Enhance your dog's kibble with this grain-free raw boost topper. Packed with protein, it's a perfect addition to Buddy's meals to support a healthy diet.",
+                    "brand": "Nature's Variety",
+                    "categories": [
+                        "Pet Supplies",
+                        "Dogs",
+                        "Food"
+                    ]
+                },
+                {
+                    "title": "Plush Dog Bed - Medium Size",
+                    "description": "A comfortable and cozy bed for Buddy, providing support and warmth for resting. This plush dog bed is perfect for medium-sized dogs.",
+                    "brand": "ComfyPaws",
+                    "categories": [
+                        "Pet Supplies",
+                        "Dogs",
+                        "Beds"
+                    ]
+                }
+            ],
+            "segment_id": "001002000005"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Oct/18/03:46 PM",
+            "purchase_history": [
+                {
+                    "title": "Bounty Quick-Size Paper Towels, White, 16 Family Rolls",
+                    "description": "Bounty Quick-Size Paper Towels are 2X more absorbent* so you can use less. With strength and durability, Bounty is our longest lasting roll and absorbs even more. Bounty Paper Towels are great for any mess \u2013 from small spills to big clean-ups using the fewest sheets.",
+                    "brand": "Bounty",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Paper & Plastic"
+                    ]
+                },
+                {
+                    "title": "Post-it Super Sticky Notes, 3 in x 3 in, 6 Pads",
+                    "description": "Post-it Super Sticky Notes stick to practically any surface and remove cleanly. Ideal for office organization, reminders, and brainstorming, these notes come in a variety of colors for convenient communication and creativity.",
+                    "brand": "Post-it",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Office Paper"
+                    ]
+                },
+                {
+                    "title": "Viva Signature Cloth Paper Towels, TaskSize, 12 Family Rolls",
+                    "description": "Viva Signature Cloth Paper Towels have a cloth-like texture and durability to handle intensive scrubbing jobs and kitchen messes. Ideal for everyday cleaning, these paper towels are strong and almost cloth-like, designed for hand protection and easy cleaning.",
+                    "brand": "Viva",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Paper & Plastic"
+                    ]
+                },
+                {
+                    "title": "Scotch Magic Tape, 6 Rolls, Numerous Applications",
+                    "description": "Scotch Magic Tape has an original matte finish, ideal for mending documents, labeling, and sealing. Great for the home or office, it becomes invisible on paper, securely stays in place, and has a writable surface for labeling.",
+                    "brand": "Scotch",
+                    "categories": [
+                        "Office Supplies",
+                        "Tape, Adhesives & Fasteners",
+                        "Tape"
+                    ]
+                }
+            ],
+            "segment_id": "001002000031"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Oct/19/12:27 PM",
+            "purchase_history": [
+                {
+                    "title": "Charmin Ultra Soft Toilet Paper, 24 Family Mega Rolls",
+                    "description": "Charmin Ultra Soft is our softest toilet paper ever so it is harder to resist! It\u2019s 2X more absorbent, and you can use less versus the leading bargain brand. Feel the comfort with Charmin Ultra Soft and enjoy a better go.",
+                    "brand": "Charmin",
+                    "categories": [
+                        "Household",
+                        "Toilet Paper",
+                        "Bath"
+                    ]
+                },
+                {
+                    "title": "Lysol Disinfecting Wipes, Lemon & Lime Blossom Scent, 80 Count",
+                    "description": "Lysol Disinfecting Wipes are a convenient way to clean and disinfect your household surfaces. Powerful antibacterial wipes kill 99.9% of viruses and bacteria, including cold and flu viruses. These wipes are effective against COVID-19 virus and remove allergens.",
+                    "brand": "Lysol",
+                    "categories": [
+                        "Health & Personal Care",
+                        "Household",
+                        "Cleaning Supplies"
+                    ]
+                },
+                {
+                    "title": "BIC Round Stic Xtra Life Ballpoint Pen, Medium Point (1.0mm), 60-Count",
+                    "description": "One of America\u2019s best-selling pen, the BIC Round Stic Xtra Life Ball Pen writes 90% longer on average than Papermate InkJoy 100 Stick Ball Pen. These reliable pens feature a flexible round barrel for a comfortable and controlled grip.",
+                    "brand": "BIC",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Pens & Refills"
+                    ]
+                }
+            ],
+            "segment_id": "001002000034"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Oct/21/04:55 PM",
+            "purchase_history": [
+                {
+                    "title": "Scotch-Brite Non-Scratch Sponges, 9 Count",
+                    "description": "These sponges safely clean non-stick cookware, countertops, and more. Featuring durable, long-lasting material, they are a must-have for any kitchen cleaning arsenal.",
+                    "brand": "Scotch-Brite",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Sponges"
+                    ]
+                },
+                {
+                    "title": "Kleenex Ultra Soft Facial Tissues, 8 Flat Boxes, 120 Tissues per Box",
+                    "description": "Kleenex Ultra Soft tissues offer plush softness and durability to deal with unwanted sniffles and sneezes. Perfect for in-home or on-the-go use.",
+                    "brand": "Kleenex",
+                    "categories": [
+                        "Household",
+                        "Health & Baby Care",
+                        "Tissues"
+                    ]
+                },
+                {
+                    "title": "Pilot G2 Premium Gel Roller Pens, Black, 12 Count",
+                    "description": "Enjoy writing with the smooth gel ink of Pilot G2 gel pens. These retractable pens have a comfortable grip, are refillable and appropriate for everyday writing tasks.",
+                    "brand": "Pilot",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Pens & Refills"
+                    ]
+                }
+            ],
+            "segment_id": "001002000047"
+        },
+        {
+            "session": "purchase_history---session---5",
+            "time": "2024/Oct/22/03:52 PM",
+            "purchase_history": [
+                {
+                    "title": "Duracell CopperTop AA Alkaline Batteries, 24 Count",
+                    "description": "Duracell CopperTop AA alkaline batteries provide reliable, long-lasting power for your everyday devices. Ideal for remote controls, flashlights, toys, and more.",
+                    "brand": "Duracell",
+                    "categories": [
+                        "Electronics",
+                        "Batteries"
+                    ]
+                },
+                {
+                    "title": "Ziploc Gallon Food Storage Bags, Easy Open Tabs, 150 Count",
+                    "description": "These Ziploc bags are perfect for storing food items, keeping them fresh and secure. Designed with easy-open tabs for convenience.",
+                    "brand": "Ziploc",
+                    "categories": [
+                        "Household",
+                        "Food Storage",
+                        "Plastic Bags"
+                    ]
+                },
+                {
+                    "title": "AmazonBasics Microfiber Cleaning Cloths, 24-Pack",
+                    "description": "Ultra-soft, non-abrasive microfiber cloths ensure delicate surfaces are not scratched, making them ideal for dusting, cleaning, and polishing.",
+                    "brand": "AmazonBasics",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Cleaning Tools"
+                    ]
+                }
+            ],
+            "segment_id": "001002000056"
+        },
+        {
+            "session": "purchase_history---session---6",
+            "time": "2024/Oct/27/07:37 AM",
+            "purchase_history": [
+                {
+                    "title": "Their Eyes Were Watching God by Zora Neale Hurston",
+                    "description": "A classic novel of the Harlem Renaissance that captures the life and trials of Janie Crawford as she embarks on a journey of self-discovery and empowerment.",
+                    "brand": "Harper Perennial Modern Classics",
+                    "categories": [
+                        "Books",
+                        "Literature & Fiction",
+                        "Classics"
+                    ]
+                },
+                {
+                    "title": "Reading Light, Rechargeable LED Book Light for Reading in Bed",
+                    "description": "Flexible and lightweight, this LED book light is perfect for late-night reading without disturbing others.",
+                    "brand": "LumiLight",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Lighting & Ceiling Fans",
+                        "Book Lights"
+                    ]
+                },
+                {
+                    "title": "Personalized Leather Bookmark",
+                    "description": "A handcrafted leather bookmark that adds a personal touch to your reading experience. Perfect for book lovers.",
+                    "brand": "BookNook Creations",
+                    "categories": [
+                        "Books",
+                        "Accessories",
+                        "Bookmarks"
+                    ]
+                }
+            ],
+            "segment_id": "001002000085"
+        },
+        {
+            "session": "purchase_history---session---7",
+            "time": "2024/Nov/01/10:07 AM",
+            "purchase_history": [
+                {
+                    "title": "Cascade Complete Dishwasher Pods, Fresh Scent, 62 Count",
+                    "description": "Cascade Complete ActionPacs dishwasher detergent combines the power to scrub, degrease, and shine in one convenient little pod. No pre-wash needed. This powerful formula tackles even the toughest food & grease.",
+                    "brand": "Cascade",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Dish Detergents"
+                    ]
+                },
+                {
+                    "title": "BIC Wite-Out Correction Tape, 10 Count",
+                    "description": "BIC Wite-Out Correction Tape provides an easy method to cover up written errors. Each sturdy dispenser covers 1/6 inch lines of text with tape that resists tearing.",
+                    "brand": "BIC",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Correction Supplies"
+                    ]
+                },
+                {
+                    "title": "Purell Advanced Hand Sanitizer, Original Scent, 2 oz Travel Size, 4-Pack",
+                    "description": "Purell hand sanitizer is an effective way to fight germs without soap and water. The travel-sized bottles are convenient for on-the-go use, making sure your hands stay clean and germ-free.",
+                    "brand": "Purell",
+                    "categories": [
+                        "Health & Personal Care",
+                        "Hand Sanitizers"
+                    ]
+                }
+            ],
+            "segment_id": "001002000113"
+        },
+        {
+            "session": "purchase_history---session---8",
+            "time": "2024/Nov/04/03:09 PM",
+            "purchase_history": [
+                {
+                    "title": "Swiffer Sweeper Dry Sweeping Pad Refills, Unscented, 64 Count",
+                    "description": "Swiffer Sweeper dry sweeping cloths are designed to fit your Swiffer Sweeper and are perfect for picking up dirt, dust, and hair. These cloths trap and lock dirt for a quick and easy clean on multiple surfaces.",
+                    "brand": "Swiffer",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Dusting"
+                    ]
+                },
+                {
+                    "title": "Sharpie Permanent Markers, Fine Point, Black, 5 Count",
+                    "description": "Sharpie permanent markers are known for their iconic ink that permits you to leave a lasting impression on most surfaces. With fine points for detailed lines, they are ideal for professional and DIY tasks alike.",
+                    "brand": "Sharpie",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Markers"
+                    ]
+                },
+                {
+                    "title": "Hefty Slider Freezer Bags, Gallon Size, 75 Count",
+                    "description": "Hefty Slider Freezer Bags help protect your foods from freezer burn and stay closed with a strong seal. Their MaxLock track design lets you hear the bag close with a distinctive slider 'click'.",
+                    "brand": "Hefty",
+                    "categories": [
+                        "Household",
+                        "Food Storage",
+                        "Plastic Bags"
+                    ]
+                }
+            ],
+            "segment_id": "001002000133"
+        },
+        {
+            "session": "purchase_history---session---9",
+            "time": "2024/Nov/12/09:44 AM",
+            "purchase_history": [
+                {
+                    "title": "Callaway Golf Supersoft Golf Balls",
+                    "description": "Supersoft is our softest golf ball ever. With new low drag HEX Aerodynamics, it\u2019s incredibly long and forgiving on misses, and yet totally soft. Perfect for maximizing your distance on the course.",
+                    "brand": "Callaway Golf",
+                    "categories": [
+                        "Sports & Outdoors",
+                        "Golf",
+                        "Equipment"
+                    ]
+                },
+                {
+                    "title": "Men's Golf Polo Shirt, Moisture Wicking, Short Sleeve",
+                    "description": "Stay cool and comfortable on the golf course with this stylish polo that features moisture-wicking technology. Designed with performance fabric to enhance your game.",
+                    "brand": "Nike",
+                    "categories": [
+                        "Clothing, Shoes & Jewelry",
+                        "Men",
+                        "Golf"
+                    ]
+                },
+                {
+                    "title": "Golf Club Set for Beginner to Intermediate Golfers",
+                    "description": "This comprehensive golf club set includes all the essential clubs you need to start or improve your game. Featuring lightweight and durable construction, ideal for various skill levels.",
+                    "brand": "Wilson",
+                    "categories": [
+                        "Sports & Outdoors",
+                        "Golf",
+                        "Clubs"
+                    ]
+                }
+            ],
+            "segment_id": "001002000174"
+        },
+        {
+            "session": "purchase_history---session---10",
+            "time": "2024/Nov/12/02:07 PM",
+            "purchase_history": [
+                {
+                    "title": "OxiClean Versatile Stain Remover, 3 lbs",
+                    "description": "OxiClean's versatile stain remover uses the power of oxygen to remove tough stains on laundry and nearly any surface in your home. Perfect for deep cleaning without harsh chemicals.",
+                    "brand": "OxiClean",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Stain Removers"
+                    ]
+                },
+                {
+                    "title": "Tide Pods Laundry Detergent Pacs, Spring Meadow, 81 Count",
+                    "description": "Tide Pods are a convenient laundry solution that combines detergent, stain remover, and color protector in one. The Spring Meadow scent leaves clothes smelling fresh and clean.",
+                    "brand": "Tide",
+                    "categories": [
+                        "Household",
+                        "Cleaning Supplies",
+                        "Laundry Detergents"
+                    ]
+                },
+                {
+                    "title": "Glad Food Storage and Freezer Bags, Quart Size, 120 Count",
+                    "description": "Glad quart-size freezer bags with double-seal, lock out air to keep foods fresh and prevent freezer burn. Designed with easy-open tabs for added convenience.",
+                    "brand": "Glad",
+                    "categories": [
+                        "Household",
+                        "Food Storage",
+                        "Plastic Bags"
+                    ]
+                }
+            ],
+            "segment_id": "001002000178"
+        }
+    ]
+}

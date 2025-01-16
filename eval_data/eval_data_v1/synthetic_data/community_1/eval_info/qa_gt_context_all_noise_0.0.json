@@ -1,0 +1,2092 @@
+[
+    {
+        "q_id": "001000000",
+        "question": "Which country do I currently live in?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001000000055"
+            ]
+        }
+    },
+    {
+        "q_id": "001000001",
+        "question": "What is my current job status? E.g., Employed, Self Employed, Unemployed ...",
+        "answer": "Full-time",
+        "segment_id": {
+            "Full-time": [
+                "001000000065"
+            ]
+        }
+    },
+    {
+        "q_id": "001000002",
+        "question": "In which city am I living now?",
+        "answer": "Seattle, Washington",
+        "segment_id": {
+            "Seattle, Washington": [
+                "001000000053"
+            ]
+        }
+    },
+    {
+        "q_id": "001000003",
+        "question": "What is my job or occupation?",
+        "answer": "Health Minister",
+        "segment_id": {
+            "Health Minister": [
+                "001000000080"
+            ]
+        }
+    },
+    {
+        "q_id": "001000004",
+        "question": "How would you describe my schooling status? E.g., Current, graduate ...",
+        "answer": "Graduated",
+        "segment_id": {
+            "Graduated": [
+                "001000000070"
+            ]
+        }
+    },
+    {
+        "q_id": "001000005",
+        "question": "At what age am I right now?",
+        "answer": 42,
+        "segment_id": {
+            "42": [
+                "001000000083"
+            ]
+        }
+    },
+    {
+        "q_id": "001000006",
+        "question": "Do I possess any mode of transportation?",
+        "answer": [
+            "hybrid car",
+            "bicycle"
+        ],
+        "segment_id": {
+            "bicycle": [
+                "001000000014"
+            ],
+            "hybrid car": [
+                "001000000046"
+            ]
+        }
+    },
+    {
+        "q_id": "001000007",
+        "question": "Which country was I born in?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001000000033"
+            ]
+        }
+    },
+    {
+        "q_id": "001000008",
+        "question": "What type of school did I attend?",
+        "answer": "Public University",
+        "segment_id": {
+            "Public University": [
+                "001000000001"
+            ]
+        }
+    },
+    {
+        "q_id": "001000009",
+        "question": "Where was I born (city)?",
+        "answer": "Portland, Oregon",
+        "segment_id": {
+            "Portland, Oregon": [
+                "001000000022"
+            ]
+        }
+    },
+    {
+        "q_id": "001000010",
+        "question": "What is the name of the school I studied in?",
+        "answer": "University of California, Berkeley",
+        "segment_id": {
+            "University of California, Berkeley": [
+                "001000000012"
+            ]
+        }
+    },
+    {
+        "q_id": "001000011",
+        "question": "What pets do I have?",
+        "answer": [
+            {
+                "golden retriever": "Buddy"
+            },
+            {
+                "cat": "Whiskers"
+            }
+        ],
+        "segment_id": {
+            "(('golden retriever', 'Buddy'),)": [
+                "001000000003"
+            ],
+            "(('cat', 'Whiskers'),)": [
+                "001000000008"
+            ]
+        }
+    },
+    {
+        "q_id": "001000012",
+        "question": "What subject was my primary focus?",
+        "answer": "Public Health Policy",
+        "segment_id": {
+            "Public Health Policy": [
+                "001000000082"
+            ]
+        }
+    },
+    {
+        "q_id": "001000013",
+        "question": "Which degree have I completed?",
+        "answer": "Master's",
+        "segment_id": {
+            "Master's": [
+                "001000000000"
+            ]
+        }
+    },
+    {
+        "q_id": "001000014",
+        "question": "What are my eating habits?",
+        "answer": "Prefers organic foods, enjoys a balanced diet",
+        "segment_id": {
+            "Prefers organic foods, enjoys a balanced diet": [
+                "001000000084"
+            ]
+        }
+    },
+    {
+        "q_id": "001000015",
+        "question": "What features stand out about me physically?",
+        "answer": [
+            {
+                "Height": "5'8\""
+            },
+            {
+                "Eye color": "Blue"
+            },
+            {
+                "Hair color": "Blonde"
+            }
+        ],
+        "segment_id": {
+            "(('Hair color', 'Blonde'),)": [
+                "001000000010"
+            ],
+            "(('Height', '5\\'8\"'),)": [
+                "001000000024"
+            ],
+            "(('Eye color', 'Blue'),)": [
+                "001000000045"
+            ]
+        }
+    },
+    {
+        "q_id": "001000016",
+        "question": "What was my previous profession?",
+        "answer": "Public Health Advocate",
+        "segment_id": {
+            "Public Health Advocate": [
+                "001000000054"
+            ]
+        }
+    },
+    {
+        "q_id": "001000017",
+        "question": "Which firm or company do I belong to?",
+        "answer": "National Health Services",
+        "segment_id": {
+            "National Health Services": [
+                "001000000074"
+            ]
+        }
+    },
+    {
+        "q_id": "001000018",
+        "question": "What is the location of my workplace?",
+        "answer": "Government Office",
+        "segment_id": {
+            "Government Office": [
+                "001000000039"
+            ]
+        }
+    },
+    {
+        "q_id": "001000019",
+        "question": "What is my country of origin?",
+        "answer": [
+            "American"
+        ],
+        "segment_id": {
+            "American": [
+                "001000000021"
+            ]
+        }
+    },
+    {
+        "q_id": "001000020",
+        "question": "Which season do I enjoy the most?",
+        "answer": "spring",
+        "segment_id": {
+            "spring": [
+                "001000000057"
+            ]
+        }
+    },
+    {
+        "q_id": "001000021",
+        "question": "Which colors resonate with me?",
+        "answer": [
+            "blue",
+            "green"
+        ],
+        "segment_id": {
+            "green": [
+                "001000000020",
+                "001000000077"
+            ],
+            "blue": [
+                "001000000062"
+            ]
+        }
+    },
+    {
+        "q_id": "001000022",
+        "question": "What instruments do I like?",
+        "answer": [
+            "piano",
+            "violin"
+        ],
+        "segment_id": {
+            "violin": [
+                "001000000071"
+            ],
+            "piano": [
+                "001000000075"
+            ]
+        }
+    },
+    {
+        "q_id": "001000023",
+        "question": "Which shows or series are on my watchlist?",
+        "answer": [
+            "Grey's Anatomy",
+            "The Good Doctor",
+            "Our Planet"
+        ],
+        "segment_id": {
+            "Grey's Anatomy": [
+                "001000000009"
+            ],
+            "The Good Doctor": [
+                "001000000026",
+                "001000000036"
+            ],
+            "Our Planet": [
+                "001000000076"
+            ]
+        }
+    },
+    {
+        "q_id": "001000024",
+        "question": "What movie genres do I prefer?",
+        "answer": [
+            "documentary",
+            "drama",
+            "historical"
+        ],
+        "segment_id": {
+            "drama": [
+                "001000000049"
+            ],
+            "documentary": [
+                "001000000064"
+            ],
+            "historical": [
+                "001000000069"
+            ]
+        }
+    },
+    {
+        "q_id": "001000025",
+        "question": "What are my favorite sports?",
+        "answer": [
+            "yoga",
+            "swimming",
+            "hiking",
+            "cycling"
+        ],
+        "segment_id": {
+            "yoga": [
+                "001000000002"
+            ],
+            "cycling": [
+                "001000000004"
+            ],
+            "hiking": [
+                "001000000035"
+            ],
+            "swimming": [
+                "001000000043"
+            ]
+        }
+    },
+    {
+        "q_id": "001000026",
+        "question": "What do I like to eat?",
+        "answer": [
+            "salad",
+            "grilled chicken",
+            "sushi",
+            "smoothies",
+            "avocado toast"
+        ],
+        "segment_id": {
+            "grilled chicken": [
+                "001000000011",
+                "001000000028",
+                "001000000063"
+            ],
+            "avocado toast": [
+                "001000000038"
+            ],
+            "salad": [
+                "001000000058"
+            ],
+            "sushi": [
+                "001000000068"
+            ],
+            "smoothies": [
+                "001000000073"
+            ]
+        }
+    },
+    {
+        "q_id": "001000027",
+        "question": "Who are my favorite singers or bands?",
+        "answer": [
+            "Yo-Yo Ma",
+            "Norah Jones",
+            "Ludovico Einaudi"
+        ],
+        "segment_id": {
+            "Ludovico Einaudi": [
+                "001000000005"
+            ],
+            "Yo-Yo Ma": [
+                "001000000030"
+            ],
+            "Norah Jones": [
+                "001000000052"
+            ]
+        }
+    },
+    {
+        "q_id": "001000028",
+        "question": "What are my top movie picks?",
+        "answer": [
+            "The King's Speech",
+            "Spotlight",
+            "Heal"
+        ],
+        "segment_id": {
+            "The King's Speech": [
+                "001000000018"
+            ],
+            "Spotlight": [
+                "001000000025"
+            ],
+            "Heal": [
+                "001000000034"
+            ]
+        }
+    },
+    {
+        "q_id": "001000029",
+        "question": "Which book genres do I prefer?",
+        "answer": [
+            "non-fiction",
+            "biography",
+            "self-help"
+        ],
+        "segment_id": {
+            "self-help": [
+                "001000000031"
+            ],
+            "non-fiction": [
+                "001000000048"
+            ],
+            "biography": [
+                "001000000066"
+            ]
+        }
+    },
+    {
+        "q_id": "001000030",
+        "question": "which term can better describe my personality? please choose between A: Empathetic or B: Unempathetic. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Visionary": [
+                "001000000029"
+            ],
+            "Empathetic": [
+                "001000000032"
+            ],
+            "Dedicated": [
+                "001000000040"
+            ],
+            "Communicative": [
+                "001000000041"
+            ],
+            "Organized": [
+                "001000000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001000031",
+        "question": "which term can better describe my personality? please choose between A: Dedicated or B: Uncommitted. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Visionary": [
+                "001000000029"
+            ],
+            "Empathetic": [
+                "001000000032"
+            ],
+            "Dedicated": [
+                "001000000040"
+            ],
+            "Communicative": [
+                "001000000041"
+            ],
+            "Organized": [
+                "001000000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001000032",
+        "question": "which term can better describe my personality? please choose between A: Short-sighted or B: Visionary. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Visionary": [
+                "001000000029"
+            ],
+            "Empathetic": [
+                "001000000032"
+            ],
+            "Dedicated": [
+                "001000000040"
+            ],
+            "Communicative": [
+                "001000000041"
+            ],
+            "Organized": [
+                "001000000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001000033",
+        "question": "which term can better describe my personality? please choose between A: Reserved or B: Communicative. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Visionary": [
+                "001000000029"
+            ],
+            "Empathetic": [
+                "001000000032"
+            ],
+            "Dedicated": [
+                "001000000040"
+            ],
+            "Communicative": [
+                "001000000041"
+            ],
+            "Organized": [
+                "001000000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001000034",
+        "question": "which term can better describe my personality? please choose between A: Organized or B: Disorganized. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Visionary": [
+                "001000000029"
+            ],
+            "Empathetic": [
+                "001000000032"
+            ],
+            "Dedicated": [
+                "001000000040"
+            ],
+            "Communicative": [
+                "001000000041"
+            ],
+            "Organized": [
+                "001000000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001000035",
+        "question": "which term can better describe my personality? Please choose 5 options from A: Reserved, B: Organized, C: Visionary, D: Communicative, E: Dedicated, F: Uncommitted, G: Unempathetic, H: Short-sighted, I: Empathetic, J: Disorganized. Answer with the option's letters from the given choices directly.",
+        "answer": [
+            "B",
+            "C",
+            "D",
+            "E",
+            "I"
+        ],
+        "segment_id": {
+            "Visionary": [
+                "001000000029"
+            ],
+            "Empathetic": [
+                "001000000032"
+            ],
+            "Dedicated": [
+                "001000000040"
+            ],
+            "Communicative": [
+                "001000000041"
+            ],
+            "Organized": [
+                "001000000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001000036",
+        "question": "Who is Mr. Nicholas Richmond MD in relation to me?",
+        "answer": "friend",
+        "segment_id": {
+            "Mr. Nicholas Richmond MD": [
+                "001000000079"
+            ]
+        }
+    },
+    {
+        "q_id": "001000037",
+        "question": "What colors appeal to Mr. Nicholas Richmond MD most?",
+        "answer": [
+            "blue",
+            "green",
+            "red",
+            "black",
+            "white"
+        ],
+        "segment_id": {
+            "blue": [
+                "001000000017"
+            ],
+            "red": [
+                "001000000037"
+            ],
+            "black": [
+                "001000000059"
+            ],
+            "green": [
+                "001000000078"
+            ],
+            "white": [
+                "001000000081"
+            ]
+        }
+    },
+    {
+        "q_id": "001000038",
+        "question": "In which country is Mr. Nicholas Richmond MD living right now?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001000000027"
+            ]
+        }
+    },
+    {
+        "q_id": "001000039",
+        "question": "What is Dr. Emily Carter's relationship to me?",
+        "answer": "colleague",
+        "segment_id": {
+            "Dr. Emily Carter": [
+                "001000000007"
+            ]
+        }
+    },
+    {
+        "q_id": "001000040",
+        "question": "What field was Dr. Emily Carter professionally engaged in earlier?",
+        "answer": "Research Scientist",
+        "segment_id": {
+            "Research Scientist": [
+                "001000000067"
+            ]
+        }
+    },
+    {
+        "q_id": "001000041",
+        "question": "What are Dr. Emily Carter's fun activities?",
+        "answer": [
+            "gardening",
+            "bird watching",
+            "yoga",
+            "photography"
+        ],
+        "segment_id": {
+            "yoga": [
+                "001000000042"
+            ],
+            "bird watching": [
+                "001000000044"
+            ],
+            "gardening": [
+                "001000000050"
+            ],
+            "photography": [
+                "001000000060"
+            ]
+        }
+    },
+    {
+        "q_id": "001000042",
+        "question": "Who is my husband?",
+        "answer": "Mr. Daniel Simon",
+        "segment_id": {
+            "Mr. Daniel Simon": [
+                "001000000016"
+            ]
+        }
+    },
+    {
+        "q_id": "001000043",
+        "question": "Who is Mr. Daniel Simon in relation to me?",
+        "answer": "husband",
+        "segment_id": {
+            "Mr. Daniel Simon": [
+                "001000000016"
+            ]
+        }
+    },
+    {
+        "q_id": "001000044",
+        "question": "What is my husband's level of education at present? E.g., Current, graduate ...",
+        "answer": "Graduated",
+        "segment_id": {
+            "Graduated": [
+                "001000000015"
+            ]
+        }
+    },
+    {
+        "q_id": "001000045",
+        "question": "What movies does my husband love?",
+        "answer": [
+            "An Inconvenient Truth",
+            "Blade Runner 2049",
+            "The Grand Budapest Hotel",
+            "Inception",
+            "Her"
+        ],
+        "segment_id": {
+            "An Inconvenient Truth": [
+                "001000000006"
+            ],
+            "Blade Runner 2049": [
+                "001000000013"
+            ],
+            "Inception": [
+                "001000000019"
+            ],
+            "The Grand Budapest Hotel": [
+                "001000000023",
+                "001000000047",
+                "001000000056",
+                "001000000072"
+            ],
+            "Her": [
+                "001000000051"
+            ]
+        }
+    },
+    {
+        "q_id": "001001000",
+        "question": "How would you describe my appearance?",
+        "answer": [
+            {
+                "Height": "5'8\""
+            },
+            {
+                "Eye color": "Green"
+            },
+            {
+                "Hair color": "Blonde"
+            }
+        ],
+        "segment_id": {
+            "(('Hair color', 'Blonde'),)": [
+                "001001000024"
+            ],
+            "(('Height', '5\\'8\"'),)": [
+                "001001000040"
+            ],
+            "(('Eye color', 'Green'),)": [
+                "001001000077"
+            ]
+        }
+    },
+    {
+        "q_id": "001001001",
+        "question": "Which pets live with me?",
+        "answer": [
+            {
+                "dog": "Buddy"
+            },
+            {
+                "cat": "Whiskers"
+            }
+        ],
+        "segment_id": {
+            "(('dog', 'Buddy'),)": [
+                "001001000008"
+            ],
+            "(('cat', 'Whiskers'),)": [
+                "001001000066"
+            ]
+        }
+    },
+    {
+        "q_id": "001001002",
+        "question": "How would you describe my citizenship?",
+        "answer": [
+            "American"
+        ],
+        "segment_id": {
+            "American": [
+                "001001000015"
+            ]
+        }
+    },
+    {
+        "q_id": "001001003",
+        "question": "What vehicles do I own?",
+        "answer": [
+            "Toyota Camry",
+            "Mountain Bike"
+        ],
+        "segment_id": {
+            "Toyota Camry": [
+                "001001000054"
+            ],
+            "Mountain Bike": [
+                "001001000078"
+            ]
+        }
+    },
+    {
+        "q_id": "001001004",
+        "question": "In which country am I living right now?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001001000013"
+            ]
+        }
+    },
+    {
+        "q_id": "001001005",
+        "question": "What is my current academic standing? E.g., Current, graduate ...",
+        "answer": "Graduated",
+        "segment_id": {
+            "Graduated": [
+                "001001000036"
+            ]
+        }
+    },
+    {
+        "q_id": "001001006",
+        "question": "What type of school did I attend?",
+        "answer": "Dental School",
+        "segment_id": {
+            "Dental School": [
+                "001001000046"
+            ]
+        }
+    },
+    {
+        "q_id": "001001007",
+        "question": "How would you describe my dietary preferences?",
+        "answer": "Prefers home-cooked meals, avoids caffeine",
+        "segment_id": {
+            "Prefers home-cooked meals, avoids caffeine": [
+                "001001000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001001008",
+        "question": "Which city was I born in?",
+        "answer": "San Antonio, Texas",
+        "segment_id": {
+            "San Antonio, Texas": [
+                "001001000037"
+            ]
+        }
+    },
+    {
+        "q_id": "001001009",
+        "question": "Which gender do I identify as?",
+        "answer": "Female",
+        "segment_id": {
+            "Female": [
+                "001001000072"
+            ]
+        }
+    },
+    {
+        "q_id": "001001010",
+        "question": "What was my last occupation?",
+        "answer": "Dental Officer",
+        "segment_id": {
+            "Dental Officer": [
+                "001001000028"
+            ]
+        }
+    },
+    {
+        "q_id": "001001011",
+        "question": "In which country did I come into this world?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001001000068"
+            ]
+        }
+    },
+    {
+        "q_id": "001001012",
+        "question": "Which academic qualification have I achieved?",
+        "answer": "Doctor of Dental Surgery",
+        "segment_id": {
+            "Doctor of Dental Surgery": [
+                "001001000056"
+            ]
+        }
+    },
+    {
+        "q_id": "001001013",
+        "question": "What is the address of my work location?",
+        "answer": "Military Base",
+        "segment_id": {
+            "Military Base": [
+                "001001000010"
+            ]
+        }
+    },
+    {
+        "q_id": "001001014",
+        "question": "What organization am I associated with?",
+        "answer": "US Army Dental Corp",
+        "segment_id": {
+            "US Army Dental Corp": [
+                "001001000011"
+            ]
+        }
+    },
+    {
+        "q_id": "001001015",
+        "question": "Which city do I currently live in?",
+        "answer": "Fort Bragg, North Carolina",
+        "segment_id": {
+            "Fort Bragg, North Carolina": [
+                "001001000067"
+            ]
+        }
+    },
+    {
+        "q_id": "001001016",
+        "question": "Which educational institution was I a part of?",
+        "answer": "Texas A&M College of Dentistry",
+        "segment_id": {
+            "Texas A&M College of Dentistry": [
+                "001001000001"
+            ]
+        }
+    },
+    {
+        "q_id": "001001017",
+        "question": "How many years old am I?",
+        "answer": 50,
+        "segment_id": {
+            "50": [
+                "001001000044"
+            ]
+        }
+    },
+    {
+        "q_id": "001001018",
+        "question": "What can I do well?",
+        "answer": [
+            "making pottery",
+            "baking"
+        ],
+        "segment_id": {
+            "baking": [
+                "001001000017"
+            ],
+            "making pottery": [
+                "001001000070"
+            ]
+        }
+    },
+    {
+        "q_id": "001001019",
+        "question": "What foods do I enjoy?",
+        "answer": [
+            "grilled chicken",
+            "vegetable stir-fry",
+            "dark chocolate",
+            "salmon",
+            "avocado toast"
+        ],
+        "segment_id": {
+            "vegetable stir-fry": [
+                "001001000019"
+            ],
+            "salmon": [
+                "001001000031",
+                "001001000038"
+            ],
+            "avocado toast": [
+                "001001000043"
+            ],
+            "dark chocolate": [
+                "001001000055"
+            ],
+            "grilled chicken": [
+                "001001000064"
+            ]
+        }
+    },
+    {
+        "q_id": "001001020",
+        "question": "What are my desired pastimes?",
+        "answer": "traveling the world",
+        "segment_id": {
+            "traveling the world": [
+                "001001000059"
+            ]
+        }
+    },
+    {
+        "q_id": "001001021",
+        "question": "Which skills am I eager to learn?",
+        "answer": "public speaking",
+        "segment_id": {
+            "public speaking": [
+                "001001000004"
+            ]
+        }
+    },
+    {
+        "q_id": "001001022",
+        "question": "Which types of movies do I enjoy?",
+        "answer": [
+            "drama",
+            "romance",
+            "war",
+            "documentary"
+        ],
+        "segment_id": {
+            "drama": [
+                "001001000005",
+                "001001000033"
+            ],
+            "war": [
+                "001001000021"
+            ],
+            "documentary": [
+                "001001000023"
+            ],
+            "romance": [
+                "001001000047",
+                "001001000082"
+            ]
+        }
+    },
+    {
+        "q_id": "001001023",
+        "question": "What are my favorite destinations?",
+        "answer": [
+            "Yellowstone National Park",
+            "Alaska",
+            "Maine coast"
+        ],
+        "segment_id": {
+            "Yellowstone National Park": [
+                "001001000018"
+            ],
+            "Alaska": [
+                "001001000034",
+                "001001000053"
+            ],
+            "Maine coast": [
+                "001001000048"
+            ]
+        }
+    },
+    {
+        "q_id": "001001024",
+        "question": "Who are the authors of books I enjoy?",
+        "answer": [
+            "Jodi Picoult",
+            "Mitch Albom",
+            "Toni Morrison"
+        ],
+        "segment_id": {
+            "Toni Morrison": [
+                "001001000003"
+            ],
+            "Mitch Albom": [
+                "001001000020"
+            ],
+            "Jodi Picoult": [
+                "001001000051"
+            ]
+        }
+    },
+    {
+        "q_id": "001001025",
+        "question": "What sports do I follow?",
+        "answer": [
+            "yoga",
+            "swimming",
+            "pilates"
+        ],
+        "segment_id": {
+            "pilates": [
+                "001001000000"
+            ],
+            "swimming": [
+                "001001000030"
+            ],
+            "yoga": [
+                "001001000035"
+            ]
+        }
+    },
+    {
+        "q_id": "001001026",
+        "question": "Which shades do I like?",
+        "answer": [
+            "blue",
+            "green",
+            "purple"
+        ],
+        "segment_id": {
+            "blue": [
+                "001001000062"
+            ],
+            "purple": [
+                "001001000075"
+            ],
+            "green": [
+                "001001000083"
+            ]
+        }
+    },
+    {
+        "q_id": "001001027",
+        "question": "Which films do I consider my favorites?",
+        "answer": [
+            "Saving Private Ryan",
+            "The Pursuit of Happyness",
+            "A Beautiful Mind",
+            "The Imitation Game"
+        ],
+        "segment_id": {
+            "A Beautiful Mind": [
+                "001001000014"
+            ],
+            "Saving Private Ryan": [
+                "001001000022",
+                "001001000027"
+            ],
+            "The Imitation Game": [
+                "001001000039"
+            ],
+            "The Pursuit of Happyness": [
+                "001001000081"
+            ]
+        }
+    },
+    {
+        "q_id": "001001028",
+        "question": "Who are my favorite singers or bands?",
+        "answer": [
+            "Norah Jones",
+            "John Mayer",
+            "Ed Sheeran",
+            "Adele"
+        ],
+        "segment_id": {
+            "John Mayer": [
+                "001001000006"
+            ],
+            "Ed Sheeran": [
+                "001001000026"
+            ],
+            "Norah Jones": [
+                "001001000065"
+            ],
+            "Adele": [
+                "001001000079"
+            ]
+        }
+    },
+    {
+        "q_id": "001001029",
+        "question": "What is my favorite genre of books?",
+        "answer": [
+            "memoir",
+            "historical fiction",
+            "self-help"
+        ],
+        "segment_id": {
+            "self-help": [
+                "001001000049"
+            ],
+            "historical fiction": [
+                "001001000052"
+            ],
+            "memoir": [
+                "001001000080"
+            ]
+        }
+    },
+    {
+        "q_id": "001001030",
+        "question": "What athletic activities am I involved in?",
+        "answer": [
+            "tai chi",
+            "hiking"
+        ],
+        "segment_id": {
+            "hiking": [
+                "001001000050"
+            ],
+            "tai chi": [
+                "001001000074"
+            ]
+        }
+    },
+    {
+        "q_id": "001001031",
+        "question": "Which genres of media content do I like?",
+        "answer": [
+            "podcast",
+            "news",
+            "biographies"
+        ],
+        "segment_id": {
+            "podcast": [
+                "001001000009"
+            ],
+            "news": [
+                "001001000063"
+            ],
+            "biographies": [
+                "001001000076"
+            ]
+        }
+    },
+    {
+        "q_id": "001001032",
+        "question": "which term can better describe my personality? please choose between A: Vulnerable or B: Resilient. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Empathetic": [
+                "001001000007"
+            ],
+            "Detail-oriented": [
+                "001001000025"
+            ],
+            "Disciplined": [
+                "001001000041"
+            ],
+            "Resilient": [
+                "001001000042"
+            ]
+        }
+    },
+    {
+        "q_id": "001001033",
+        "question": "which term can better describe my personality? please choose between A: Unempathetic or B: Empathetic. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Empathetic": [
+                "001001000007"
+            ],
+            "Detail-oriented": [
+                "001001000025"
+            ],
+            "Disciplined": [
+                "001001000041"
+            ],
+            "Resilient": [
+                "001001000042"
+            ]
+        }
+    },
+    {
+        "q_id": "001001034",
+        "question": "which term can better describe my personality? please choose between A: Unsystematic or B: Detail-oriented. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Empathetic": [
+                "001001000007"
+            ],
+            "Detail-oriented": [
+                "001001000025"
+            ],
+            "Disciplined": [
+                "001001000041"
+            ],
+            "Resilient": [
+                "001001000042"
+            ]
+        }
+    },
+    {
+        "q_id": "001001035",
+        "question": "which term can better describe my personality? please choose between A: Disciplined or B: Undisciplined. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Empathetic": [
+                "001001000007"
+            ],
+            "Detail-oriented": [
+                "001001000025"
+            ],
+            "Disciplined": [
+                "001001000041"
+            ],
+            "Resilient": [
+                "001001000042"
+            ]
+        }
+    },
+    {
+        "q_id": "001001036",
+        "question": "which term can better describe my personality? Please choose 4 options from A: Undisciplined, B: Resilient, C: Unsystematic, D: Detail-oriented, E: Unempathetic, F: Vulnerable, G: Disciplined, H: Empathetic. Answer with the option's letters from the given choices directly.",
+        "answer": [
+            "B",
+            "D",
+            "G",
+            "H"
+        ],
+        "segment_id": {
+            "Empathetic": [
+                "001001000007"
+            ],
+            "Detail-oriented": [
+                "001001000025"
+            ],
+            "Disciplined": [
+                "001001000041"
+            ],
+            "Resilient": [
+                "001001000042"
+            ]
+        }
+    },
+    {
+        "q_id": "001001037",
+        "question": "Who in my family is my husband?",
+        "answer": "Mr. James Mcdonald",
+        "segment_id": {
+            "Mr. James Mcdonald": [
+                "001001000071"
+            ]
+        }
+    },
+    {
+        "q_id": "001001038",
+        "question": "What is Mr. James Mcdonald's relationship to me?",
+        "answer": "husband",
+        "segment_id": {
+            "Mr. James Mcdonald": [
+                "001001000071"
+            ]
+        }
+    },
+    {
+        "q_id": "001001039",
+        "question": "What types of media does my husband enjoy?",
+        "answer": [
+            "News",
+            "History",
+            "Documentary",
+            "Nature",
+            "Current Affairs"
+        ],
+        "segment_id": {
+            "Current Affairs": [
+                "001001000002"
+            ],
+            "History": [
+                "001001000029",
+                "001001000060",
+                "001001000069"
+            ],
+            "Nature": [
+                "001001000057"
+            ],
+            "Documentary": [
+                "001001000058"
+            ],
+            "News": [
+                "001001000073"
+            ]
+        }
+    },
+    {
+        "q_id": "001001040",
+        "question": "What is the name of my husband's birthplace city?",
+        "answer": "Columbus, Ohio",
+        "segment_id": {
+            "Columbus, Ohio": [
+                "001001000032"
+            ]
+        }
+    },
+    {
+        "q_id": "001001041",
+        "question": "What is Ms. Clara Hall's relationship to me?",
+        "answer": "service provider",
+        "segment_id": {
+            "Ms. Clara Hall": [
+                "001001000045"
+            ]
+        }
+    },
+    {
+        "q_id": "001001042",
+        "question": "What is the name of the country Ms. Clara Hall resides in?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001001000016"
+            ]
+        }
+    },
+    {
+        "q_id": "001001043",
+        "question": "What is Ms. Clara Hall's dream job?",
+        "answer": "Nurse Practitioner",
+        "segment_id": {
+            "Nurse Practitioner": [
+                "001001000012"
+            ]
+        }
+    },
+    {
+        "q_id": "001002000",
+        "question": "What subject was my primary focus?",
+        "answer": "Family Medicine",
+        "segment_id": {
+            "Family Medicine": [
+                "001002000054"
+            ]
+        }
+    },
+    {
+        "q_id": "001002001",
+        "question": "Which country do I currently live in?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001002000075"
+            ]
+        }
+    },
+    {
+        "q_id": "001002002",
+        "question": "What is my diet like?",
+        "answer": "Prefers a balanced diet with occasional treats, loves breakfast",
+        "segment_id": {
+            "Prefers a balanced diet with occasional treats, loves breakfast": [
+                "001002000014"
+            ]
+        }
+    },
+    {
+        "q_id": "001002003",
+        "question": "What is my country of origin?",
+        "answer": "American",
+        "segment_id": {
+            "American": [
+                "001002000021"
+            ]
+        }
+    },
+    {
+        "q_id": "001002004",
+        "question": "Where is my workplace located?",
+        "answer": "Community Health Center",
+        "segment_id": {
+            "Community Health Center": [
+                "001002000087"
+            ]
+        }
+    },
+    {
+        "q_id": "001002005",
+        "question": "Where did I go to school?",
+        "answer": "Meharry Medical College",
+        "segment_id": {
+            "Meharry Medical College": [
+                "001002000043"
+            ]
+        }
+    },
+    {
+        "q_id": "001002006",
+        "question": "What pets do I have?",
+        "answer": [
+            {
+                "dog": "Buddy"
+            },
+            {
+                "cat": "Whiskers"
+            }
+        ],
+        "segment_id": {
+            "(('cat', 'Whiskers'),)": [
+                "001002000044"
+            ],
+            "(('dog', 'Buddy'),)": [
+                "001002000093"
+            ]
+        }
+    },
+    {
+        "q_id": "001002007",
+        "question": "What physical attributes describe me?",
+        "answer": [
+            {
+                "Height": "6'0\""
+            },
+            {
+                "Eye color": "Blue"
+            }
+        ],
+        "segment_id": {
+            "(('Eye color', 'Blue'),)": [
+                "001002000037"
+            ],
+            "(('Height', '6\\'0\"'),)": [
+                "001002000067"
+            ]
+        }
+    },
+    {
+        "q_id": "001002008",
+        "question": "At what age am I right now?",
+        "answer": 39,
+        "segment_id": {
+            "39": [
+                "001002000065"
+            ]
+        }
+    },
+    {
+        "q_id": "001002009",
+        "question": "What is the name of my workplace institution?",
+        "answer": "Bethel A.M.E. Community Health",
+        "segment_id": {
+            "Bethel A.M.E. Community Health": [
+                "001002000009"
+            ]
+        }
+    },
+    {
+        "q_id": "001002010",
+        "question": "Which academic qualification have I achieved?",
+        "answer": "Doctor of Medicine",
+        "segment_id": {
+            "Doctor of Medicine": [
+                "001002000049"
+            ]
+        }
+    },
+    {
+        "q_id": "001002011",
+        "question": "Which country was I born in?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "001002000006"
+            ]
+        }
+    },
+    {
+        "q_id": "001002012",
+        "question": "What is my educational status? E.g., Current, graduate ...",
+        "answer": "Graduated",
+        "segment_id": {
+            "Graduated": [
+                "001002000019"
+            ]
+        }
+    },
+    {
+        "q_id": "001002013",
+        "question": "Which gender do I identify as?",
+        "answer": "Male",
+        "segment_id": {
+            "Male": [
+                "001002000034"
+            ]
+        }
+    },
+    {
+        "q_id": "001002014",
+        "question": "Which city do I currently live in?",
+        "answer": "Atlanta, Georgia",
+        "segment_id": {
+            "Atlanta, Georgia": [
+                "001002000023"
+            ]
+        }
+    },
+    {
+        "q_id": "001002015",
+        "question": "What are my favorite colors?",
+        "answer": [
+            "blue",
+            "green",
+            "red",
+            "black",
+            "white"
+        ],
+        "segment_id": {
+            "white": [
+                "001002000000"
+            ],
+            "red": [
+                "001002000026"
+            ],
+            "blue": [
+                "001002000030"
+            ],
+            "black": [
+                "001002000052"
+            ],
+            "green": [
+                "001002000061"
+            ]
+        }
+    },
+    {
+        "q_id": "001002016",
+        "question": "What are some of my favorite movies?",
+        "answer": [
+            "Hidden Figures",
+            "Selma",
+            "Black Panther",
+            "Forrest Gump",
+            "The Pursuit of Happyness"
+        ],
+        "segment_id": {
+            "Selma": [
+                "001002000001"
+            ],
+            "The Pursuit of Happyness": [
+                "001002000008"
+            ],
+            "Forrest Gump": [
+                "001002000055"
+            ],
+            "Hidden Figures": [
+                "001002000064"
+            ],
+            "Black Panther": [
+                "001002000078"
+            ]
+        }
+    },
+    {
+        "q_id": "001002017",
+        "question": "Which hobbies would I like to explore?",
+        "answer": "traveling the world",
+        "segment_id": {
+            "traveling the world": [
+                "001002000073"
+            ]
+        }
+    },
+    {
+        "q_id": "001002018",
+        "question": "Which sports activities do I take part in?",
+        "answer": [
+            "tennis",
+            "golf",
+            "running",
+            "basketball",
+            "badminton"
+        ],
+        "segment_id": {
+            "basketball": [
+                "001002000018"
+            ],
+            "running": [
+                "001002000032"
+            ],
+            "golf": [
+                "001002000048"
+            ],
+            "tennis": [
+                "001002000069"
+            ],
+            "badminton": [
+                "001002000085"
+            ]
+        }
+    },
+    {
+        "q_id": "001002019",
+        "question": "What locations do I like to visit?",
+        "answer": [
+            "New Orleans, Louisiana",
+            "Savannah, Georgia",
+            "Chicago, Illinois",
+            "Los Angeles, California",
+            "New York City, New York"
+        ],
+        "segment_id": {
+            "Chicago, Illinois": [
+                "001002000017",
+                "001002000041"
+            ],
+            "New Orleans, Louisiana": [
+                "001002000047"
+            ],
+            "Savannah, Georgia": [
+                "001002000050"
+            ],
+            "Los Angeles, California": [
+                "001002000058"
+            ],
+            "New York City, New York": [
+                "001002000074",
+                "001002000086"
+            ]
+        }
+    },
+    {
+        "q_id": "001002020",
+        "question": "What associations do I participate in?",
+        "answer": [
+            "community choir",
+            "church volunteer group",
+            "medical association",
+            "neighborhood watch",
+            "literary club"
+        ],
+        "segment_id": {
+            "neighborhood watch": [
+                "001002000005"
+            ],
+            "church volunteer group": [
+                "001002000013"
+            ],
+            "literary club": [
+                "001002000036"
+            ],
+            "medical association": [
+                "001002000042"
+            ],
+            "community choir": [
+                "001002000066"
+            ]
+        }
+    },
+    {
+        "q_id": "001002021",
+        "question": "What are my favorite dishes?",
+        "answer": [
+            "soul food",
+            "barbecue",
+            "pasta",
+            "sushi",
+            "salads"
+        ],
+        "segment_id": {
+            "sushi": [
+                "001002000010"
+            ],
+            "salads": [
+                "001002000015",
+                "001002000083"
+            ],
+            "barbecue": [
+                "001002000029"
+            ],
+            "pasta": [
+                "001002000031"
+            ],
+            "soul food": [
+                "001002000046"
+            ]
+        }
+    },
+    {
+        "q_id": "001002022",
+        "question": "What books do I hold dear?",
+        "answer": [
+            "To Kill a Mockingbird",
+            "Their Eyes Were Watching God",
+            "The Bluest Eye",
+            "Beloved",
+            "Go Tell It on the Mountain"
+        ],
+        "segment_id": {
+            "Their Eyes Were Watching God": [
+                "001002000022"
+            ],
+            "Go Tell It on the Mountain": [
+                "001002000024",
+                "001002000039"
+            ],
+            "Beloved": [
+                "001002000040"
+            ],
+            "To Kill a Mockingbird": [
+                "001002000056",
+                "001002000089"
+            ],
+            "The Bluest Eye": [
+                "001002000092"
+            ]
+        }
+    },
+    {
+        "q_id": "001002023",
+        "question": "Who are my favorite singers or bands?",
+        "answer": [
+            "Aretha Franklin",
+            "Stevie Wonder",
+            "John Legend",
+            "Ray Charles",
+            "Whitney Houston"
+        ],
+        "segment_id": {
+            "Whitney Houston": [
+                "001002000011"
+            ],
+            "Ray Charles": [
+                "001002000027"
+            ],
+            "Stevie Wonder": [
+                "001002000051"
+            ],
+            "John Legend": [
+                "001002000053"
+            ],
+            "Aretha Franklin": [
+                "001002000077"
+            ]
+        }
+    },
+    {
+        "q_id": "001002024",
+        "question": "What are my top authors?",
+        "answer": [
+            "Maya Angelou",
+            "Toni Morrison",
+            "James Baldwin",
+            "Zora Neale Hurston",
+            "Langston Hughes"
+        ],
+        "segment_id": {
+            "James Baldwin": [
+                "001002000025"
+            ],
+            "Zora Neale Hurston": [
+                "001002000057"
+            ],
+            "Toni Morrison": [
+                "001002000070"
+            ],
+            "Maya Angelou": [
+                "001002000081"
+            ],
+            "Langston Hughes": [
+                "001002000091"
+            ]
+        }
+    },
+    {
+        "q_id": "001002025",
+        "question": "which term can better describe my personality? please choose between A: Indifferent or B: Compassionate. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Dedicated": [
+                "001002000020"
+            ],
+            "Empathetic": [
+                "001002000028"
+            ],
+            "Detail-oriented": [
+                "001002000062"
+            ],
+            "Compassionate": [
+                "001002000090"
+            ]
+        }
+    },
+    {
+        "q_id": "001002026",
+        "question": "which term can better describe my personality? please choose between A: Detail-oriented or B: Unsystematic. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Dedicated": [
+                "001002000020"
+            ],
+            "Empathetic": [
+                "001002000028"
+            ],
+            "Detail-oriented": [
+                "001002000062"
+            ],
+            "Compassionate": [
+                "001002000090"
+            ]
+        }
+    },
+    {
+        "q_id": "001002027",
+        "question": "which term can better describe my personality? please choose between A: Dedicated or B: Uncommitted. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Dedicated": [
+                "001002000020"
+            ],
+            "Empathetic": [
+                "001002000028"
+            ],
+            "Detail-oriented": [
+                "001002000062"
+            ],
+            "Compassionate": [
+                "001002000090"
+            ]
+        }
+    },
+    {
+        "q_id": "001002028",
+        "question": "which term can better describe my personality? please choose between A: Empathetic or B: Unempathetic. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Dedicated": [
+                "001002000020"
+            ],
+            "Empathetic": [
+                "001002000028"
+            ],
+            "Detail-oriented": [
+                "001002000062"
+            ],
+            "Compassionate": [
+                "001002000090"
+            ]
+        }
+    },
+    {
+        "q_id": "001002029",
+        "question": "which term can better describe my personality? Please choose 4 options from A: Dedicated, B: Empathetic, C: Unempathetic, D: Compassionate, E: Uncommitted, F: Unsystematic, G: Indifferent, H: Detail-oriented. Answer with the option's letters from the given choices directly.",
+        "answer": [
+            "A",
+            "B",
+            "D",
+            "H"
+        ],
+        "segment_id": {
+            "Dedicated": [
+                "001002000020"
+            ],
+            "Empathetic": [
+                "001002000028"
+            ],
+            "Detail-oriented": [
+                "001002000062"
+            ],
+            "Compassionate": [
+                "001002000090"
+            ]
+        }
+    },
+    {
+        "q_id": "001002030",
+        "question": "How is Kelly Simon related to me?",
+        "answer": "friend",
+        "segment_id": {
+            "Kelly Simon": [
+                "001002000035"
+            ]
+        }
+    },
+    {
+        "q_id": "001002031",
+        "question": "What are Kelly Simon's top music artists?",
+        "answer": [
+            "Yo-Yo Ma",
+            "Norah Jones",
+            "Ludovico Einaudi"
+        ],
+        "segment_id": {
+            "Ludovico Einaudi": [
+                "001002000002",
+                "001002000082"
+            ],
+            "Norah Jones": [
+                "001002000068"
+            ],
+            "Yo-Yo Ma": [
+                "001002000072"
+            ]
+        }
+    },
+    {
+        "q_id": "001002032",
+        "question": "What was Kelly Simon's main academic area of study?",
+        "answer": "Public Health Policy",
+        "segment_id": {
+            "Public Health Policy": [
+                "001002000084"
+            ]
+        }
+    },
+    {
+        "q_id": "001002033",
+        "question": "How is Ms. Clara Hall related to me?",
+        "answer": "colleague",
+        "segment_id": {
+            "Ms. Clara Hall": [
+                "001002000004"
+            ]
+        }
+    },
+    {
+        "q_id": "001002034",
+        "question": "What are some of Ms. Clara Hall's favorite movies?",
+        "answer": [
+            "The Pursuit of Happyness",
+            "Up",
+            "The Blind Side",
+            "The Sound of Music",
+            "Finding Nemo"
+        ],
+        "segment_id": {
+            "The Blind Side": [
+                "001002000012"
+            ],
+            "The Pursuit of Happyness": [
+                "001002000038"
+            ],
+            "The Sound of Music": [
+                "001002000060"
+            ],
+            "Finding Nemo": [
+                "001002000079"
+            ],
+            "Up": [
+                "001002000080"
+            ]
+        }
+    },
+    {
+        "q_id": "001002035",
+        "question": "Which educational institution was Ms. Clara Hall a part of?",
+        "answer": "Delgado Community College",
+        "segment_id": {
+            "Delgado Community College": [
+                "001002000059"
+            ]
+        }
+    },
+    {
+        "q_id": "001002036",
+        "question": "Can you tell me the name of my sister?",
+        "answer": "Ms. Laura Richmond",
+        "segment_id": {
+            "Ms. Laura Richmond": [
+                "001002000045"
+            ]
+        }
+    },
+    {
+        "q_id": "001002037",
+        "question": "How is Ms. Laura Richmond related to me?",
+        "answer": "sister",
+        "segment_id": {
+            "Ms. Laura Richmond": [
+                "001002000045"
+            ]
+        }
+    },
+    {
+        "q_id": "001002038",
+        "question": "What is my sister's current professional standing? E.g., Employed, Self Employed, Unemployed ...",
+        "answer": "Full-time",
+        "segment_id": {
+            "Full-time": [
+                "001002000033"
+            ]
+        }
+    },
+    {
+        "q_id": "001002039",
+        "question": "What places does my sister enjoy?",
+        "answer": [
+            "beach",
+            "mountains",
+            "forest",
+            "cozy cafes",
+            "art studios"
+        ],
+        "segment_id": {
+            "forest": [
+                "001002000003"
+            ],
+            "cozy cafes": [
+                "001002000007",
+                "001002000063",
+                "001002000088"
+            ],
+            "beach": [
+                "001002000016"
+            ],
+            "mountains": [
+                "001002000071"
+            ],
+            "art studios": [
+                "001002000076"
+            ]
+        }
+    }
+]

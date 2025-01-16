@@ -1,0 +1,328 @@
+{
+    "Name": "Mrs. Nicole Mcdonald DDS",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/16/09:32 PM",
+            "purchase_history": [
+                {
+                    "title": "Bounty Select-A-Size Paper Towels, 8 Triple Rolls",
+                    "description": "Bounty Select-A-Size paper towels are 2x more absorbent so you can use less compared to the leading ordinary brand. These paper towels are designed to provide superior cleaning power and are perfect for everyday cleaning tasks. 8 Triple Rolls equal 24 Regular Rolls.",
+                    "brand": "Bounty",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Essentials"
+                    ]
+                },
+                {
+                    "title": "Staples Multipurpose Copy Paper, 500 Sheets per Ream",
+                    "description": "Staples Copy Paper with a 96 brightness and 20 lb weight offers a high-quality printing surface for everyday documents. This item is perfect for general-purpose printing requirements and works with laser and inkjet printers.",
+                    "brand": "Staples",
+                    "categories": [
+                        "Office Supplies",
+                        "Paper"
+                    ]
+                },
+                {
+                    "title": "Scotch Magic Tape, 1 Roll",
+                    "description": "Scotch Magic Tape is the preferred tape for offices, homes and schools. It has a Matte finish which disappears on most papers so it is virtually invisible. The 3/4 inch tape width fits a wide range of tape dispensers.",
+                    "brand": "Scotch",
+                    "categories": [
+                        "Office Supplies",
+                        "Tape, Adhesives & Fasteners"
+                    ]
+                }
+            ],
+            "segment_id": "001001000021"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Oct/17/02:56 PM",
+            "purchase_history": [
+                {
+                    "title": "Kirkland Signature Ultra Clean Laundry Detergent, 146 Loads",
+                    "description": "Kirkland Signature Ultra Clean Laundry Detergent provides powerful stain-fighting technology and long-lasting scent. Designed for both regular and HE washing machines, it effectively cleans clothes and fabrics while being gentle on skin.",
+                    "brand": "Kirkland Signature",
+                    "categories": [
+                        "Household Supplies",
+                        "Laundry"
+                    ]
+                },
+                {
+                    "title": "Clorox Disinfecting Wipes, Fresh Scent, 3 Pack",
+                    "description": "Clorox Disinfecting Wipes are all-purpose disposable cleaning wipes that remove common allergens, germs, and messes on surfaces. Great for kitchen, home, and office cleaning.",
+                    "brand": "Clorox",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Essentials"
+                    ]
+                },
+                {
+                    "title": "Pilot G2 Precise Gel Pens, Assorted Colors, 12 Count",
+                    "description": "Pilot G2 Precise Gel Pens provide smooth and comfortable writing with their gel ink formula. Available in assorted colors, they are perfect for note-taking, journaling or professional correspondence.",
+                    "brand": "Pilot",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies"
+                    ]
+                },
+                {
+                    "title": "Duracell CopperTop AA Alkaline Batteries, 24 Pack",
+                    "description": "Duracell CopperTop AA Alkaline Batteries provide long-lasting power to household devices. Designed to provide dependable performance, they are ideal for remotes, flashlights, and more.",
+                    "brand": "Duracell",
+                    "categories": [
+                        "Electronics",
+                        "Batteries"
+                    ]
+                }
+            ],
+            "segment_id": "001001000023"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Oct/19/04:48 PM",
+            "purchase_history": [
+                {
+                    "title": "Lysol Toilet Bowl Cleaner, 24oz",
+                    "description": "Lysol Toilet Bowl Cleaner with Cling & Fresh formula powers through tough stains and deep cleans to kill 99.9% of germs. The angled neck helps reach under the rim for a thorough clean.",
+                    "brand": "Lysol",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Essentials",
+                        "Bathroom Cleaners"
+                    ]
+                },
+                {
+                    "title": "Ziploc Gallon Freezer Bags, 60 Count",
+                    "description": "Ziploc Gallon Freezer Bags with easy-open tabs help store and pack neatly. These freezer-safe bags are perfect for storing ingredients, leftovers, snacks, and other foods to keep them fresh and organized.",
+                    "brand": "Ziploc",
+                    "categories": [
+                        "Household Supplies",
+                        "Food Storage Bags & Containers"
+                    ]
+                },
+                {
+                    "title": "Elmer's Disappearing Purple School Glue Sticks, 6 Pack",
+                    "description": "Elmer's Disappearing Purple School Glue Sticks offer a fun and reliable way for kids to apply glue to most papers. Goes on purple and dries clear, so it helps see where it's been applied before drying.",
+                    "brand": "Elmer's",
+                    "categories": [
+                        "Office Supplies",
+                        "Glue & Adhesives",
+                        "School Supplies"
+                    ]
+                }
+            ],
+            "segment_id": "001001000037"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Oct/21/06:19 PM",
+            "purchase_history": [
+                {
+                    "title": "Viva Multi-Surface Cloth Paper Towels, 6 Rolls",
+                    "description": "Viva Multi-Surface Cloth Paper Towels are perfect for any cleaning task. They are strong and durable on various surfaces, providing excellent cleaning results for your home.",
+                    "brand": "Viva",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Essentials"
+                    ]
+                },
+                {
+                    "title": "Post-it Super Sticky Notes, 3 in x 3 in, 10 Pads",
+                    "description": "Post-it Super Sticky Notes hold stronger and longer than most notes. Perfect for important information you don't want to forget, and great for organizing tasks and projects.",
+                    "brand": "Post-it",
+                    "categories": [
+                        "Office Supplies",
+                        "Notebooks & Writing Pads"
+                    ]
+                },
+                {
+                    "title": "Brita Standard Metro Water Filter Pitcher, 6 Cup",
+                    "description": "Brita Standard Metro Water Filter Pitcher offers effortless great-tasting water filter technology by reducing chlorine taste and odor to deliver healthier water.",
+                    "brand": "Brita",
+                    "categories": [
+                        "Kitchen & Dining",
+                        "Water Filtration & Softeners"
+                    ]
+                }
+            ],
+            "segment_id": "001001000058"
+        },
+        {
+            "session": "purchase_history---session---5",
+            "time": "2024/Oct/22/10:59 AM",
+            "purchase_history": [
+                {
+                    "title": "Mr. Clean Magic Eraser, Extra Durable, 4 Count",
+                    "description": "Mr. Clean Magic Eraser Extra Durable removes more grime per swipe than the leading all-purpose bleach cleaner. Its extra powerful cleaning strength makes it perfect for tougher cleaning jobs throughout the home.",
+                    "brand": "Mr. Clean",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Essentials",
+                        "Multi-Purpose Cleaners"
+                    ]
+                },
+                {
+                    "title": "Ticonderoga No. 2 Pencils, Pre-Sharpened, 24 Count",
+                    "description": "Ticonderoga No. 2 Pencils are made from premium wood for smooth writing. They arrive pre-sharpened for your convenience, perfect for home, school, or office work.",
+                    "brand": "Ticonderoga",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies",
+                        "Pencils"
+                    ]
+                },
+                {
+                    "title": "Hefty Strong Kitchen Trash Bags, 13 Gallon, 90 Count",
+                    "description": "Hefty Kitchen Trash Bags offer a convenient and reliable way to handle kitchen garbage. Designed for durability, these bags resist punctures and tearing, with a convenient drawstring for simple closure.",
+                    "brand": "Hefty",
+                    "categories": [
+                        "Household Supplies",
+                        "Garbage Bags"
+                    ]
+                }
+            ],
+            "segment_id": "001001000064"
+        },
+        {
+            "session": "purchase_history---session---6",
+            "time": "2024/Nov/03/09:33 AM",
+            "purchase_history": [
+                {
+                    "title": "A Beautiful Mind Movie Poster - 24 x 36 Inches",
+                    "description": "This high-quality poster of 'A Beautiful Mind' celebrates the Academy Award-winning film about the life of mathematician John Nash. Perfect for film enthusiasts and home decoration.",
+                    "brand": "Movie Posters USA",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Home D\u00e9cor",
+                        "Posters & Prints"
+                    ]
+                },
+                {
+                    "title": "The Complete Guide to A Beautiful Mind: Insight into the Movie",
+                    "description": "This book provides a comprehensive overview and in-depth exploration of the film 'A Beautiful Mind', including its creation, themes, and critical reception.",
+                    "brand": "Film Insights Publishing",
+                    "categories": [
+                        "Books",
+                        "Film & Television"
+                    ]
+                },
+                {
+                    "title": "Double DVD Case for A Beautiful Mind",
+                    "description": "A durable and sleek DVD case designed to protect and organize your 'A Beautiful Mind' DVD safely. Holds up to two discs with convenient labeling options.",
+                    "brand": "Case Logic",
+                    "categories": [
+                        "Electronics",
+                        "DVD Cases & Storage"
+                    ]
+                }
+            ],
+            "segment_id": "001001000116"
+        },
+        {
+            "session": "purchase_history---session---7",
+            "time": "2024/Nov/06/11:35 AM",
+            "purchase_history": [
+                {
+                    "title": "The Shawshank Redemption Movie Poster - 24 x 36 Inches",
+                    "description": "This high-quality poster features the iconic movie 'The Shawshank Redemption', a timeless classic in the drama genre. Perfect for movie enthusiasts and those who appreciate cinematic art for home decoration.",
+                    "brand": "Cinema Classics",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Home D\u00e9cor",
+                        "Posters & Prints"
+                    ]
+                },
+                {
+                    "title": "Drama Films: The Essential Guide",
+                    "description": "An extensive guide to the world of drama films, featuring analyses, behind-the-scenes stories, and critical insights into the most influential drama movies of all time.",
+                    "brand": "Film Studies Press",
+                    "categories": [
+                        "Books",
+                        "Film & Television"
+                    ]
+                },
+                {
+                    "title": "The Godfather DVD Collection",
+                    "description": "Experience the epic saga of the Corleone family with 'The Godfather' DVD collection. This drama classic showcases brilliant storytelling and masterful performances that have shaped film history.",
+                    "brand": "Paramount Home Entertainment",
+                    "categories": [
+                        "Electronics",
+                        "Movies & TV",
+                        "DVDs"
+                    ]
+                }
+            ],
+            "segment_id": "001001000135"
+        },
+        {
+            "session": "purchase_history---session---8",
+            "time": "2024/Nov/09/08:53 PM",
+            "purchase_history": [
+                {
+                    "title": "Quilted Northern Ultra Plush Toilet Paper, 24 Supreme Rolls",
+                    "description": "Quilted Northern Ultra Plush Toilet Paper offers 3 layers of softness and strength that provide a comfy, reliable clean. Enjoy luxurious quality with every use, suitable for any household.",
+                    "brand": "Quilted Northern",
+                    "categories": [
+                        "Household Supplies",
+                        "Toilet Paper"
+                    ]
+                },
+                {
+                    "title": "3M Command Medium Hooks, 6 Hooks, 12 Strips",
+                    "description": "3M Command Hooks offer a damage-free way to hang items without nails or screws. Perfect for organizing and decorating, they hold firmly on painted walls, tile, and more.",
+                    "brand": "3M",
+                    "categories": [
+                        "Home Improvement",
+                        "Hardware",
+                        "Wall Hooks"
+                    ]
+                },
+                {
+                    "title": "Sharpie Permanent Markers, Fine Point, Black, 12 Count",
+                    "description": "Sharpie Permanent Markers offer a bold, smooth, and long-lasting ink that marks on most surfaces. Known for their reliability, these fine-point markers are ideal for labeling and everyday projects.",
+                    "brand": "Sharpie",
+                    "categories": [
+                        "Office Supplies",
+                        "Writing & Correction Supplies"
+                    ]
+                }
+            ],
+            "segment_id": "001001000148"
+        },
+        {
+            "session": "purchase_history---session---9",
+            "time": "2024/Nov/12/06:03 PM",
+            "purchase_history": [
+                {
+                    "title": "Cascade Platinum Dishwasher Pods, 62 Count",
+                    "description": "Cascade Platinum Dishwasher Pods help remove tough, stuck-on food from your dishes. These pods provide an excellent clean without needing a pre-wash, saving time and water.",
+                    "brand": "Cascade",
+                    "categories": [
+                        "Household Supplies",
+                        "Dishwashing Supplies"
+                    ]
+                },
+                {
+                    "title": "3M Scotch-Brite Non-Scratch Scrub Sponges, 6 Count",
+                    "description": "Scotch-Brite Non-Scratch Scrub Sponges are ideal for cleaning non-stick cookware, countertops, showers, and more. These sponges offer the perfect combination of soft sponginess and abrasion-free scrubbing surfaces.",
+                    "brand": "3M",
+                    "categories": [
+                        "Household Supplies",
+                        "Cleaning Tools"
+                    ]
+                },
+                {
+                    "title": "Rubbermaid EasyFindLids Food Storage Containers, 42 Piece Set",
+                    "description": "This Rubbermaid set includes 21 containers with matching lids, designed to nest inside each other for compact storage. They provide a convenient way to store leftovers and meal prep items efficiently.",
+                    "brand": "Rubbermaid",
+                    "categories": [
+                        "Kitchen & Dining",
+                        "Food Storage"
+                    ]
+                }
+            ],
+            "segment_id": "001001000163"
+        }
+    ]
+}

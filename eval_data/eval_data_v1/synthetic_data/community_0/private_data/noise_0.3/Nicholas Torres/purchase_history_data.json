@@ -1,0 +1,190 @@
+{
+    "Name": "Nicholas Torres",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/18/03:41 PM",
+            "purchase_history": [
+                {
+                    "title": "Bounty Quick-Size Paper Towels, White, 16 Family Rolls",
+                    "description": "Bounty Quick-Size Paper Towels are twice as absorbent, so you can use less to get the job done quickly. They are uniquely designed to hold together, so you can scrub to your heart's content. Each family roll contains 128 sheets per roll.",
+                    "brand": "Bounty",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cleaning Supplies",
+                        "Paper Towels"
+                    ]
+                },
+                {
+                    "title": "BIC Round Stic Xtra Life Ballpoint Pen, Medium Point (1.0mm), Black, 36-Count",
+                    "description": "BIC Round Stic Xtra Life Ballpoint Pens provide consistent and reliable writing. These flexible, lightweight pens feature a medium point for everyday use. The black ink writes clearly, while the translucent barrel provides an easy view of the ink supply.",
+                    "brand": "BIC",
+                    "categories": [
+                        "Office Products",
+                        "Pens & Writing Supplies",
+                        "Ballpoint Pens"
+                    ]
+                },
+                {
+                    "title": "Scotch Magic Tape, 3/4 x 1000 Inches, Boxed 10 Pack",
+                    "description": "Scotch Magic Tape is the original matte-finish, invisible tape. It's writeable with a pen, pencil or marker, and ideal for permanent paper mending. It\u2019s photo-safe and trusted for maintaining the quality of your documents.",
+                    "brand": "Scotch",
+                    "categories": [
+                        "Office Products",
+                        "Adhesives & Tapes",
+                        "Transparent Tape"
+                    ]
+                }
+            ],
+            "segment_id": "000002000018"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Oct/21/08:34 AM",
+            "purchase_history": [
+                {
+                    "title": "Kleenex Ultra Soft Facial Tissues, 120 Tissues per Box, 3 Pack",
+                    "description": "Kleenex Ultra Soft Facial Tissues offer 3-layer softness for a comfortable touch. Perfect for everyday use during cold and flu season, to help with runny noses and sneezes. Comes in a pack of 3 boxes with 120 tissues each.",
+                    "brand": "Kleenex",
+                    "categories": [
+                        "Household Supplies",
+                        "Personal Care",
+                        "Tissues"
+                    ]
+                },
+                {
+                    "title": "Post-it Super Sticky Notes, 3x3 inch, 24 Pads, Assorted Colors",
+                    "description": "Post-it Super Sticky Notes hold stronger and longer to make sure your message gets through. Ideal for brainstorming and managing projects. Comes in vibrant, assorted colors for easy organization.",
+                    "brand": "Post-it",
+                    "categories": [
+                        "Office Products",
+                        "Organizers",
+                        "Notes & Notepads"
+                    ]
+                },
+                {
+                    "title": "Windex Glass Cleaner, Original Blue, 23 fl oz Bottle",
+                    "description": "Windex Original Glass Cleaner with Ammonia-D is perfect for cleaning windows, mirrors and more. Leaves a streak-free shine and gently removes smudges, fingerprints, and other types of dirt.",
+                    "brand": "Windex",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cleaning Supplies",
+                        "Glass Cleaners"
+                    ]
+                }
+            ],
+            "segment_id": "000002000026"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Oct/25/06:29 PM",
+            "purchase_history": [
+                {
+                    "title": "Seventh Generation Free & Clear Laundry Detergent, 50 fl oz",
+                    "description": "Seventh Generation Free & Clear Laundry Detergent is tough on stains, but gentle on sensitive skin. The formula is made without dyes, fragrances, or artificial brighteners, making it safe for family use. One bottle is good for up to 33 loads.",
+                    "brand": "Seventh Generation",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cleaning Supplies",
+                        "Laundry Detergent"
+                    ]
+                },
+                {
+                    "title": "Tide To Go Instant Stain Remover Liquid Pen, 3 Count",
+                    "description": "Tide To Go Instant Stain Remover helps remove many small fresh food and drink stains. It's portable, easy to use, and effective on a variety of stains. Comes in a convenient pen format for quick touch-ups on the go.",
+                    "brand": "Tide",
+                    "categories": [
+                        "Health & Personal Care",
+                        "Household Cleaning",
+                        "Stain Removers"
+                    ]
+                },
+                {
+                    "title": "Duracell Coppertop AA Alkaline Batteries, 20 Count",
+                    "description": "Duracell Coppertop AA Batteries are engineered to deliver quality and long-lasting performance in a wide range of electronic devices. Perfect for everyday essentials such as remotes, toys, and flashlights.",
+                    "brand": "Duracell",
+                    "categories": [
+                        "Electronics",
+                        "Batteries",
+                        "AA Batteries"
+                    ]
+                }
+            ],
+            "segment_id": "000002000035"
+        },
+        {
+            "session": "purchase_history---session---4",
+            "time": "2024/Nov/01/01:16 PM",
+            "purchase_history": [
+                {
+                    "title": "SmartyKat Skitter Critters Catnip Cat Toys",
+                    "description": "These lightweight catnip toys are perfect for interactive play or solo fun. Infused with pure and potent catnip, they attract your cat's interest and keep them engaged. Ideal for keeping moving and regular exercise for Whiskers.",
+                    "brand": "SmartyKat",
+                    "categories": [
+                        "Pet Supplies",
+                        "Cats",
+                        "Toys"
+                    ]
+                },
+                {
+                    "title": "Purina Friskies Gravy Wet Cat Food Variety Pack",
+                    "description": "Friskies Gravy Wet Cat Food offers a delightful variety pack that will satisfy your cat's taste preferences. Each pack contains different flavors that are sure to keep Whiskers excited and nourished.",
+                    "brand": "Purina Friskies",
+                    "categories": [
+                        "Pet Supplies",
+                        "Cats",
+                        "Food"
+                    ]
+                }
+            ],
+            "segment_id": "000002000053"
+        },
+        {
+            "session": "purchase_history---session---5",
+            "time": "2024/Nov/03/11:36 AM",
+            "purchase_history": [
+                {
+                    "title": "Cascade Complete ActionPacs Dishwasher Detergent, Fresh Scent, 78 Count",
+                    "description": "Cascade Complete ActionPacs dishwasher detergent cleans away 24-hour stuck-on food without pre-washing. With its special formulation, it leaves dishes sparkling clean and helps prevent hard water spots.",
+                    "brand": "Cascade",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cleaning Supplies",
+                        "Dishwasher Detergent"
+                    ]
+                },
+                {
+                    "title": "3M Safety-Walk Slip-Resistant Tape, Black, 2-Inch by 60-Foot Roll",
+                    "description": "3M Safety-Walk Slip Resistant Tape can be used in industrial and commercial areas to reduce slipping. It features a unique multi-layer construction that promotes durability and provides a high level of friction.",
+                    "brand": "3M",
+                    "categories": [
+                        "Tools & Home Improvement",
+                        "Safety & Security",
+                        "Flooring Materials"
+                    ]
+                },
+                {
+                    "title": "Paper Mate Flair Felt Tip Pens, Medium Point (0.7mm), Black, 12 Count",
+                    "description": "Paper Mate Flair Felt Tip Pens are perfect for everyday writing needs. With their quick-drying ink, they provide bold and expressive lines without worries of smudging.",
+                    "brand": "Paper Mate",
+                    "categories": [
+                        "Office Products",
+                        "Pens & Writing Supplies",
+                        "Felt Tip Pens"
+                    ]
+                },
+                {
+                    "title": "Scotch-Brite Heavy Duty Scrub Sponges, 6 Count",
+                    "description": "Scotch-Brite Heavy Duty Scrub Sponges cut through tough, baked-on food and provide excellent scrubbing power for your kitchen and household cleaning tasks.",
+                    "brand": "Scotch-Brite",
+                    "categories": [
+                        "Home & Kitchen",
+                        "Cleaning Supplies",
+                        "Sponges"
+                    ]
+                }
+            ],
+            "segment_id": "000002000061"
+        }
+    ]
+}

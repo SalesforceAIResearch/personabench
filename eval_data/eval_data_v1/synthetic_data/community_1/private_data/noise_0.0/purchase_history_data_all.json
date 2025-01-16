@@ -1,0 +1,209 @@
+[
+    {
+        "Name": "Kelly Simon",
+        "Data": []
+    },
+    {
+        "Name": "Mrs. Nicole Mcdonald DDS",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Oct/23/08:30 AM",
+                "purchase_history": [
+                    {
+                        "title": "Saving Private Ryan [Blu-ray]",
+                        "description": "Experience one of the greatest films of all time with a cinematic masterpiece that tells the story of human courage in the backdrop of World War II.",
+                        "brand": "Paramount",
+                        "categories": [
+                            "Movies & TV",
+                            "Drama",
+                            "War & Military"
+                        ]
+                    },
+                    {
+                        "title": "World War II: 6-Movie Collection",
+                        "description": "A compelling set of movies that brings to life significant stories from the World War II era, perfect for history and movie enthusiasts.",
+                        "brand": "Universal Studios",
+                        "categories": [
+                            "Movies & TV",
+                            "Box Sets",
+                            "War & Military"
+                        ]
+                    },
+                    {
+                        "title": "The Longest Day: The Classic Epic of D-Day, June 6, 1944",
+                        "description": "A detailed chronicle of the D-Day invasion featuring heroic true stories, focusing on the events of June 6, 1944.",
+                        "brand": "Ballantine Books",
+                        "categories": [
+                            "Books",
+                            "History",
+                            "Military"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000022"
+            },
+            {
+                "session": "purchase_history---session---2",
+                "time": "2024/Oct/24/07:57 AM",
+                "purchase_history": [
+                    {
+                        "title": "Band of Brothers [Blu-ray]",
+                        "description": "From the creators of 'Saving Private Ryan,' this compelling, 10-part miniseries chronicles the experiences of an elite team of parachute infantry during WWII.",
+                        "brand": "HBO",
+                        "categories": [
+                            "Movies & TV",
+                            "Drama",
+                            "War & Military"
+                        ]
+                    },
+                    {
+                        "title": "World War II in HD",
+                        "description": "This documentary offers a gripping presentation of World War II in high definition, with never-before-seen footage that places you right on the battlefield with the soldiers.",
+                        "brand": "History Channel",
+                        "categories": [
+                            "Movies & TV",
+                            "Documentary",
+                            "History"
+                        ]
+                    },
+                    {
+                        "title": "War: A History of Warfare",
+                        "description": "An extensive look into the history of warfare, providing a detailed examination of transformative battles and strategies throughout time.",
+                        "brand": "Hachette Books",
+                        "categories": [
+                            "Books",
+                            "History",
+                            "Military"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000027"
+            },
+            {
+                "session": "purchase_history---session---3",
+                "time": "2024/Oct/27/06:31 PM",
+                "purchase_history": [
+                    {
+                        "title": "Manduka PRO Yoga and Pilates Mat",
+                        "description": "This premium mat is designed for professional yogis and pilates enthusiasts, offering unmatched comfort and support, durability, and grip. Perfect for all types of yoga and intense workout sessions.",
+                        "brand": "Manduka",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Yoga",
+                            "Exercise & Fitness"
+                        ]
+                    },
+                    {
+                        "title": "Gaiam Essentials Thick Yoga Block and Strap Set",
+                        "description": "Achieve the full benefits of yoga with this essential set that includes a thick supportive block and strap to enhance your practice and assist in achieving deeper poses.",
+                        "brand": "Gaiam",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Yoga",
+                            "Accessories"
+                        ]
+                    },
+                    {
+                        "title": "Yoga Anatomy, 2nd Edition",
+                        "description": "Understand the mechanics of yoga with in-depth illustrations and insights into 20 essential poses, enhancing both knowledge and practice.",
+                        "brand": "Human Kinetics",
+                        "categories": [
+                            "Books",
+                            "Health & Wellness",
+                            "Yoga"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000035"
+            },
+            {
+                "session": "purchase_history---session---4",
+                "time": "2024/Nov/12/04:36 PM",
+                "purchase_history": [
+                    {
+                        "title": "Schwinn High Timber Mountain Bike",
+                        "description": "The Schwinn High Timber is a high-performance mountain bike designed for trail riding. It features an all-terrain design with super cool style. Equipped with a strong steel frame and suspension fork, it ensures a controlled and smooth ride over rugged trails.",
+                        "brand": "Schwinn",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Cycling",
+                            "Mountain Bikes"
+                        ]
+                    },
+                    {
+                        "title": "CamelBak Podium Chill Insulated Bike Water Bottle",
+                        "description": "A premium insulated water bottle designed to keep your water cold twice as long. Features a high-flow, self-sealing cap and easy-to-squeeze design, making it perfect for mountain biking adventures.",
+                        "brand": "CamelBak",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Cycling",
+                            "Accessories"
+                        ]
+                    },
+                    {
+                        "title": "TORC T50 Route 66 Unisex-Adult Retro Motorcycle Helmet with Graphic Design",
+                        "description": "Embrace a vintage vibe with the TORC T50 helmet, featuring a bold graphic design and stylish finish. It not only ensures safety but also adds a touch of personality to your biking gear.",
+                        "brand": "TORC",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Outdoor Recreation",
+                            "Safety Gear"
+                        ]
+                    },
+                    {
+                        "title": "Topeak Mini PT30 Mini Multi Tool",
+                        "description": "Compact and versatile, this 30-function mini tool supports any mountain biking needs with features that range from Allen wrenches to a chain tool, ensuring you're never stranded by the side of the trail.",
+                        "brand": "Topeak",
+                        "categories": [
+                            "Sports & Outdoors",
+                            "Cycling",
+                            "Tools & Maintainance"
+                        ]
+                    }
+                ],
+                "segment_id": "001001000078"
+            }
+        ]
+    },
+    {
+        "Name": "Mr. Nicholas Richmond MD",
+        "Data": [
+            {
+                "session": "purchase_history---session---1",
+                "time": "2024/Nov/06/06:17 PM",
+                "purchase_history": [
+                    {
+                        "title": "Hidden Figures - Blu-ray",
+                        "description": "Watch the inspiring story of a group of African-American women mathematicians working at NASA, pivotal to the success of the first space missions.",
+                        "brand": "20th Century Studios",
+                        "categories": [
+                            "Movies & TV",
+                            "DVD & Blu-ray"
+                        ]
+                    },
+                    {
+                        "title": "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+                        "description": "Dive deeper into the fascinating story that inspired the movie with this detailed account of the African-American mathematicians who worked behind the scenes at NASA.",
+                        "brand": "HarperCollins",
+                        "categories": [
+                            "Books",
+                            "History",
+                            "Science & Math"
+                        ]
+                    },
+                    {
+                        "title": "Women of NASA LEGO Set",
+                        "description": "Build and explore the women of NASA with this LEGO set, celebrating their roles in space exploration and science.",
+                        "brand": "LEGO",
+                        "categories": [
+                            "Toys & Games",
+                            "Building Sets"
+                        ]
+                    }
+                ],
+                "segment_id": "001002000064"
+            }
+        ]
+    }
+]

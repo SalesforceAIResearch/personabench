@@ -1,0 +1,126 @@
+{
+    "Name": "Jennifer Moran",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Oct/20/08:17 AM",
+            "purchase_history": [
+                {
+                    "title": "FluentU Language Learning App Subscription",
+                    "description": "FluentU brings language learning to life through interactive videos and real world dialogues, making it easy to learn and remember a new language.",
+                    "brand": "FluentU",
+                    "categories": [
+                        "Software",
+                        "Education & Reference",
+                        "Language Learning"
+                    ]
+                },
+                {
+                    "title": "Moleskine Classic Notebook, Soft Cover, Large (5 x 8.25)",
+                    "description": "The Moleskine notebook is beloved by travelers and language enthusiasts alike, perfect for jotting down new vocabulary and practicing writing in various languages.",
+                    "brand": "Moleskine",
+                    "categories": [
+                        "Office Supplies",
+                        "Notebooks",
+                        "Journals"
+                    ]
+                },
+                {
+                    "title": "Pimsleur Spanish (Latin American) Language Course",
+                    "description": "Immerse yourself in Spanish with this comprehensive audio course that helps you learn through repeated listening and speaking in the car, or on-the-go.",
+                    "brand": "Pimsleur",
+                    "categories": [
+                        "Books",
+                        "Audiobooks",
+                        "Language Learning"
+                    ]
+                }
+            ],
+            "segment_id": "000000000025"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Nov/02/08:57 AM",
+            "purchase_history": [
+                {
+                    "title": "Kaytee Fiesta Parrot Food, 4.5-lb bag",
+                    "description": "A premium blend of seeds, grains, fruits, and veggies that provide complete nutrition for your pet parrot, ensuring they thrive and stay healthy.",
+                    "brand": "Kaytee",
+                    "categories": [
+                        "Pet Supplies",
+                        "Birds",
+                        "Bird Food"
+                    ]
+                },
+                {
+                    "title": "Prevue Hendryx Wrought Iron Select Bird Cage, Chalk White",
+                    "description": "This spacious bird cage features a playtop area and durable wrought iron construction, perfect for providing a comfortable home for your parrot Polly.",
+                    "brand": "Prevue Hendryx",
+                    "categories": [
+                        "Pet Supplies",
+                        "Birds",
+                        "Cages & Accessories"
+                    ]
+                },
+                {
+                    "title": "Vet's Best Avian Vitam Triplex, 120-count",
+                    "description": "Offer your feathered friend Polly the ultimate in nutritional support with these easy-to-administer vitamin tablets designed especially for parrots.",
+                    "brand": "Vet's Best",
+                    "categories": [
+                        "Pet Supplies",
+                        "Birds",
+                        "Health Supplies"
+                    ]
+                }
+            ],
+            "segment_id": "000000000064"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Nov/06/06:31 PM",
+            "purchase_history": [
+                {
+                    "title": "Roland GO:PIANO88 Digital Piano with 88 Keys",
+                    "description": "Start playing piano with professional-quality sound! The Roland GO:PIANO88 features 88 standard-sized keys, making it easy to transition to a real acoustic piano.",
+                    "brand": "Roland",
+                    "categories": [
+                        "Musical Instruments",
+                        "Keyboards & MIDI",
+                        "Digital Pianos"
+                    ]
+                },
+                {
+                    "title": "Hal Leonard Piano Adventures Lesson Book - Primer Level",
+                    "description": "A comprehensive guide for beginner pianists to learn at their own pace, this book includes sight-reading and musical terminology which is presented in a logical, sequential order.",
+                    "brand": "Hal Leonard",
+                    "categories": [
+                        "Books",
+                        "Arts & Photography",
+                        "Music Instruction & Study"
+                    ]
+                },
+                {
+                    "title": "Casio ARST Single-X Adjustable Keyboard Stand",
+                    "description": "This versatile keyboard stand offers stability and adjusts to different heights, ensuring comfortable and reliable support for a wide range of electronic pianos.",
+                    "brand": "Casio",
+                    "categories": [
+                        "Musical Instruments",
+                        "Accessories",
+                        "Keyboard Stands"
+                    ]
+                },
+                {
+                    "title": "On-Stage Deluxe X-Style Keyboard Bench",
+                    "description": "Comfort meets durability with the On-Stage Deluxe X-Style Keyboard Bench. Perfect for long practice sessions with adjustable height settings to fit any musician.",
+                    "brand": "On-Stage",
+                    "categories": [
+                        "Musical Instruments",
+                        "Accessories",
+                        "Keyboard Benches"
+                    ]
+                }
+            ],
+            "segment_id": "000000000079"
+        }
+    ]
+}

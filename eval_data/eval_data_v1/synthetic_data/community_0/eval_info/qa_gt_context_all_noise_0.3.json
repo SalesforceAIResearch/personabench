@@ -1,0 +1,2121 @@
+[
+    {
+        "q_id": "000000000",
+        "question": "Where did I go to school?",
+        "answer": "Harvard University",
+        "segment_id": {
+            "Harvard University": [
+                "000000000038"
+            ]
+        }
+    },
+    {
+        "q_id": "000000001",
+        "question": "At what age am I right now?",
+        "answer": 39,
+        "segment_id": {
+            "39": [
+                "000000000144"
+            ]
+        }
+    },
+    {
+        "q_id": "000000002",
+        "question": "What is my country of origin?",
+        "answer": [
+            "American"
+        ],
+        "segment_id": {
+            "American": [
+                "000000000151"
+            ]
+        }
+    },
+    {
+        "q_id": "000000003",
+        "question": "What is the address of my work location?",
+        "answer": "University",
+        "segment_id": {
+            "University": [
+                "000000000147"
+            ]
+        }
+    },
+    {
+        "q_id": "000000004",
+        "question": "Where am I currently employed?",
+        "answer": "Harvard University",
+        "segment_id": {
+            "Harvard University": [
+                "000000000041"
+            ]
+        }
+    },
+    {
+        "q_id": "000000005",
+        "question": "Am I currently employed or not? E.g., Employed, Self Employed, Unemployed ...",
+        "answer": "Employed",
+        "segment_id": {
+            "Employed": [
+                "000000000022"
+            ]
+        }
+    },
+    {
+        "q_id": "000000006",
+        "question": "What do I look like?",
+        "answer": [
+            {
+                "Height": "5'6\""
+            },
+            {
+                "Eye color": "Blue"
+            }
+        ],
+        "segment_id": {
+            "(('Height', '5\\'6\"'),)": [
+                "000000000073"
+            ],
+            "(('Eye color', 'Blue'),)": [
+                "000000000080"
+            ]
+        }
+    },
+    {
+        "q_id": "000000007",
+        "question": "Which country do I currently live in?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "000000000146"
+            ]
+        }
+    },
+    {
+        "q_id": "000000008",
+        "question": "What did I study during my degree?",
+        "answer": "History",
+        "segment_id": {
+            "History": [
+                "000000000024"
+            ]
+        }
+    },
+    {
+        "q_id": "000000009",
+        "question": "Which city do I currently live in?",
+        "answer": "Cambridge, MA",
+        "segment_id": {
+            "Cambridge, MA": [
+                "000000000137"
+            ]
+        }
+    },
+    {
+        "q_id": "000000010",
+        "question": "Which types of cars or vehicles do I have?",
+        "answer": [
+            "Toyota Prius"
+        ],
+        "segment_id": {
+            "Toyota Prius": [
+                "000000000093"
+            ]
+        }
+    },
+    {
+        "q_id": "000000011",
+        "question": "What do I do for a living?",
+        "answer": "Historian",
+        "segment_id": {
+            "Historian": [
+                "000000000027"
+            ]
+        }
+    },
+    {
+        "q_id": "000000012",
+        "question": "Which city was I born in?",
+        "answer": "Boston, MA",
+        "segment_id": {
+            "Boston, MA": [
+                "000000000066"
+            ]
+        }
+    },
+    {
+        "q_id": "000000013",
+        "question": "Where was I born (country)?",
+        "answer": "USA",
+        "segment_id": {
+            "USA": [
+                "000000000000"
+            ]
+        }
+    },
+    {
+        "q_id": "000000014",
+        "question": "What is the highest degree I have earned?",
+        "answer": "PhD",
+        "segment_id": {
+            "PhD": [
+                "000000000064"
+            ]
+        }
+    },
+    {
+        "q_id": "000000015",
+        "question": "Have I graduated or am I still studying? E.g., Current, graduate ...",
+        "answer": "Graduated",
+        "segment_id": {
+            "Graduated": [
+                "000000000074"
+            ]
+        }
+    },
+    {
+        "q_id": "000000016",
+        "question": "What did I do for work previously?",
+        "answer": "Research Assistant",
+        "segment_id": {
+            "Research Assistant": [
+                "000000000062"
+            ]
+        }
+    },
+    {
+        "q_id": "000000017",
+        "question": "Which animals do I keep as pets?",
+        "answer": [
+            {
+                "cat": "Whiskers"
+            },
+            {
+                "parrot": "Polly"
+            }
+        ],
+        "segment_id": {
+            "(('cat', 'Whiskers'),)": [
+                "000000000086"
+            ],
+            "(('parrot', 'Polly'),)": [
+                "000000000090"
+            ]
+        }
+    },
+    {
+        "q_id": "000000018",
+        "question": "How would you classify the school I studied in?",
+        "answer": "University",
+        "segment_id": {
+            "University": [
+                "000000000139"
+            ]
+        }
+    },
+    {
+        "q_id": "000000019",
+        "question": "What media categories do I consume?",
+        "answer": [
+            "documentary",
+            "news analysis",
+            "historical series",
+            "educational content",
+            "cultural podcasts"
+        ],
+        "segment_id": {
+            "educational content": [
+                "000000000001"
+            ],
+            "news analysis": [
+                "000000000034"
+            ],
+            "historical series": [
+                "000000000044",
+                "000000000100",
+                "000000000103"
+            ],
+            "documentary": [
+                "000000000097"
+            ],
+            "cultural podcasts": [
+                "000000000104",
+                "000000000138"
+            ]
+        }
+    },
+    {
+        "q_id": "000000020",
+        "question": "Which sports activities do I take part in?",
+        "answer": [
+            "yoga",
+            "cycling",
+            "swimming",
+            "hiking",
+            "rowing"
+        ],
+        "segment_id": {
+            "yoga": [
+                "000000000002"
+            ],
+            "swimming": [
+                "000000000003"
+            ],
+            "cycling": [
+                "000000000072"
+            ],
+            "rowing": [
+                "000000000107"
+            ],
+            "hiking": [
+                "000000000156"
+            ]
+        }
+    },
+    {
+        "q_id": "000000021",
+        "question": "What are my drink preferences?",
+        "answer": [
+            "green tea",
+            "sparkling water",
+            "merlot",
+            "espresso",
+            "chai latte"
+        ],
+        "segment_id": {
+            "espresso": [
+                "000000000036"
+            ],
+            "chai latte": [
+                "000000000063"
+            ],
+            "green tea": [
+                "000000000096",
+                "000000000099"
+            ],
+            "sparkling water": [
+                "000000000111"
+            ],
+            "merlot": [
+                "000000000134"
+            ]
+        }
+    },
+    {
+        "q_id": "000000022",
+        "question": "Which instruments fascinate me?",
+        "answer": [
+            "piano",
+            "violin",
+            "cello",
+            "flute",
+            "guitar"
+        ],
+        "segment_id": {
+            "flute": [
+                "000000000007"
+            ],
+            "piano": [
+                "000000000045"
+            ],
+            "guitar": [
+                "000000000056"
+            ],
+            "violin": [
+                "000000000089"
+            ],
+            "cello": [
+                "000000000109",
+                "000000000110"
+            ]
+        }
+    },
+    {
+        "q_id": "000000023",
+        "question": "What time of year do I prefer?",
+        "answer": "Autumn",
+        "segment_id": {
+            "Autumn": [
+                "000000000028",
+                "000000000116"
+            ]
+        }
+    },
+    {
+        "q_id": "000000024",
+        "question": "Which hobbies do I like to pursue?",
+        "answer": [
+            "reading",
+            "researching",
+            "attending lectures",
+            "travelling",
+            "writing"
+        ],
+        "segment_id": {
+            "researching": [
+                "000000000021"
+            ],
+            "travelling": [
+                "000000000052"
+            ],
+            "writing": [
+                "000000000083"
+            ],
+            "attending lectures": [
+                "000000000088"
+            ],
+            "reading": [
+                "000000000122"
+            ]
+        }
+    },
+    {
+        "q_id": "000000025",
+        "question": "What places do I enjoy?",
+        "answer": [
+            "libraries",
+            "mountains",
+            "historical sites",
+            "beaches",
+            "classical concerts"
+        ],
+        "segment_id": {
+            "mountains": [
+                "000000000046"
+            ],
+            "beaches": [
+                "000000000047"
+            ],
+            "historical sites": [
+                "000000000053"
+            ],
+            "classical concerts": [
+                "000000000112"
+            ],
+            "libraries": [
+                "000000000125"
+            ]
+        }
+    },
+    {
+        "q_id": "000000026",
+        "question": "What are my favorite colors?",
+        "answer": [
+            "blue",
+            "green",
+            "earth tones",
+            "navy",
+            "burgundy"
+        ],
+        "segment_id": {
+            "burgundy": [
+                "000000000012"
+            ],
+            "green": [
+                "000000000023"
+            ],
+            "navy": [
+                "000000000087"
+            ],
+            "blue": [
+                "000000000128"
+            ],
+            "earth tones": [
+                "000000000148"
+            ]
+        }
+    },
+    {
+        "q_id": "000000027",
+        "question": "What activities do I pursue as hobbies?",
+        "answer": [
+            "writing",
+            "studying foreign languages",
+            "genealogy",
+            "volunteer work",
+            "lecturing"
+        ],
+        "segment_id": {
+            "volunteer work": [
+                "000000000025"
+            ],
+            "studying foreign languages": [
+                "000000000032"
+            ],
+            "writing": [
+                "000000000060"
+            ],
+            "genealogy": [
+                "000000000095"
+            ],
+            "lecturing": [
+                "000000000105"
+            ]
+        }
+    },
+    {
+        "q_id": "000000028",
+        "question": "What is my dream job?",
+        "answer": "Publish a groundbreaking historical book",
+        "segment_id": {
+            "Publish a groundbreaking historical book": [
+                "000000000014"
+            ]
+        }
+    },
+    {
+        "q_id": "000000029",
+        "question": "What capabilities do I wish to build?",
+        "answer": "fluent mastery of multiple languages",
+        "segment_id": {
+            "fluent mastery of multiple languages": [
+                "000000000127"
+            ]
+        }
+    },
+    {
+        "q_id": "000000030",
+        "question": "Which books do I love reading?",
+        "answer": [
+            "Sapiens",
+            "Guns, Germs, and Steel",
+            "War and Peace",
+            "The Book Thief",
+            "1984"
+        ],
+        "segment_id": {
+            "Sapiens": [
+                "000000000033"
+            ],
+            "1984": [
+                "000000000082"
+            ],
+            "Guns, Germs, and Steel": [
+                "000000000108"
+            ],
+            "The Book Thief": [
+                "000000000119"
+            ],
+            "War and Peace": [
+                "000000000154"
+            ]
+        }
+    },
+    {
+        "q_id": "000000031",
+        "question": "What cuisine do I prefer?",
+        "answer": [
+            "sushi",
+            "pasta",
+            "grilled vegetables",
+            "dark chocolate",
+            "oysters"
+        ],
+        "segment_id": {
+            "sushi": [
+                "000000000018"
+            ],
+            "dark chocolate": [
+                "000000000031"
+            ],
+            "grilled vegetables": [
+                "000000000054"
+            ],
+            "oysters": [
+                "000000000071"
+            ],
+            "pasta": [
+                "000000000140"
+            ]
+        }
+    },
+    {
+        "q_id": "000000032",
+        "question": "which term can better describe my personality? please choose between A: Uninterested or B: Curious. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Analytical": [
+                "000000000005"
+            ],
+            "Empathetic": [
+                "000000000039"
+            ],
+            "Detail-oriented": [
+                "000000000059"
+            ],
+            "Thoughtful": [
+                "000000000069"
+            ],
+            "Curious": [
+                "000000000129"
+            ]
+        }
+    },
+    {
+        "q_id": "000000033",
+        "question": "which term can better describe my personality? please choose between A: Unanalytical or B: Analytical. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Analytical": [
+                "000000000005"
+            ],
+            "Empathetic": [
+                "000000000039"
+            ],
+            "Detail-oriented": [
+                "000000000059"
+            ],
+            "Thoughtful": [
+                "000000000069"
+            ],
+            "Curious": [
+                "000000000129"
+            ]
+        }
+    },
+    {
+        "q_id": "000000034",
+        "question": "which term can better describe my personality? please choose between A: Empathetic or B: Unempathetic. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Analytical": [
+                "000000000005"
+            ],
+            "Empathetic": [
+                "000000000039"
+            ],
+            "Detail-oriented": [
+                "000000000059"
+            ],
+            "Thoughtful": [
+                "000000000069"
+            ],
+            "Curious": [
+                "000000000129"
+            ]
+        }
+    },
+    {
+        "q_id": "000000035",
+        "question": "which term can better describe my personality? please choose between A: Unsystematic or B: Detail-oriented. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Analytical": [
+                "000000000005"
+            ],
+            "Empathetic": [
+                "000000000039"
+            ],
+            "Detail-oriented": [
+                "000000000059"
+            ],
+            "Thoughtful": [
+                "000000000069"
+            ],
+            "Curious": [
+                "000000000129"
+            ]
+        }
+    },
+    {
+        "q_id": "000000036",
+        "question": "which term can better describe my personality? please choose between A: Thoughtful or B: Thoughtless. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Analytical": [
+                "000000000005"
+            ],
+            "Empathetic": [
+                "000000000039"
+            ],
+            "Detail-oriented": [
+                "000000000059"
+            ],
+            "Thoughtful": [
+                "000000000069"
+            ],
+            "Curious": [
+                "000000000129"
+            ]
+        }
+    },
+    {
+        "q_id": "000000037",
+        "question": "which term can better describe my personality? Please choose 5 options from A: Thoughtless, B: Curious, C: Empathetic, D: Unempathetic, E: Unsystematic, F: Unanalytical, G: Thoughtful, H: Uninterested, I: Analytical, J: Detail-oriented. Answer with the option's letters from the given choices directly.",
+        "answer": [
+            "B",
+            "C",
+            "G",
+            "I",
+            "J"
+        ],
+        "segment_id": {
+            "Analytical": [
+                "000000000005"
+            ],
+            "Empathetic": [
+                "000000000039"
+            ],
+            "Detail-oriented": [
+                "000000000059"
+            ],
+            "Thoughtful": [
+                "000000000069"
+            ],
+            "Curious": [
+                "000000000129"
+            ]
+        }
+    },
+    {
+        "q_id": "000000038",
+        "question": "What is Samuel Mills's relationship to me?",
+        "answer": "friend",
+        "segment_id": {
+            "Samuel Mills": [
+                "000000000050"
+            ]
+        }
+    },
+    {
+        "q_id": "000000039",
+        "question": "What did Samuel Mills do for work previously?",
+        "answer": "Legal Consultant",
+        "segment_id": {
+            "Legal Consultant": [
+                "000000000078"
+            ]
+        }
+    },
+    {
+        "q_id": "000000040",
+        "question": "What foods does Samuel Mills enjoy?",
+        "answer": [
+            "Nyama Choma",
+            "Burger",
+            "Pizza",
+            "Sushi",
+            "Kachumbari"
+        ],
+        "segment_id": {
+            "Kachumbari": [
+                "000000000042",
+                "000000000153"
+            ],
+            "Burger": [
+                "000000000057"
+            ],
+            "Pizza": [
+                "000000000115"
+            ],
+            "Nyama Choma": [
+                "000000000117",
+                "000000000126"
+            ],
+            "Sushi": [
+                "000000000142"
+            ]
+        }
+    },
+    {
+        "q_id": "000000041",
+        "question": "Who is Suzanne Clarke in relation to me?",
+        "answer": "colleague",
+        "segment_id": {
+            "Suzanne Clarke": [
+                "000000000035"
+            ]
+        }
+    },
+    {
+        "q_id": "000000042",
+        "question": "Which places bring Suzanne Clarke joy?",
+        "answer": [
+            "libraries",
+            "historic sites",
+            "Paris",
+            "country manor houses",
+            "seaside towns"
+        ],
+        "segment_id": {
+            "historic sites": [
+                "000000000004",
+                "000000000121"
+            ],
+            "Paris": [
+                "000000000049",
+                "000000000133"
+            ],
+            "seaside towns": [
+                "000000000061"
+            ],
+            "libraries": [
+                "000000000065"
+            ],
+            "country manor houses": [
+                "000000000101"
+            ]
+        }
+    },
+    {
+        "q_id": "000000043",
+        "question": "What is Suzanne Clarke's current professional standing? E.g., Employed, Self Employed, Unemployed ...",
+        "answer": "Self-Employed",
+        "segment_id": {
+            "Self-Employed": [
+                "000000000068"
+            ]
+        }
+    },
+    {
+        "q_id": "000000044",
+        "question": "Who in my family is my sister?",
+        "answer": "Linda Moran",
+        "segment_id": {
+            "Linda Moran": [
+                "000000000155"
+            ]
+        }
+    },
+    {
+        "q_id": "000000045",
+        "question": "What is Linda Moran's relationship to me?",
+        "answer": "sister",
+        "segment_id": {
+            "Linda Moran": [
+                "000000000155"
+            ]
+        }
+    },
+    {
+        "q_id": "000000046",
+        "question": "What is my sister's job or occupation?",
+        "answer": "Software Engineer",
+        "segment_id": {
+            "Software Engineer": [
+                "000000000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000000047",
+        "question": "Which talents does my sister have?",
+        "answer": [
+            "problem-solving",
+            "strategic thinking",
+            "data analysis",
+            "multitasking",
+            "technical writing"
+        ],
+        "segment_id": {
+            "strategic thinking": [
+                "000000000011"
+            ],
+            "data analysis": [
+                "000000000037"
+            ],
+            "multitasking": [
+                "000000000055"
+            ],
+            "problem-solving": [
+                "000000000120"
+            ],
+            "technical writing": [
+                "000000000145"
+            ]
+        }
+    },
+    {
+        "q_id": "000001000",
+        "question": "How many years old am I?",
+        "answer": "31",
+        "segment_id": {
+            "31": [
+                "000001000112"
+            ]
+        }
+    },
+    {
+        "q_id": "000001001",
+        "question": "What field was I professionally engaged in earlier?",
+        "answer": "Tour Guide",
+        "segment_id": {
+            "Tour Guide": [
+                "000001000042"
+            ]
+        }
+    },
+    {
+        "q_id": "000001002",
+        "question": "What is the name of the school I studied in?",
+        "answer": "University of Nairobi",
+        "segment_id": {
+            "University of Nairobi": [
+                "000001000105"
+            ]
+        }
+    },
+    {
+        "q_id": "000001003",
+        "question": "How would you describe my appearance?",
+        "answer": [
+            {
+                "Height": "5'8\""
+            },
+            {
+                "Eye color": "Brown"
+            }
+        ],
+        "segment_id": {
+            "(('Height', '5\\'8\"'),)": [
+                "000001000044"
+            ],
+            "(('Eye color', 'Brown'),)": [
+                "000001000091"
+            ]
+        }
+    },
+    {
+        "q_id": "000001004",
+        "question": "What organization am I associated with?",
+        "answer": "Self-Employed",
+        "segment_id": {
+            "Self-Employed": [
+                "000001000014"
+            ]
+        }
+    },
+    {
+        "q_id": "000001005",
+        "question": "What do I do for a living?",
+        "answer": "Activist",
+        "segment_id": {
+            "Activist": [
+                "000001000116"
+            ]
+        }
+    },
+    {
+        "q_id": "000001006",
+        "question": "In which city did I come into this world?",
+        "answer": "Nairobi",
+        "segment_id": {
+            "Nairobi": [
+                "000001000006"
+            ]
+        }
+    },
+    {
+        "q_id": "000001007",
+        "question": "What gender am I?",
+        "answer": "Male",
+        "segment_id": {
+            "Male": [
+                "000001000040"
+            ]
+        }
+    },
+    {
+        "q_id": "000001008",
+        "question": "What country is listed as my place of birth?",
+        "answer": "Kenya",
+        "segment_id": {
+            "Kenya": [
+                "000001000080"
+            ]
+        }
+    },
+    {
+        "q_id": "000001009",
+        "question": "What is the name of the country I reside in?",
+        "answer": "Kenya",
+        "segment_id": {
+            "Kenya": [
+                "000001000047"
+            ]
+        }
+    },
+    {
+        "q_id": "000001010",
+        "question": "What is the location of my workplace?",
+        "answer": "N/A",
+        "segment_id": {
+            "N/A": [
+                "000001000004"
+            ]
+        }
+    },
+    {
+        "q_id": "000001011",
+        "question": "How would you describe my dietary preferences?",
+        "answer": "Enjoys traditional Kenyan dishes, particularly Nyama Choma and Ugali, prefers organic food.",
+        "segment_id": {
+            "Enjoys traditional Kenyan dishes, particularly Nyama Choma and Ugali, prefers organic food.": [
+                "000001000037"
+            ]
+        }
+    },
+    {
+        "q_id": "000001012",
+        "question": "How would you describe my schooling status? E.g., Current, graduate ...",
+        "answer": "Completed",
+        "segment_id": {
+            "Completed": [
+                "000001000087"
+            ]
+        }
+    },
+    {
+        "q_id": "000001013",
+        "question": "Which pets live with me?",
+        "answer": [
+            {
+                "dog": "Kibo"
+            }
+        ],
+        "segment_id": {
+            "(('dog', 'Kibo'),)": [
+                "000001000095"
+            ]
+        }
+    },
+    {
+        "q_id": "000001014",
+        "question": "What is my nationality?",
+        "answer": "Kenyan",
+        "segment_id": {
+            "Kenyan": [
+                "000001000120"
+            ]
+        }
+    },
+    {
+        "q_id": "000001015",
+        "question": "What subject was my primary focus?",
+        "answer": "Political Science",
+        "segment_id": {
+            "Political Science": [
+                "000001000081"
+            ]
+        }
+    },
+    {
+        "q_id": "000001016",
+        "question": "Which vehicle brands or models belong to me?",
+        "answer": [
+            "motorbike"
+        ],
+        "segment_id": {
+            "motorbike": [
+                "000001000126"
+            ]
+        }
+    },
+    {
+        "q_id": "000001017",
+        "question": "Where do I live at the moment (city)?",
+        "answer": "Nairobi",
+        "segment_id": {
+            "Nairobi": [
+                "000001000069"
+            ]
+        }
+    },
+    {
+        "q_id": "000001018",
+        "question": "Which skills am I eager to learn?",
+        "answer": "multilingual communication",
+        "segment_id": {
+            "multilingual communication": [
+                "000001000009"
+            ]
+        }
+    },
+    {
+        "q_id": "000001019",
+        "question": "What are my top authors?",
+        "answer": [
+            "Ngugi wa Thiong'o",
+            "Chinua Achebe",
+            "Wole Soyinka",
+            "Haruki Murakami",
+            "Gabriel Garcia Marquez"
+        ],
+        "segment_id": {
+            "Haruki Murakami": [
+                "000001000002",
+                "000001000008"
+            ],
+            "Chinua Achebe": [
+                "000001000007"
+            ],
+            "Wole Soyinka": [
+                "000001000049"
+            ],
+            "Ngugi wa Thiong'o": [
+                "000001000058"
+            ],
+            "Gabriel Garcia Marquez": [
+                "000001000061",
+                "000001000072"
+            ]
+        }
+    },
+    {
+        "q_id": "000001020",
+        "question": "Which activities are my hobbies?",
+        "answer": "advocacy",
+        "segment_id": {
+            "advocacy": [
+                "000001000066"
+            ]
+        }
+    },
+    {
+        "q_id": "000001021",
+        "question": "What sports do I follow?",
+        "answer": [
+            "soccer",
+            "rugby",
+            "running",
+            "cycling",
+            "basketball"
+        ],
+        "segment_id": {
+            "basketball": [
+                "000001000067"
+            ],
+            "running": [
+                "000001000086"
+            ],
+            "soccer": [
+                "000001000088"
+            ],
+            "rugby": [
+                "000001000106"
+            ],
+            "cycling": [
+                "000001000121"
+            ]
+        }
+    },
+    {
+        "q_id": "000001022",
+        "question": "What do I love doing in my free time?",
+        "answer": [
+            "public speaking",
+            "advocacy",
+            "hiking",
+            "cooking",
+            "community organizing"
+        ],
+        "segment_id": {
+            "community organizing": [
+                "000001000013",
+                "000001000111"
+            ],
+            "advocacy": [
+                "000001000028",
+                "000001000077"
+            ],
+            "cooking": [
+                "000001000099"
+            ],
+            "public speaking": [
+                "000001000104"
+            ],
+            "hiking": [
+                "000001000110",
+                "000001000127"
+            ]
+        }
+    },
+    {
+        "q_id": "000001023",
+        "question": "What do I like doing for relaxation?",
+        "answer": [
+            "advocacy",
+            "community outreach",
+            "volunteering",
+            "storytelling",
+            "photography"
+        ],
+        "segment_id": {
+            "community outreach": [
+                "000001000005"
+            ],
+            "volunteering": [
+                "000001000017"
+            ],
+            "advocacy": [
+                "000001000046"
+            ],
+            "storytelling": [
+                "000001000048"
+            ],
+            "photography": [
+                "000001000063"
+            ]
+        }
+    },
+    {
+        "q_id": "000001024",
+        "question": "What movie categories do I watch often?",
+        "answer": [
+            "Drama",
+            "Documentary",
+            "Action",
+            "Thriller",
+            "Comedy"
+        ],
+        "segment_id": {
+            "Thriller": [
+                "000001000003"
+            ],
+            "Documentary": [
+                "000001000020"
+            ],
+            "Action": [
+                "000001000079"
+            ],
+            "Drama": [
+                "000001000096"
+            ],
+            "Comedy": [
+                "000001000113"
+            ]
+        }
+    },
+    {
+        "q_id": "000001025",
+        "question": "Which places do I find interesting?",
+        "answer": [
+            "Nairobi National Park",
+            "Mount Kenya",
+            "Lake Turkana",
+            "Mombasa",
+            "Maasai Mara"
+        ],
+        "segment_id": {
+            "Mount Kenya": [
+                "000001000024"
+            ],
+            "Maasai Mara": [
+                "000001000074"
+            ],
+            "Nairobi National Park": [
+                "000001000097"
+            ],
+            "Lake Turkana": [
+                "000001000107"
+            ],
+            "Mombasa": [
+                "000001000119"
+            ]
+        }
+    },
+    {
+        "q_id": "000001026",
+        "question": "What is my favorite season?",
+        "answer": "Wet season",
+        "segment_id": {
+            "Wet season": [
+                "000001000021",
+                "000001000101"
+            ]
+        }
+    },
+    {
+        "q_id": "000001027",
+        "question": "Which book categories do I like?",
+        "answer": [
+            "Historical Fiction",
+            "Autobiography",
+            "Social Issues",
+            "Political",
+            "Adventure"
+        ],
+        "segment_id": {
+            "Social Issues": [
+                "000001000012"
+            ],
+            "Political": [
+                "000001000022"
+            ],
+            "Autobiography": [
+                "000001000035",
+                "000001000051"
+            ],
+            "Adventure": [
+                "000001000053"
+            ],
+            "Historical Fiction": [
+                "000001000108"
+            ]
+        }
+    },
+    {
+        "q_id": "000001028",
+        "question": "which term can better describe my personality? please choose between A: Vulnerable or B: Resilient. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Empathetic": [
+                "000001000039"
+            ],
+            "Charismatic": [
+                "000001000062"
+            ],
+            "Resilient": [
+                "000001000078"
+            ],
+            "Thoughtful": [
+                "000001000082"
+            ],
+            "Determined": [
+                "000001000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000001029",
+        "question": "which term can better describe my personality? please choose between A: Thoughtful or B: Thoughtless. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Empathetic": [
+                "000001000039"
+            ],
+            "Charismatic": [
+                "000001000062"
+            ],
+            "Resilient": [
+                "000001000078"
+            ],
+            "Thoughtful": [
+                "000001000082"
+            ],
+            "Determined": [
+                "000001000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000001030",
+        "question": "which term can better describe my personality? please choose between A: Empathetic or B: Unempathetic. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Empathetic": [
+                "000001000039"
+            ],
+            "Charismatic": [
+                "000001000062"
+            ],
+            "Resilient": [
+                "000001000078"
+            ],
+            "Thoughtful": [
+                "000001000082"
+            ],
+            "Determined": [
+                "000001000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000001031",
+        "question": "which term can better describe my personality? please choose between A: Determined or B: Indecisive. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Empathetic": [
+                "000001000039"
+            ],
+            "Charismatic": [
+                "000001000062"
+            ],
+            "Resilient": [
+                "000001000078"
+            ],
+            "Thoughtful": [
+                "000001000082"
+            ],
+            "Determined": [
+                "000001000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000001032",
+        "question": "which term can better describe my personality? please choose between A: Uninspiring or B: Charismatic. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Empathetic": [
+                "000001000039"
+            ],
+            "Charismatic": [
+                "000001000062"
+            ],
+            "Resilient": [
+                "000001000078"
+            ],
+            "Thoughtful": [
+                "000001000082"
+            ],
+            "Determined": [
+                "000001000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000001033",
+        "question": "which term can better describe my personality? Please choose 5 options from A: Vulnerable, B: Uninspiring, C: Unempathetic, D: Resilient, E: Empathetic, F: Determined, G: Thoughtful, H: Charismatic, I: Thoughtless, J: Indecisive. Answer with the option's letters from the given choices directly.",
+        "answer": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H"
+        ],
+        "segment_id": {
+            "Empathetic": [
+                "000001000039"
+            ],
+            "Charismatic": [
+                "000001000062"
+            ],
+            "Resilient": [
+                "000001000078"
+            ],
+            "Thoughtful": [
+                "000001000082"
+            ],
+            "Determined": [
+                "000001000094"
+            ]
+        }
+    },
+    {
+        "q_id": "000001034",
+        "question": "Who is Samuel Mills in relation to me?",
+        "answer": "client",
+        "segment_id": {
+            "Samuel Mills": [
+                "000001000043"
+            ]
+        }
+    },
+    {
+        "q_id": "000001035",
+        "question": "Which city was Samuel Mills born in?",
+        "answer": "New York, NY",
+        "segment_id": {
+            "New York, NY": [
+                "000001000019"
+            ]
+        }
+    },
+    {
+        "q_id": "000001036",
+        "question": "Which pastimes does Samuel Mills enjoy?",
+        "answer": [
+            "Photography",
+            "Cooking",
+            "Reading"
+        ],
+        "segment_id": {
+            "Cooking": [
+                "000001000034"
+            ],
+            "Reading": [
+                "000001000073"
+            ],
+            "Photography": [
+                "000001000103"
+            ]
+        }
+    },
+    {
+        "q_id": "000001037",
+        "question": "Who is Amina Ali in relation to me?",
+        "answer": "friend",
+        "segment_id": {
+            "Amina Ali": [
+                "000001000001"
+            ]
+        }
+    },
+    {
+        "q_id": "000001038",
+        "question": "Where did Amina Ali go to school?",
+        "answer": "Le Cordon Bleu",
+        "segment_id": {
+            "Le Cordon Bleu": [
+                "000001000089"
+            ]
+        }
+    },
+    {
+        "q_id": "000001039",
+        "question": "Which musicians does Amina Ali admire?",
+        "answer": [
+            "Youssou N'Dour",
+            "Sade",
+            "Richard Bona",
+            "Angelique Kidjo",
+            "Salif Keita"
+        ],
+        "segment_id": {
+            "Richard Bona": [
+                "000001000010"
+            ],
+            "Sade": [
+                "000001000029"
+            ],
+            "Angelique Kidjo": [
+                "000001000032"
+            ],
+            "Youssou N'Dour": [
+                "000001000041"
+            ],
+            "Salif Keita": [
+                "000001000054",
+                "000001000084"
+            ]
+        }
+    },
+    {
+        "q_id": "000001040",
+        "question": "How is Victor Hess related to me?",
+        "answer": "cousin",
+        "segment_id": {
+            "Victor Hess": [
+                "000001000125"
+            ]
+        }
+    },
+    {
+        "q_id": "000001041",
+        "question": "Which creatures does Victor Hess find interesting?",
+        "answer": [
+            "giraffe",
+            "elephant",
+            "rhino",
+            "parrot",
+            "dog"
+        ],
+        "segment_id": {
+            "elephant": [
+                "000001000016"
+            ],
+            "parrot": [
+                "000001000065"
+            ],
+            "dog": [
+                "000001000070"
+            ],
+            "rhino": [
+                "000001000114"
+            ],
+            "giraffe": [
+                "000001000124"
+            ]
+        }
+    },
+    {
+        "q_id": "000001042",
+        "question": "Does Victor Hess own any animals as companions?",
+        "answer": [
+            {
+                "parrot": "Kiki"
+            },
+            {
+                "cat": "Whiskers"
+            }
+        ],
+        "segment_id": {
+            "(('cat', 'Whiskers'),)": [
+                "000001000045"
+            ],
+            "(('parrot', 'Kiki'),)": [
+                "000001000115"
+            ]
+        }
+    },
+    {
+        "q_id": "000002000",
+        "question": "To which nation do I belong?",
+        "answer": "German",
+        "segment_id": {
+            "German": [
+                "000002000006"
+            ]
+        }
+    },
+    {
+        "q_id": "000002001",
+        "question": "Which country do I currently live in?",
+        "answer": "Germany",
+        "segment_id": {
+            "Germany": [
+                "000002000066"
+            ]
+        }
+    },
+    {
+        "q_id": "000002002",
+        "question": "What is the name of the school I studied in?",
+        "answer": "Technical University of Berlin",
+        "segment_id": {
+            "Technical University of Berlin": [
+                "000002000034"
+            ]
+        }
+    },
+    {
+        "q_id": "000002003",
+        "question": "What is my level of education at present? E.g., Current, graduate ...",
+        "answer": "Graduated",
+        "segment_id": {
+            "Graduated": [
+                "000002000067"
+            ]
+        }
+    },
+    {
+        "q_id": "000002004",
+        "question": "Where is my workplace located?",
+        "answer": "Online Platform",
+        "segment_id": {
+            "Online Platform": [
+                "000002000049"
+            ]
+        }
+    },
+    {
+        "q_id": "000002005",
+        "question": "Which city do I currently live in?",
+        "answer": "Berlin",
+        "segment_id": {
+            "Berlin": [
+                "000002000090"
+            ]
+        }
+    },
+    {
+        "q_id": "000002006",
+        "question": "What subject was my primary focus?",
+        "answer": "Computer Science",
+        "segment_id": {
+            "Computer Science": [
+                "000002000028"
+            ]
+        }
+    },
+    {
+        "q_id": "000002007",
+        "question": "Am I currently employed or not? E.g., Employed, Self Employed, Unemployed ...",
+        "answer": "Self-Employed",
+        "segment_id": {
+            "Self-Employed": [
+                "000002000062"
+            ]
+        }
+    },
+    {
+        "q_id": "000002008",
+        "question": "What gender am I?",
+        "answer": "Male",
+        "segment_id": {
+            "Male": [
+                "000002000015"
+            ]
+        }
+    },
+    {
+        "q_id": "000002009",
+        "question": "Which city was I born in?",
+        "answer": "Frankfurt",
+        "segment_id": {
+            "Frankfurt": [
+                "000002000000"
+            ]
+        }
+    },
+    {
+        "q_id": "000002010",
+        "question": "How would you describe my appearance?",
+        "answer": [
+            {
+                "Height": "5'9\""
+            },
+            {
+                "Eye color": "Blue"
+            }
+        ],
+        "segment_id": {
+            "(('Eye color', 'Blue'),)": [
+                "000002000032"
+            ],
+            "(('Height', '5\\'9\"'),)": [
+                "000002000040"
+            ]
+        }
+    },
+    {
+        "q_id": "000002011",
+        "question": "How would you classify the school I studied in?",
+        "answer": "University",
+        "segment_id": {
+            "University": [
+                "000002000046"
+            ]
+        }
+    },
+    {
+        "q_id": "000002012",
+        "question": "What did I do for work previously?",
+        "answer": "Software Developer",
+        "segment_id": {
+            "Software Developer": [
+                "000002000011"
+            ]
+        }
+    },
+    {
+        "q_id": "000002013",
+        "question": "How many years old am I?",
+        "answer": "45",
+        "segment_id": {
+            "45": [
+                "000002000024"
+            ]
+        }
+    },
+    {
+        "q_id": "000002014",
+        "question": "Do I possess any mode of transportation?",
+        "answer": [
+            "bicycle",
+            "Volkswagen Golf"
+        ],
+        "segment_id": {
+            "bicycle": [
+                "000002000033"
+            ],
+            "Volkswagen Golf": [
+                "000002000088"
+            ]
+        }
+    },
+    {
+        "q_id": "000002015",
+        "question": "What kind of work do I do?",
+        "answer": "Content Creator",
+        "segment_id": {
+            "Content Creator": [
+                "000002000047"
+            ]
+        }
+    },
+    {
+        "q_id": "000002016",
+        "question": "What is the name of my birthplace country?",
+        "answer": "Germany",
+        "segment_id": {
+            "Germany": [
+                "000002000043"
+            ]
+        }
+    },
+    {
+        "q_id": "000002017",
+        "question": "What are my eating habits?",
+        "answer": "Prefers cooking at home, enjoys trying new recipes",
+        "segment_id": {
+            "Prefers cooking at home, enjoys trying new recipes": [
+                "000002000036"
+            ]
+        }
+    },
+    {
+        "q_id": "000002018",
+        "question": "Which pets live with me?",
+        "answer": [
+            {
+                "cat": "Whiskers"
+            }
+        ],
+        "segment_id": {
+            "(('cat', 'Whiskers'),)": [
+                "000002000053"
+            ]
+        }
+    },
+    {
+        "q_id": "000002019",
+        "question": "What organization am I associated with?",
+        "answer": "Freelance",
+        "segment_id": {
+            "Freelance": [
+                "000002000065"
+            ]
+        }
+    },
+    {
+        "q_id": "000002020",
+        "question": "What capabilities do I wish to build?",
+        "answer": "better video production",
+        "segment_id": {
+            "better video production": [
+                "000002000074"
+            ]
+        }
+    },
+    {
+        "q_id": "000002021",
+        "question": "Which writers do I admire?",
+        "answer": [
+            "Fyodor Dostoevsky",
+            "Isaac Asimov"
+        ],
+        "segment_id": {
+            "Isaac Asimov": [
+                "000002000002"
+            ],
+            "Fyodor Dostoevsky": [
+                "000002000025",
+                "000002000031"
+            ]
+        }
+    },
+    {
+        "q_id": "000002022",
+        "question": "What animals do I find fascinating?",
+        "answer": [
+            "cat",
+            "owl",
+            "fox"
+        ],
+        "segment_id": {
+            "owl": [
+                "000002000007"
+            ],
+            "cat": [
+                "000002000057"
+            ],
+            "fox": [
+                "000002000079"
+            ]
+        }
+    },
+    {
+        "q_id": "000002023",
+        "question": "What do I love doing in my free time?",
+        "answer": [
+            "blogging",
+            "playing chess",
+            "coding"
+        ],
+        "segment_id": {
+            "blogging": [
+                "000002000003"
+            ],
+            "playing chess": [
+                "000002000021"
+            ],
+            "coding": [
+                "000002000085"
+            ]
+        }
+    },
+    {
+        "q_id": "000002024",
+        "question": "Which types of movies do I enjoy?",
+        "answer": [
+            "Documentary",
+            "Drama",
+            "Science Fiction"
+        ],
+        "segment_id": {
+            "Science Fiction": [
+                "000002000001"
+            ],
+            "Drama": [
+                "000002000044"
+            ],
+            "Documentary": [
+                "000002000059"
+            ]
+        }
+    },
+    {
+        "q_id": "000002025",
+        "question": "Which skills am I proficient in?",
+        "answer": [
+            "programming",
+            "strategic thinking"
+        ],
+        "segment_id": {
+            "strategic thinking": [
+                "000002000019"
+            ],
+            "programming": [
+                "000002000077"
+            ]
+        }
+    },
+    {
+        "q_id": "000002026",
+        "question": "What are my leisure interests?",
+        "answer": "playing chess",
+        "segment_id": {
+            "playing chess": [
+                "000002000005"
+            ]
+        }
+    },
+    {
+        "q_id": "000002027",
+        "question": "Which hobbies would I like to explore?",
+        "answer": "traveling to chess tournaments",
+        "segment_id": {
+            "traveling to chess tournaments": [
+                "000002000020"
+            ]
+        }
+    },
+    {
+        "q_id": "000002028",
+        "question": "Which films do I consider my favorites?",
+        "answer": [
+            "Inception",
+            "A Beautiful Mind",
+            "The Imitation Game"
+        ],
+        "segment_id": {
+            "The Imitation Game": [
+                "000002000004"
+            ],
+            "A Beautiful Mind": [
+                "000002000022"
+            ],
+            "Inception": [
+                "000002000069"
+            ]
+        }
+    },
+    {
+        "q_id": "000002029",
+        "question": "Which places do I find interesting?",
+        "answer": [
+            "Berlin",
+            "Munich",
+            "Frankfurt",
+            "Hamburg"
+        ],
+        "segment_id": {
+            "Hamburg": [
+                "000002000009",
+                "000002000045",
+                "000002000055"
+            ],
+            "Frankfurt": [
+                "000002000039"
+            ],
+            "Berlin": [
+                "000002000058"
+            ],
+            "Munich": [
+                "000002000084"
+            ]
+        }
+    },
+    {
+        "q_id": "000002030",
+        "question": "which term can better describe my personality? please choose between A: Analytical or B: Unanalytical. Answer with the option's letter from the given choices directly.",
+        "answer": "A",
+        "segment_id": {
+            "Patient": [
+                "000002000012"
+            ],
+            "Introverted": [
+                "000002000052"
+            ],
+            "Analytical": [
+                "000002000080"
+            ],
+            "Curious": [
+                "000002000089"
+            ]
+        }
+    },
+    {
+        "q_id": "000002031",
+        "question": "which term can better describe my personality? please choose between A: Uninterested or B: Curious. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Patient": [
+                "000002000012"
+            ],
+            "Introverted": [
+                "000002000052"
+            ],
+            "Analytical": [
+                "000002000080"
+            ],
+            "Curious": [
+                "000002000089"
+            ]
+        }
+    },
+    {
+        "q_id": "000002032",
+        "question": "which term can better describe my personality? please choose between A: Extroverted or B: Introverted. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Patient": [
+                "000002000012"
+            ],
+            "Introverted": [
+                "000002000052"
+            ],
+            "Analytical": [
+                "000002000080"
+            ],
+            "Curious": [
+                "000002000089"
+            ]
+        }
+    },
+    {
+        "q_id": "000002033",
+        "question": "which term can better describe my personality? please choose between A: Impatient or B: Patient. Answer with the option's letter from the given choices directly.",
+        "answer": "B",
+        "segment_id": {
+            "Patient": [
+                "000002000012"
+            ],
+            "Introverted": [
+                "000002000052"
+            ],
+            "Analytical": [
+                "000002000080"
+            ],
+            "Curious": [
+                "000002000089"
+            ]
+        }
+    },
+    {
+        "q_id": "000002034",
+        "question": "which term can better describe my personality? Please choose 4 options from A: Impatient, B: Extroverted, C: Curious, D: Uninterested, E: Unanalytical, F: Analytical, G: Introverted, H: Patient. Answer with the option's letters from the given choices directly.",
+        "answer": [
+            "C",
+            "F",
+            "G",
+            "H"
+        ],
+        "segment_id": {
+            "Patient": [
+                "000002000012"
+            ],
+            "Introverted": [
+                "000002000052"
+            ],
+            "Analytical": [
+                "000002000080"
+            ],
+            "Curious": [
+                "000002000089"
+            ]
+        }
+    },
+    {
+        "q_id": "000002035",
+        "question": "How is Elena Fischer related to me?",
+        "answer": "neighbor",
+        "segment_id": {
+            "Elena Fischer": [
+                "000002000037"
+            ]
+        }
+    },
+    {
+        "q_id": "000002036",
+        "question": "What kind of work does Elena Fischer do?",
+        "answer": "Artist",
+        "segment_id": {
+            "Artist": [
+                "000002000073"
+            ]
+        }
+    },
+    {
+        "q_id": "000002037",
+        "question": "Who are Elena Fischer's favorite authors?",
+        "answer": [
+            "Virginia Woolf",
+            "Pablo Neruda",
+            "Haruki Murakami",
+            "Frida Kahlo",
+            "Sylvia Plath"
+        ],
+        "segment_id": {
+            "Pablo Neruda": [
+                "000002000014"
+            ],
+            "Frida Kahlo": [
+                "000002000038",
+                "000002000078",
+                "000002000082"
+            ],
+            "Virginia Woolf": [
+                "000002000054"
+            ],
+            "Sylvia Plath": [
+                "000002000063"
+            ],
+            "Haruki Murakami": [
+                "000002000072"
+            ]
+        }
+    },
+    {
+        "q_id": "000002038",
+        "question": "Who is my brother?",
+        "answer": "Martin Ziegler",
+        "segment_id": {
+            "Martin Ziegler": [
+                "000002000013"
+            ]
+        }
+    },
+    {
+        "q_id": "000002039",
+        "question": "Who is Martin Ziegler in relation to me?",
+        "answer": "brother",
+        "segment_id": {
+            "Martin Ziegler": [
+                "000002000013"
+            ]
+        }
+    },
+    {
+        "q_id": "000002040",
+        "question": "What kind of educational institution did my brother attend?",
+        "answer": "University",
+        "segment_id": {
+            "University": [
+                "000002000016"
+            ]
+        }
+    },
+    {
+        "q_id": "000002041",
+        "question": "Which activities are my brother's hobbies?",
+        "answer": "Writing travel stories",
+        "segment_id": {
+            "Writing travel stories": [
+                "000002000060"
+            ]
+        }
+    }
+]

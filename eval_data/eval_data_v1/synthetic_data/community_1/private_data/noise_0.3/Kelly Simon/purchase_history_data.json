@@ -1,0 +1,116 @@
+{
+    "Name": "Kelly Simon",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Nov/03/07:55 AM",
+            "purchase_history": [
+                {
+                    "title": "Yamaha P-125 88-Key Weighted Action Digital Piano",
+                    "description": "The Yamaha P-125 is a compact digital piano that combines incredible piano performance with a user-friendly minimalistic design. Easily portable and extremely accessible, the P-125 is always ready to perform whenever or wherever you are.",
+                    "brand": "Yamaha",
+                    "categories": [
+                        "Musical Instruments",
+                        "Keyboards & Pianos",
+                        "Digital Pianos"
+                    ]
+                },
+                {
+                    "title": "Alesis Melody 61 MKII - 61 Key Portable Keyboard",
+                    "description": "The Alesis Melody 61 MKII includes every accessory you need to get started and learn to play today. Features hundreds of onboard sounds and rhythms, sound system, and includes a stand and bench.",
+                    "brand": "Alesis",
+                    "categories": [
+                        "Musical Instruments",
+                        "Keyboards & Pianos",
+                        "Portable Keyboards"
+                    ]
+                },
+                {
+                    "title": "Yamaha FC5 Compact Sustain Pedal for Portable Keyboards",
+                    "description": "The Yamaha FC5 is used in the same manner the sustain pedal on an acoustic piano is used, helping you to learn and play the piano more effectively and with greater creativity.",
+                    "brand": "Yamaha",
+                    "categories": [
+                        "Musical Instruments",
+                        "Keyboard Accessories",
+                        "Sustain Pedals"
+                    ]
+                }
+            ],
+            "segment_id": "001000000083"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Nov/08/10:21 AM",
+            "purchase_history": [
+                {
+                    "title": "Heal Documentary DVD",
+                    "description": "Heal takes viewers on a scientific and spiritual journey, discovering that by changing one's perceptions, the human body can heal itself from any dis-ease.",
+                    "brand": "Directors: Kelly Noonan",
+                    "categories": [
+                        "Movies & TV",
+                        "Documentary",
+                        "Health & Wellness"
+                    ]
+                },
+                {
+                    "title": "Inner Healing Guided Meditation",
+                    "description": "This guided meditation CD is designed to help listeners access their body\u2019s natural ability to heal and transform through visualization and mindfulness.",
+                    "brand": "Healing Sounds",
+                    "categories": [
+                        "Music",
+                        "Meditation",
+                        "Guided Meditation"
+                    ]
+                },
+                {
+                    "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+                    "description": "Dr. Bessel van der Kolk's book shows how trauma affects the mind and body, offering new paths to healing, both through evidence-based treatments and self-care.",
+                    "brand": "Penguin Books",
+                    "categories": [
+                        "Books",
+                        "Health, Fitness & Dieting",
+                        "Mental Health"
+                    ]
+                }
+            ],
+            "segment_id": "001000000099"
+        },
+        {
+            "session": "purchase_history---session---3",
+            "time": "2024/Nov/13/08:16 PM",
+            "purchase_history": [
+                {
+                    "title": "Spotlight - Blu-ray + DVD + Digital HD",
+                    "description": "Winner of the Academy Award for Best Picture, Spotlight tells the riveting true story of the Pulitzer Prize-winning Boston Globe investigation that rocked the city and caused a crisis in one of the world\u2019s oldest and most trusted institutions.",
+                    "brand": "Universal Pictures Home Entertainment",
+                    "categories": [
+                        "Movies & TV",
+                        "Drama",
+                        "Award-Winning"
+                    ]
+                },
+                {
+                    "title": "All the President's Men: Scrutiny in Journalism",
+                    "description": "A detailed recount of the Watergate scandal, shedding light on journalistic integrity. Perfect for those interested in investigative journalism and political drama.",
+                    "brand": "Warner Bros.",
+                    "categories": [
+                        "Books",
+                        "Politics & Social Sciences",
+                        "Journalism"
+                    ]
+                },
+                {
+                    "title": "The Post Newspaper Theme Etched Journal Notebook",
+                    "description": "Capture your thoughts and inspired moments with this intricately designed journal featuring the newspaper theme. Ideal for movie enthusiasts and aspiring journalists.",
+                    "brand": "Journal Saga",
+                    "categories": [
+                        "Stationery & Office Supplies",
+                        "Notebooks & Writing Pads",
+                        "Inspirational"
+                    ]
+                }
+            ],
+            "segment_id": "001000000120"
+        }
+    ]
+}

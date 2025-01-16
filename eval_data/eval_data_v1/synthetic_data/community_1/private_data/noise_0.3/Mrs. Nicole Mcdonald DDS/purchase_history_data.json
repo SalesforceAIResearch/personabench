@@ -1,0 +1,80 @@
+{
+    "Name": "Mrs. Nicole Mcdonald DDS",
+    "Data": [
+        {
+            "session": "purchase_history---session---1",
+            "time": "2024/Nov/12/08:43 PM",
+            "purchase_history": [
+                {
+                    "title": "Schwinn Traxion Mountain Bike, Full Dual Suspension, 29-Inch Wheels",
+                    "description": "The Schwinn Traxion is a dual-suspension mountain bike designed to handle the roughest trails with wide knobby mountain tires and durable components, offering performance and durability on a budget.",
+                    "brand": "Schwinn",
+                    "categories": [
+                        "Sports & Outdoors",
+                        "Cycling",
+                        "Mountain Bikes"
+                    ]
+                },
+                {
+                    "title": "Fox Racing Speedframe Pro Mountain Bike Helmet",
+                    "description": "The Fox Racing Speedframe Pro helmet has a market leading feature set including MIPS\u2122, adjustable visor, and a 360-degree retention system.",
+                    "brand": "Fox Racing",
+                    "categories": [
+                        "Sports & Outdoors",
+                        "Cycling",
+                        "Bike Accessories"
+                    ]
+                },
+                {
+                    "title": "CamelBak Mule Hydration Pack",
+                    "description": "The CamelBak Mule is perfect for short rides, providing mountain bike enthusiasts with a 3-liter hydration capacity while also offering a pack for snacks and essentials. Stay hydrated without compromising your agility.",
+                    "brand": "CamelBak",
+                    "categories": [
+                        "Sports & Outdoors",
+                        "Cycling",
+                        "Hydration Packs"
+                    ]
+                }
+            ],
+            "segment_id": "001001000116"
+        },
+        {
+            "session": "purchase_history---session---2",
+            "time": "2024/Nov/13/08:34 PM",
+            "purchase_history": [
+                {
+                    "title": "Yamaha P71 88-Key Weighted Action Digital Piano With Sustain Pedal and Power Supply",
+                    "description": "The Yamaha P71 is an Amazon-exclusive model designed to be the perfect home digital piano for rehearsing, creating, or learning, featuring full-sized keys and high-quality built-in speakers.",
+                    "brand": "Yamaha",
+                    "categories": [
+                        "Musical Instruments",
+                        "Keyboards & MIDI",
+                        "Digital Pianos"
+                    ]
+                },
+                {
+                    "title": "Hal Leonard Adult Piano Adventures All-in-One Course: Book 1",
+                    "description": "The Adult Piano Adventures series by Hal Leonard offers a comprehensive, 'All-In-One' skill-building approach featuring piano lessons, music theory, and popular repertoire.",
+                    "brand": "Hal Leonard",
+                    "categories": [
+                        "Books",
+                        "Arts & Photography",
+                        "Music Instruction & Study",
+                        "Piano"
+                    ]
+                },
+                {
+                    "title": "Korg TM60BK Tuner Metronome",
+                    "description": "The Korg TM60 is a must-have double-duty accessory for learning musicians, combining accurate instrument tuning and a built-in metronome to help perfect your rhythm.",
+                    "brand": "Korg",
+                    "categories": [
+                        "Musical Instruments",
+                        "Instrument Accessories",
+                        "Tuners"
+                    ]
+                }
+            ],
+            "segment_id": "001001000119"
+        }
+    ]
+}
