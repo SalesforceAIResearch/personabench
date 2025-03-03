@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    📃 <a href="">Paper</a> |
+    📃 <a href="https://arxiv.org/html/2502.20616v1">Paper</a> |
     📚 <a href="">Data</a> |
     🌐 <a href="">Website</a>
 </div>
@@ -17,6 +17,10 @@
 
 - **This dataset was generated using GPT-4o and should not be used to develop models that compete with OpenAI.**
 - **This release is for research purposes only in support of an academic paper. Our models, datasets, and code are not specifically designed or evaluated for all downstream purposes. We strongly recommend users evaluate and address potential concerns related to accuracy, safety, and fairness before deploying this model. We encourage users to consider the common limitations of AI, comply with applicable laws, and leverage best practices when selecting use cases, particularly for high-risk scenarios where errors or misuse could significantly impact people’s lives, rights, or safety. For further guidance on use cases, refer to our [AUP](https://sfdc.co/AUP) and [AI AUP](https://sfdc.co/AI-Policy).**
+
+## License
+
+This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 ## Project Introduction
 ### 💡 Overview
@@ -107,3 +111,16 @@ More detailed evaluation:
 <div align="center">
 <img src="figures/ablation.png", style="width:90%;">
 </div>
+
+## Citation
+```text
+@misc{tan2025personabenchevaluatingaimodels,
+      title={PersonaBench: Evaluating AI Models on Understanding Personal Information through Accessing (Synthetic) Private User Data}, 
+      author={Juntao Tan and Liangwei Yang and Zuxin Liu and Zhiwei Liu and Rithesh Murthy and Tulika Manoj Awalgaonkar and Jianguo Zhang and Weiran Yao and Ming Zhu and Shirley Kokane and Silvio Savarese and Huan Wang and Caiming Xiong and Shelby Heinecke},
+      year={2025},
+      eprint={2502.20616},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.20616}, 
+}
+```
