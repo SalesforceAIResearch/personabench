@@ -299,19 +299,29 @@ def calculate_radar_values(model_data, noise_min_f1, noise_max_f1):
 
 def extract_radar_data(data, min_noise, max_noise):
     raw_data = {}
+    noise_min_f1 = {}
+    noise_max_f1 = {}
+    noise_min_models = {}
     for entry in data:
         noise = entry["Noise"]
         models = entry["Statistics"]["end2end_eval"]
         if noise == min_noise:
             noise_min_f1 = {model: results["Overall"]["ave_f1"] for model, results in models.items() if "gt" not in model.lower()}
+            noise_min_models = models
         elif noise == max_noise:
             noise_max_f1 = {model: results["Overall"]["ave_f1"] for model, results in models.items() if "gt" not in model.lower()}
-    
+
+    # Single-noise runs (for example only 0.0) should still support radar plotting.
+    if not noise_max_f1:
+        noise_max_f1 = noise_min_f1
+
     for model_name in noise_min_f1.keys():
         if "gt" in model_name.lower():
             continue
+        if model_name not in noise_max_f1 or model_name not in noise_min_models:
+            continue
         raw_data[model_name] = calculate_radar_values(
-            models[model_name], noise_min_f1[model_name], noise_max_f1[model_name]
+            noise_min_models[model_name], noise_min_f1[model_name], noise_max_f1[model_name]
         )
     return raw_data
 
